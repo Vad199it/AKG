@@ -1,0 +1,1627 @@
+﻿Log file open, 10/19/19 23:19:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.083877
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.10.19-20.19.32:519][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.19-20.19.32:519][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.19-20.19.32:520][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.19-20.19.32:520][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.19-20.19.32:520][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.19-20.19.32:520][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.19-20.19.32:520][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.10.19-20.19.32:520][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.10.19-20.19.32:522][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.19-20.19.32:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.19-20.19.32:523][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.19-20.19.32:523][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.19-20.19.32:523][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.19-20.19.32:526][  0]LogHAL: Display: Platform has ~ 8 GB [8433528832 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.19-20.19.32:526][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.19-20.19.32:526][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.19-20.19.32:526][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.19-20.19.32:527][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.19-20.19.32:528][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.19-20.19.32:528][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.19-20.19.32:528][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MA/Desktop/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.10.19-20.19.32:528][  0]LogInit: Computer: CO-OT-P01
+[2019.10.19-20.19.32:528][  0]LogInit: User: MA
+[2019.10.19-20.19.32:528][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.10.19-20.19.32:528][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.19-20.19.32:528][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.10.19-20.19.32:528][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.19-20.19.32:528][  0]LogMemory: Process Physical Memory: 100.00 MB used, 100.01 MB peak
+[2019.10.19-20.19.32:528][  0]LogMemory: Process Virtual Memory: 87.66 MB used, 87.66 MB peak
+[2019.10.19-20.19.32:528][  0]LogMemory: Physical Memory: 3153.27 MB used,  4889.57 MB free, 8042.84 MB total
+[2019.10.19-20.19.32:528][  0]LogMemory: Virtual Memory: 4639.42 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.10.19-20.19.32:532][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.19-20.19.32:559][  0]LogInit: Using OS detected language (ru-RU).
+[2019.10.19-20.19.32:559][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.10.19-20.19.32:559][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.10.19-20.19.32:560][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.10.19-20.19.32:560][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.10.19-20.19.32:560][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.10.19-20.19.32:560][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.10.19-20.19.32:560][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.10.19-20.19.32:560][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.10.19-20.19.32:561][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.10.19-20.19.32:562][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.19-20.19.32:618][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.19-20.19.32:618][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.19-20.19.32:874][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.19-20.19.32:874][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.19-20.19.32:945][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.10.19-20.19.32:945][  0]LogD3D11RHI:       128/0/4021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.19-20.19.32:947][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.19-20.19.32:948][  0]LogD3D11RHI:       0/0/4021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.19-20.19.32:948][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.19-20.19.32:953][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.19-20.19.32:953][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.19-20.19.32:954][  0]LogWindows: EnumDisplayDevices:
+[2019.10.19-20.19.32:954][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.10.19-20.19.32:954][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.10.19-20.19.32:954][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.10.19-20.19.32:955][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.10.19-20.19.32:955][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.10.19-20.19.32:955][  0]LogD3D11RHI:   Driver Version: 26.20.100.6913 (internal:26.20.100.6913, unified:26.20.100.6913)
+[2019.10.19-20.19.32:955][  0]LogD3D11RHI:      Driver Date: 6-4-2019
+[2019.10.19-20.19.32:955][  0]LogRHI: Texture pool is 1497 MB (70% of 2138 MB)
+[2019.10.19-20.19.33:069][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.10.19-20.19.33:069][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.19-20.19.33:076][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.10.19-20.19.33:487][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.19-20.19.33:497][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.19-20.19.33:507][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.19-20.19.33:518][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.19-20.19.33:528][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.19-20.19.33:538][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.19-20.19.33:549][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.19-20.19.33:559][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.19-20.19.33:564][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.19-20.19.33:603][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.19-20.19.33:603][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.19-20.19.33:603][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.19-20.19.33:603][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.19-20.19.33:603][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.19-20.19.33:603][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.19-20.19.33:603][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.19-20.19.33:603][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.19-20.19.33:603][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.19-20.19.33:603][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.19-20.19.33:603][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.19-20.19.33:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.19-20.19.33:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.19-20.19.33:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.19-20.19.33:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.19-20.19.33:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.19-20.19.33:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.19-20.19.33:604][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.19-20.19.33:606][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.19-20.19.33:627][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.19-20.19.33:627][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.19-20.19.33:644][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.19-20.19.33:644][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.19-20.19.33:652][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.19-20.19.33:661][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.19-20.19.33:669][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.19-20.19.33:678][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.19-20.19.33:706][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.19-20.19.33:706][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.19-20.19.33:706][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.19-20.19.33:717][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.19-20.19.33:785][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../Users/MA/Desktop/MyGame/Intermediate/Shaders/WorkingDirectory/14360/).
+[2019.10.19-20.19.33:785][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MA/AppData/Local/Temp/UnrealShaderWorkingDir/92035DB048AE493B12381EBE98CF99EE/'.
+[2019.10.19-20.19.33:788][  0]LogXGEController: Cleaning working directory: C:/Users/MA/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.19-20.19.33:788][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.19-20.19.33:788][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.19-20.19.33:788][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.19-20.19.34:668][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.19-20.19.34:727][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.19-20.19.34:727][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.19-20.19.34:727][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MA/Desktop/MyGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.19-20.19.34:727][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.19-20.19.34:727][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MA/Desktop/MyGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.19-20.19.34:727][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.19-20.19.34:740][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.19-20.19.34:742][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.10.19-20.19.34:744][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.19-20.19.34:744][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.19-20.19.34:744][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.19-20.19.34:768][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.19-20.19.34:771][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.19-20.19.34:771][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.19-20.19.34:834][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2019.10.19-20.19.35:166][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.19-20.19.35:332][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.19-20.19.35:332][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.19-20.19.35:332][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.19-20.19.35:332][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.19-20.19.35:332][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.19-20.19.35:343][  0]LogNetVersion: MyGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 4240746401)
+[2019.10.19-20.19.35:810][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.060909 seconds
+[2019.10.19-20.19.35:818][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.19-20.19.35:818][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.19-20.19.35:818][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.19-20.19.36:880][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.19-20.19.36:883][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.19-20.19.36:944][  0]SourceControl: Source control is disabled
+[2019.10.19-20.19.36:944][  0]SourceControl: Source control is disabled
+[2019.10.19-20.19.36:946][  0]SourceControl: Source control is disabled
+[2019.10.19-20.19.36:947][  0]SourceControl: Source control is disabled
+[2019.10.19-20.19.37:157][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.19-20.19.37:245][  0]LogOcInput: OculusInput pre-init called
+[2019.10.19-20.19.37:254][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.19-20.19.37:254][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.19-20.19.39:891][  0]LogEngine: Initializing Engine...
+[2019.10.19-20.19.39:892][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.19-20.19.39:893][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.19-20.19.40:148][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.19-20.19.40:172][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.19-20.19.40:182][  0]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.19-20.19.40:206][  0]LogInit: FAudioDevice initialized.
+[2019.10.19-20.19.40:206][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.19-20.19.40:278][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.19-20.19.40:281][  0]LogInit: Texture streaming: Enabled
+[2019.10.19-20.19.40:302][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.19-20.19.40:363][  0]LogInit: Transaction tracking system initialized
+[2019.10.19-20.19.40:400][  0]BlueprintLog: New page: Editor Load
+[2019.10.19-20.19.40:510][  0]LocalizationService: Localization service is disabled
+[2019.10.19-20.19.40:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/MyGame/Content/' took 0.02s
+[2019.10.19-20.19.40:828][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.19-20.19.40:829][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.19-20.19.42:727][  0]SourceControl: Source control is disabled
+[2019.10.19-20.19.42:728][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MA/Desktop/MyGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.19-20.19.42:728][  0]LightingResults: New page: Lighting Build
+[2019.10.19-20.19.42:731][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.19.42:731][  0]MapCheck: New page: Map Check
+[2019.10.19-20.19.42:731][  0]LightingResults: New page: Lighting Build
+[2019.10.19-20.19.42:757][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.10.19-20.19.43:643][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.19-20.19.43:904][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.19-20.19.44:098][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.10.19-20.19.44:098][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.19-20.19.44:098][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,209ms to complete.
+[2019.10.19-20.19.44:098][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.371
+[2019.10.19-20.19.44:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.19.44:258][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.19.44:266][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.19.44:275][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.19.44:290][  0]LogCollectionManager: Loaded 0 collections in 0.002054 seconds
+[2019.10.19-20.19.44:296][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/MyGame/Saved/Collections/' took 0.00s
+[2019.10.19-20.19.44:296][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/MyGame/Content/Developers/MA/Collections/' took 0.00s
+[2019.10.19-20.19.44:297][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/MyGame/Content/Collections/' took 0.00s
+[2019.10.19-20.19.44:297][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.10.19-20.19.44:306][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 3045 classes and 765 folders.
+[2019.10.19-20.19.44:315][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.19-20.19.44:363][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.19-20.19.44:450][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.19-20.19.44:458][  0]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.19-20.19.44:462][  0]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.19-20.19.44:536][  0]LogRenderer: Reallocating scene render targets to support 896x564 Format 10 NumSamples 1 (Frame:1).
+[2019.10.19-20.19.44:674][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.19-20.19.44:789][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.19-20.19.44:789][  0]LogLoad: (Engine Initialization) Total time: 13.60 seconds
+[2019.10.19-20.19.44:789][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.19-20.19.45:206][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.19-20.19.45:474][  1]LogAssetRegistry: Asset discovery search completed in 10.6415 seconds
+[2019.10.19-20.19.45:480][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.10.19-20.19.45:480][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2019.10.19-20.19.46:093][  5]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.19-20.19.49:126][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.19.49:328][108]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.19-20.19.49:356][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.19.49:356][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.19-20.19.49:357][108]PIE: New page: PIE session: Minimal_Default (20 окт. 2019 г., 2:19:49)
+[2019.10.19-20.19.49:359][108]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.19-20.19.49:361][108]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.19-20.19.49:514][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151676s)
+[2019.10.19-20.19.49:515][108]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.19-20.19.49:515][108]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2019.10.19-20.19.49:515][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.153434s)
+[2019.10.19-20.19.49:553][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.10.19-20.19.49:559][108]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.19-20.19.49:580][108]LogInit: FAudioDevice initialized.
+[2019.10.19-20.19.49:598][108]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.19-20.19.49:626][108]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.10.19-23.19.49
+[2019.10.19-20.19.49:634][108]LogWorld: Bringing up level for play took: 0.034103
+[2019.10.19-20.19.49:634][108]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.10.19-20.19.49:643][108]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.19-20.19.49:644][108]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.49:644][108]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.49:644][108]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.49:644][108]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.49:648][108]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,381
+[2019.10.19-20.19.49:649][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.19.50:794][118]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.50:902][119]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.51:000][120]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.51:095][121]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.51:195][122]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.51:301][123]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.51:408][124]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.51:509][125]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.51:611][126]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.51:716][127]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.51:819][128]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.51:923][129]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.52:024][130]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.52:128][131]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.52:232][132]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.52:329][133]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.52:443][134]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.52:544][135]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.52:663][136]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.52:763][137]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.52:866][138]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.52:974][139]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.53:072][140]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.53:181][141]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.53:292][142]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.53:402][143]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.53:501][144]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.53:604][145]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.53:706][146]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.53:807][147]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.53:903][148]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.54:009][149]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.54:119][150]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.54:216][151]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.54:320][152]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.54:421][153]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.55:809][167]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.56:790][177]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.59:131][201]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.59:224][202]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.59:320][203]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.19.59:417][204]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.04:546][255]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.04:650][256]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.04:768][257]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.04:889][258]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.04:998][259]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.05:115][260]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.05:232][261]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.05:353][262]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.05:471][263]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.05:585][264]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.05:713][265]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.05:819][266]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.05:944][267]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.06:065][268]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.06:185][269]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.06:311][270]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.06:434][271]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.06:532][272]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.08:612][292]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.08:697][293]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.08:782][294]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.08:864][295]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.08:948][296]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.09:037][297]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.09:127][298]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.09:221][299]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.09:303][300]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.09:395][301]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.09:483][302]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.09:572][303]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.09:657][304]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.09:748][305]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.09:839][306]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.09:924][307]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.10:012][308]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.10:105][309]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.10:188][310]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.10:282][311]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.11:226][322]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.11:312][323]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.11:404][324]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.11:490][325]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.11:575][326]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.11:657][327]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.11:747][328]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.11:838][329]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.11:921][330]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.12:623][338]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.12:704][339]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.12:788][340]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.13:381][347]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.13:462][348]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.13:545][349]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.13:627][350]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.13:712][351]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.14:380][359]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.14:462][360]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.14:548][361]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.14:629][362]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.14:798][364]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.14:881][365]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.14:964][366]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.15:052][367]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.15:136][368]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.15:226][369]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.15:316][370]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.15:407][371]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.15:499][372]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.15:601][373]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.15:704][374]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.15:791][375]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.15:879][376]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.16:508][382]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.16:606][383]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.16:706][384]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.16:809][385]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.16:911][386]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.17:008][387]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.17:122][388]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.17:221][389]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.17:320][390]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.17:424][391]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.17:531][392]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.20:921][422]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.21:023][423]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.21:120][424]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.21:220][425]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.21:319][426]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.21:417][427]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.21:513][428]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.21:614][429]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.21:713][430]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.21:817][431]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.21:918][432]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.22:014][433]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.22:115][434]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.22:212][435]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.22:309][436]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.22:406][437]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.22:503][438]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.22:603][439]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.22:706][440]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.22:801][441]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.22:899][442]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.24:809][461]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.25:793][471]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.25:890][472]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.25:989][473]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.26:087][474]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.26:877][482]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.28:412][497]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.28:514][498]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.28:627][499]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.29:168][504]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.29:268][505]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.29:377][506]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.29:492][507]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.30:210][514]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.30:902][521]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.30:995][522]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.31:092][523]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.31:288][525]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.34:766][564]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.35:523][573]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.36:625][586]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.39:726][623]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.39:806][624]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.39:892][625]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.39:977][626]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.40:066][627]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.40:150][628]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.40:234][629]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.40:317][630]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.40:404][631]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.40:494][632]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.40:579][633]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.40:671][634]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.40:757][635]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.44:695][676]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.44:792][677]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.44:887][678]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.44:988][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.45:086][680]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.45:192][681]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.45:300][682]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.45:419][683]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.45:526][684]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.45:625][685]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.45:826][687]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.45:923][688]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.46:021][689]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.46:120][690]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.46:218][691]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.46:327][692]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.46:430][693]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.46:535][694]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.46:638][695]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.46:737][696]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.46:840][697]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.46:939][698]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.49:034][719]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.49:139][720]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.49:240][721]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.49:340][722]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.49:442][723]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.49:543][724]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.49:742][726]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.49:839][727]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.49:933][728]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.50:032][729]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.50:137][730]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.50:746][736]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.50:840][737]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.50:934][738]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.51:040][739]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.51:142][740]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.52:533][754]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.52:630][755]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.52:727][756]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.56:096][790]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.56:190][791]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.56:295][792]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.56:391][793]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.56:488][794]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.56:591][795]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.56:706][796]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.56:804][797]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.56:899][798]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.56:994][799]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.57:105][800]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.57:201][801]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.57:306][802]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.57:412][803]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.20.57:507][804]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.21.06:206][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.21.07:362][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.21.07:362][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.21.07:363][922]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.19-20.21.07:364][922]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.21.07:462][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.19-20.21.07:462][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.21.07:498][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.21.07:506][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.10.19-20.21.07:512][923]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.19-20.21.09:142][954]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.21.09:142][954]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.21.09:142][954]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.21.09:143][954]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.21.27:408][219]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPawn.MyPawn
+[2019.10.19-20.21.27:694][219]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.10.19-20.21.28:708][219]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.21.28:708][219]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.21.28:708][219]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.21.28:735][219]LogSlate: Took 0.000512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.19-20.21.29:014][220]LogSlate: Took 0.001517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.19-20.21.34:650][536]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.21.49:549][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.21.59:069][951]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MuffinWar/Characters/Muffin/Blueprints/BP_Muffin.BP_Muffin
+[2019.10.19-20.22.10:060][565]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.22.16:505][661]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MuffinWar/Characters/Muffin/AI/AIC_Muffin.AIC_Muffin
+[2019.10.19-20.22.26:283][209]LogEditorTransaction: Undo Delete current selection
+[2019.10.19-20.22.50:651][660]BlueprintLog: New page: Compile AIC_Muffin
+[2019.10.19-20.22.50:903][660]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.10.19-20.22.51:490][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MuffinWar/Characters/Muffin/AI/AIC_Muffin" FILE="../../../../../../Users/MA/Desktop/MyGame/Content/MuffinWar/Characters/Muffin/AI/AIC_Muffin.uasset" SILENT=true
+[2019.10.19-20.22.51:559][691]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/MyGame/Saved/AIC_Muffin2470FB8D4B8FC1311186D4AAB84CAA5A.tmp' to '../../../../../../Users/MA/Desktop/MyGame/Content/MuffinWar/Characters/Muffin/AI/AIC_Muffin.uasset'
+[2019.10.19-20.22.53:228][748]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.19-20.22.53:276][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.22.53:276][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.19-20.22.53:276][748]PIE: New page: PIE session: Minimal_Default (20 окт. 2019 г., 2:22:53)
+[2019.10.19-20.22.53:277][748]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.19-20.22.53:428][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152014s)
+[2019.10.19-20.22.53:430][748]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.19-20.22.53:430][748]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2019.10.19-20.22.53:430][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.153471s)
+[2019.10.19-20.22.53:466][748]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.10.19-20.22.53:471][748]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.19-20.22.53:487][748]LogInit: FAudioDevice initialized.
+[2019.10.19-20.22.53:498][748]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.19-20.22.53:520][748]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.10.19-23.22.53
+[2019.10.19-20.22.53:525][748]LogWorld: Bringing up level for play took: 0.026700
+[2019.10.19-20.22.53:525][748]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.10.19-20.22.53:528][748]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.53:528][748]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.53:528][748]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.53:529][748]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.53:534][748]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,267
+[2019.10.19-20.22.53:535][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.22.54:728][758]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.54:827][759]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.54:924][760]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.55:021][761]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.55:120][762]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.55:233][763]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.55:340][764]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.55:447][765]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.55:548][766]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.55:652][767]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.55:762][768]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.55:860][769]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.55:963][770]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.56:070][771]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.56:184][772]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.56:297][773]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.56:402][774]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.56:517][775]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.56:618][776]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.56:720][777]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.56:824][778]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.56:930][779]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.57:040][780]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.57:142][781]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.57:246][782]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.57:352][783]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.57:458][784]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.57:563][785]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.57:660][786]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.57:764][787]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.57:860][788]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.57:961][789]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.58:064][790]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.58:162][791]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.58:268][792]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.58:366][793]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.58:463][794]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.22.58:567][795]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.00:384][813]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.02:021][830]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.02:693][837]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.02:788][838]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.02:886][839]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.06:539][877]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.06:631][878]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.06:729][879]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.08:315][895]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.08:427][896]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.08:533][897]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.13:374][950]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.13:454][951]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.13:535][952]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.13:619][953]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.13:701][954]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.13:786][955]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.13:871][956]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.13:959][957]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.14:129][959]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.14:210][960]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.14:294][961]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.14:378][962]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.16:179][983]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.16:872][991]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.16:959][992]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.17:049][993]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.17:141][994]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.18:280][  7]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.18:365][  8]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.18:452][  9]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.18:540][ 10]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.18:629][ 11]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.18:715][ 12]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.18:801][ 13]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.18:887][ 14]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.18:976][ 15]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.19:068][ 16]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.19:160][ 17]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.19:250][ 18]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.20:029][ 26]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.20:127][ 27]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.20:225][ 28]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.20:324][ 29]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.20:427][ 30]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.20:528][ 31]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.22:609][ 51]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.22:715][ 52]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.22:816][ 53]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.23:238][ 57]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.24:573][ 70]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.24:679][ 71]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.24:775][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.24:877][ 73]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.24:981][ 74]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.25:104][ 75]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.25:201][ 76]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.25:312][ 77]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.25:425][ 78]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.25:531][ 79]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.27:623][ 98]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.27:740][ 99]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.27:846][100]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.30:264][124]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.30:360][125]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.30:458][126]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.30:558][127]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.30:655][128]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.30:760][129]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.30:862][130]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.30:966][131]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.31:070][132]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.31:170][133]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.31:270][134]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.31:379][135]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.31:474][136]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.31:575][137]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.33:411][155]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.37:148][194]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.37:233][195]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.37:320][196]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.37:403][197]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.37:487][198]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.37:584][199]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.37:679][200]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.37:918][201]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.37:944][202]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.38:013][203]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.38:108][204]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.38:204][205]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.38:298][206]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.38:393][207]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.38:488][208]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.38:583][209]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.38:680][210]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.38:764][211]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.38:847][212]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.38:929][213]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.39:011][214]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.39:100][215]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.40:644][233]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.40:732][234]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.40:820][235]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.40:901][236]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.40:990][237]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.41:079][238]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.41:914][248]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.41:996][249]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.42:082][250]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.42:422][254]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.42:505][255]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.42:588][256]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.42:675][257]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.42:756][258]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.42:842][259]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.42:930][260]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.43:016][261]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.43:096][262]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.43:187][263]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.43:273][264]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.43:365][265]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.44:304][276]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.44:388][277]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.44:474][278]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.44:563][279]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.44:822][282]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.44:910][283]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.44:997][284]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.45:083][285]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.45:168][286]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.45:254][287]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.45:879][293]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.45:979][294]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.46:081][295]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.46:178][296]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.46:278][297]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.46:382][298]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.46:784][302]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.46:884][303]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.46:987][304]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.47:084][305]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.47:190][306]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.47:296][307]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.47:401][308]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.47:514][309]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.47:621][310]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.47:719][311]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.47:920][313]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.48:018][314]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.48:121][315]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.48:220][316]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.48:321][317]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.48:429][318]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.48:542][319]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.48:653][320]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.48:754][321]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.49:158][325]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.49:256][326]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.49:356][327]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.49:564][329]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.49:663][330]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.49:766][331]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.49:865][332]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.49:970][333]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.50:083][334]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.50:194][335]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.51:994][353]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.52:086][354]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.52:185][355]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.23.53:430][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-20.23.54:533][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.23.54:534][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.23.54:534][383]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.19-20.23.54:535][383]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.23.54:631][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.19-20.23.54:631][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.23.54:677][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.23.54:685][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.10.19-20.23.54:693][384]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.19-20.24.04:067][922]BlueprintLog: New page: Compile AIC_Muffin
+[2019.10.19-20.24.04:308][922]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.10.19-20.24.05:035][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MuffinWar/Characters/Muffin/AI/AIC_Muffin" FILE="../../../../../../Users/MA/Desktop/MyGame/Content/MuffinWar/Characters/Muffin/AI/AIC_Muffin.uasset" SILENT=true
+[2019.10.19-20.24.05:109][962]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/MyGame/Saved/AIC_MuffinC2728B244A4E8A2872F9D6902F11C760.tmp' to '../../../../../../Users/MA/Desktop/MyGame/Content/MuffinWar/Characters/Muffin/AI/AIC_Muffin.uasset'
+[2019.10.19-20.24.07:494][ 65]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.19-20.24.07:518][ 65]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.24.07:519][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.19-20.24.07:519][ 65]PIE: New page: PIE session: Minimal_Default (20 окт. 2019 г., 2:24:07)
+[2019.10.19-20.24.07:519][ 65]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.19-20.24.07:672][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153793s)
+[2019.10.19-20.24.07:673][ 65]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.19-20.24.07:673][ 65]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2019.10.19-20.24.07:673][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.154981s)
+[2019.10.19-20.24.07:710][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.10.19-20.24.07:713][ 65]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.19-20.24.07:730][ 65]LogInit: FAudioDevice initialized.
+[2019.10.19-20.24.07:740][ 65]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.19-20.24.07:766][ 65]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.10.19-23.24.07
+[2019.10.19-20.24.07:771][ 65]LogWorld: Bringing up level for play took: 0.030708
+[2019.10.19-20.24.07:771][ 65]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.19-20.24.07:773][ 65]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.07:773][ 65]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.07:773][ 65]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.07:774][ 65]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.07:778][ 65]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,51
+[2019.10.19-20.24.07:778][ 65]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.24.08:769][ 74]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.08:870][ 75]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.08:968][ 76]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.09:073][ 77]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.09:180][ 78]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.09:288][ 79]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.09:401][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.09:495][ 81]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.09:598][ 82]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.09:698][ 83]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.09:805][ 84]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.09:918][ 85]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.10:024][ 86]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.10:131][ 87]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.10:238][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.10:342][ 89]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.10:452][ 90]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.10:556][ 91]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.10:662][ 92]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.10:772][ 93]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.10:884][ 94]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.10:991][ 95]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.11:087][ 96]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.11:802][103]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.11:898][104]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.12:001][105]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.12:101][106]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.12:202][107]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.12:322][108]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.12:426][109]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.12:553][110]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.12:659][111]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.14:250][126]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.14:342][127]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.14:440][128]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.14:546][129]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.14:658][130]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.14:753][131]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.14:851][132]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.14:959][133]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.15:066][134]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.15:168][135]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.15:284][136]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.15:380][137]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.15:494][138]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.19:745][181]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.19:842][182]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.19:945][183]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.20:150][185]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.20:248][186]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.20:359][187]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.20:970][193]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.21:068][194]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.21:170][195]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.21:274][196]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.21:390][197]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.21:504][198]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.21:609][199]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.21:713][200]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.21:829][201]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.21:943][202]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.22:861][211]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.22:958][212]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.23:054][213]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.23:441][217]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.23:535][218]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.23:631][219]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.23:728][220]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.24:407][227]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.24:504][228]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.24:599][229]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.26:546][251]LogScript: Warning: Accessed None trying to read property CallFunc_GetAIController_ReturnValue
+	MyPawn_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MyPawn_C_0
+	Function /Game/MuffinWar/Characters/Muffin/Blueprints/BP_Muffin.BP_Muffin_C:ExecuteUbergraph_BP_Muffin:00A2
+[2019.10.19-20.24.26:547][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAIController_ReturnValue". Blueprint:  BP_Muffin Function:  Execute Ubergraph BP Muffin Graph:  EventGraph Node:  Stop Logic
+[2019.10.19-20.24.26:547][251]LogScript: Warning: Accessed None
+	MyPawn_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MyPawn_C_0
+	Function /Game/MuffinWar/Characters/Muffin/Blueprints/BP_Muffin.BP_Muffin_C:ExecuteUbergraph_BP_Muffin:00B7
+[2019.10.19-20.24.26:547][251]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Muffin Function:  Execute Ubergraph BP Muffin Graph:  EventGraph Node:  Stop Logic
+[2019.10.19-20.24.28:670][305]LogNet: Browse: /Game/Menu/MyMenu
+[2019.10.19-20.24.28:673][305]LogLoad: LoadMap: /Game/Menu/MyMenu
+[2019.10.19-20.24.28:673][305]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.19-20.24.28:677][305]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.28:787][305]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.10.19-20.24.28:866][305]LogAIModule: Creating AISystem for world MyMenu
+[2019.10.19-20.24.28:866][305]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.19-20.24.28:875][305]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MyMenu.MyMenu up for play (max tick rate 60) at 2019.10.19-23.24.28
+[2019.10.19-20.24.28:875][305]LogWorld: Bringing up level for play took: 0.007710
+[2019.10.19-20.24.28:876][305]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.28:876][305]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.28:876][305]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(MyPawn_C_0)
+[2019.10.19-20.24.28:880][305]LogLoad: Took 0.207066 seconds to LoadMap(/Game/Menu/MyMenu)
+[2019.10.19-20.24.29:916][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-20.24.30:113][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.24.30:114][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.24.30:115][343]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MyMenu
+[2019.10.19-20.24.30:116][343]LogWorld: UWorld::CleanupWorld for MyMenu, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.30:157][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.19-20.24.30:158][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.19-20.24.30:204][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.19-20.24.30:209][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.10.19-20.24.30:250][344]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.19-20.24.32:169][402]LogSlate: Window 'Message Log' being destroyed
+[2019.10.19-20.24.32:200][402]LogSlate: Window 'Message Log' being destroyed
+[2019.10.19-20.24.35:079][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.10.19-20.24.37:074][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.10.19-20.24.37:168][554]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.37:208][554]LogSlate: Window 'MyGame - Unreal Editor' being destroyed
+[2019.10.19-20.24.37:208][554]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.19-20.24.37:435][555]Cmd: QUIT_EDITOR
+[2019.10.19-20.24.38:390][555]LogExit: Preparing to exit.
+[2019.10.19-20.24.39:886][555]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:907][555]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:915][555]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:923][555]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:929][555]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:938][555]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:944][555]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:951][555]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:958][555]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:964][555]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:971][555]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:980][555]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.39:988][555]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.40:112][555]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.19-20.24.40:128][555]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.19-20.24.40:128][555]LogExit: Editor shut down
+[2019.10.19-20.24.40:129][555]LogExit: Transaction tracking system shut down
+[2019.10.19-20.24.42:837][555]LogExit: Object subsystem successfully closed.
+[2019.10.19-20.24.42:864][555]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.19-20.24.42:995][555]LogModuleManager: Shutting down and abandoning module BlueprintGraph (734)
+[2019.10.19-20.24.42:995][555]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (732)
+[2019.10.19-20.24.42:995][555]LogModuleManager: Shutting down and abandoning module Voice (730)
+[2019.10.19-20.24.42:995][555]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (728)
+[2019.10.19-20.24.42:996][555]LogModuleManager: Shutting down and abandoning module AddContentDialog (726)
+[2019.10.19-20.24.42:996][555]LogModuleManager: Shutting down and abandoning module WidgetCarousel (725)
+[2019.10.19-20.24.42:996][555]LogModuleManager: Shutting down and abandoning module EditorWidgets (722)
+[2019.10.19-20.24.42:996][555]LogModuleManager: Shutting down and abandoning module CollectionManager (720)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module SceneOutliner (718)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module StatsViewer (716)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (714)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module FoliageEdit (712)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module LandscapeEditor (710)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module MeshPaintMode (708)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (706)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module ActorPickerMode (704)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module GeometryMode (702)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module TextureAlignMode (700)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module BspMode (698)
+[2019.10.19-20.24.42:997][555]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (696)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (694)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module AutomationWorker (692)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (690)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (688)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (686)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module OculusMR (684)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (682)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (680)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (678)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module PlacementMode (677)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module MaterialEditor (676)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (672)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (670)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (668)
+[2019.10.19-20.24.42:998][555]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (666)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (664)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module WebMMedia (662)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (660)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (658)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module SequenceRecorder (657)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (654)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (652)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (650)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (648)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (646)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (644)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (642)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (640)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (638)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (636)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (634)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module CharacterAI (632)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module SmartSnapping (630)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module SessionServices (628)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module MeshPaint (626)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module ViewportSnapping (624)
+[2019.10.19-20.24.42:999][555]LogModuleManager: Shutting down and abandoning module ViewportInteraction (622)
+[2019.10.19-20.24.43:000][555]LogModuleManager: Shutting down and abandoning module ClothPainter (620)
+[2019.10.19-20.24.43:000][555]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (619)
+[2019.10.19-20.24.43:000][555]LogModuleManager: Shutting down and abandoning module LogVisualizer (616)
+[2019.10.19-20.24.43:000][555]LogModuleManager: Shutting down and abandoning module IntroTutorials (614)
+[2019.10.19-20.24.43:000][555]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (613)
+[2019.10.19-20.24.43:000][555]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (610)
+[2019.10.19-20.24.43:000][555]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (608)
+[2019.10.19-20.24.43:000][555]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (606)
+[2019.10.19-20.24.43:000][555]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (604)
+[2019.10.19-20.24.43:000][555]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (603)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (600)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (598)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (596)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (594)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (592)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module InputBindingEditor (590)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module MergeActors (588)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (586)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module LocalizationService (585)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module HardwareTargeting (582)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (580)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module UndoHistory (578)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module XmlParser (576)
+[2019.10.19-20.24.43:745][555]LogModuleManager: Shutting down and abandoning module Blutility (574)
+[2019.10.19-20.24.43:746][555]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (572)
+[2019.10.19-20.24.43:746][555]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (571)
+[2019.10.19-20.24.43:746][555]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (568)
+[2019.10.19-20.24.43:746][555]LogModuleManager: Shutting down and abandoning module SettingsEditor (566)
+[2019.10.19-20.24.43:746][555]LogModuleManager: Shutting down and abandoning module ProjectLauncher (564)
+[2019.10.19-20.24.43:746][555]LogModuleManager: Shutting down and abandoning module SessionFrontend (562)
+[2019.10.19-20.24.43:746][555]LogModuleManager: Shutting down and abandoning module ProfilerClient (560)
+[2019.10.19-20.24.43:746][555]LogModuleManager: Shutting down and abandoning module DeviceManager (558)
+[2019.10.19-20.24.43:746][555]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (557)
+[2019.10.19-20.24.43:790][555]LogModuleManager: Shutting down and abandoning module AutomationController (554)
+[2019.10.19-20.24.43:791][555]LogModuleManager: Shutting down and abandoning module AutomationWindow (552)
+[2019.10.19-20.24.43:791][555]LogModuleManager: Shutting down and abandoning module Layers (550)
+[2019.10.19-20.24.43:791][555]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (548)
+[2019.10.19-20.24.43:791][555]LogModuleManager: Shutting down and abandoning module DetailCustomizations (546)
+[2019.10.19-20.24.43:792][555]LogModuleManager: Shutting down and abandoning module PackagesDialog (544)
+[2019.10.19-20.24.43:793][555]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (542)
+[2019.10.19-20.24.43:794][555]LogModuleManager: Shutting down and abandoning module Persona (540)
+[2019.10.19-20.24.43:794][555]LogModuleManager: Shutting down and abandoning module AnimGraph (539)
+[2019.10.19-20.24.43:794][555]LogModuleManager: Shutting down and abandoning module Kismet (536)
+[2019.10.19-20.24.43:862][555]LogModuleManager: Shutting down and abandoning module KismetWidgets (535)
+[2019.10.19-20.24.43:862][555]LogModuleManager: Shutting down and abandoning module GraphEditor (532)
+[2019.10.19-20.24.43:862][555]LogModuleManager: Shutting down and abandoning module StructViewer (530)
+[2019.10.19-20.24.43:862][555]LogModuleManager: Shutting down and abandoning module ClassViewer (528)
+[2019.10.19-20.24.43:862][555]LogModuleManager: Shutting down and abandoning module Toolbox (526)
+[2019.10.19-20.24.43:863][555]LogModuleManager: Shutting down and abandoning module ModuleUI (524)
+[2019.10.19-20.24.43:863][555]LogModuleManager: Shutting down and abandoning module MovieSceneTools (522)
+[2019.10.19-20.24.43:863][555]LogModuleManager: Shutting down and abandoning module OutputLog (520)
+[2019.10.19-20.24.43:866][555]LogModuleManager: Shutting down and abandoning module GammaUI (518)
+[2019.10.19-20.24.43:873][555]LogModuleManager: Shutting down and abandoning module Documentation (516)
+[2019.10.19-20.24.43:873][555]LogModuleManager: Shutting down and abandoning module LiveCoding (514)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module LevelSequence (512)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (510)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module MovieScene (508)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (506)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module LauncherPlatform (504)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module AnalyticsET (502)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module PortalServices (500)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module PortalRpc (498)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module MessagingRpc (496)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module AIModule (494)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module GameplayDebugger (493)
+[2019.10.19-20.24.43:874][555]LogModuleManager: Shutting down and abandoning module AITestSuite (491)
+[2019.10.19-20.24.43:875][555]LogModuleManager: Shutting down and abandoning module NavigationSystem (489)
+[2019.10.19-20.24.43:875][555]LogModuleManager: Shutting down and abandoning module DesktopPlatform (486)
+[2019.10.19-20.24.43:875][555]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (484)
+[2019.10.19-20.24.43:906][555]LogModuleManager: Shutting down and abandoning module ProfilerService (482)
+[2019.10.19-20.24.44:056][555]LogModuleManager: Shutting down and abandoning module TaskGraph (480)
+[2019.10.19-20.24.44:056][555]LogModuleManager: Shutting down and abandoning module DatasmithCADTranslator (478)
+[2019.10.19-20.24.44:056][555]LogModuleManager: Shutting down and abandoning module DatasmithC4DImporter (476)
+[2019.10.19-20.24.44:056][555]LogModuleManager: Shutting down and abandoning module VariantManager (474)
+[2019.10.19-20.24.44:056][555]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (472)
+[2019.10.19-20.24.44:056][555]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (471)
+[2019.10.19-20.24.44:057][555]LogModuleManager: Shutting down and abandoning module MDLImporter (468)
+[2019.10.19-20.24.44:057][555]LogModuleManager: Shutting down and abandoning module DatasmithCoreTechExtension (466)
+[2019.10.19-20.24.44:057][555]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (465)
+[2019.10.19-20.24.44:057][555]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (464)
+[2019.10.19-20.24.44:057][555]LogModuleManager: Shutting down and abandoning module DatasmithOpenNurbsTranslator (460)
+[2019.10.19-20.24.44:057][555]LogModuleManager: Shutting down and abandoning module DatasmithNativeTranslator (458)
+[2019.10.19-20.24.44:057][555]LogModuleManager: Shutting down and abandoning module DatasmithIFCImporter (456)
+[2019.10.19-20.24.44:057][555]LogModuleManager: Shutting down and abandoning module DatasmithGLTFImporter (454)
+[2019.10.19-20.24.44:057][555]LogModuleManager: Shutting down and abandoning module DatasmithImporter (453)
+[2019.10.19-20.24.44:081][555]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2019.10.19-20.24.44:081][555]LogModuleManager: Shutting down and abandoning module SteamVRController (448)
+[2019.10.19-20.24.44:081][555]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (446)
+[2019.10.19-20.24.44:081][555]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (444)
+[2019.10.19-20.24.44:081][555]LogModuleManager: Shutting down and abandoning module OculusEditor (442)
+[2019.10.19-20.24.44:081][555]LogModuleManager: Shutting down and abandoning module OculusInput (440)
+[2019.10.19-20.24.44:081][555]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (438)
+[2019.10.19-20.24.44:082][555]LogModuleManager: Shutting down and abandoning module EditableMesh (436)
+[2019.10.19-20.24.44:082][555]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (434)
+[2019.10.19-20.24.44:082][555]LogModuleManager: Shutting down and abandoning module CableComponent (432)
+[2019.10.19-20.24.44:082][555]LogModuleManager: Shutting down and abandoning module AudioCapture (430)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (428)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (426)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module AppleImageUtils (424)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module AndroidPermission (422)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (420)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (418)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module MediaCompositing (416)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module ImgMedia (414)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (412)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (410)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (408)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module HTML5Networking (406)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (404)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (403)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (400)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (398)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (396)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (394)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module DataprepLibraries (392)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module DataprepCore (390)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module DataprepEditor (388)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (386)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module BlastCore (384)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module BlastAuthoring (382)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module BackChannel (380)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (378)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module AutomationUtils (376)
+[2019.10.19-20.24.44:083][555]LogModuleManager: Shutting down and abandoning module AlembicImporter (374)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module AlembicLibrary (373)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module GeometryCache (372)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (371)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module VariantManagerContent (366)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (364)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (362)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module PluginBrowser (360)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (358)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module PolygonModeling (356)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module MeshEditor (354)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (352)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module GLTFImporter (350)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (348)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.10.19-20.24.44:084][555]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.10.19-20.24.44:085][555]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.10.19-20.24.44:190][555]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.10.19-20.24.44:293][555]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.10.19-20.24.44:293][555]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.10.19-20.24.44:293][555]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.10.19-20.24.44:293][555]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.10.19-20.24.44:293][555]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.10.19-20.24.44:293][555]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.19-20.24.44:293][555]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.10.19-20.24.44:293][555]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.10.19-20.24.44:295][555]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.10.19-20.24.44:295][555]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.10.19-20.24.44:295][555]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.10.19-20.24.44:295][555]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.10.19-20.24.44:295][555]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.10.19-20.24.44:296][555]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.10.19-20.24.44:300][555]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.10.19-20.24.44:300][555]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.10.19-20.24.44:303][555]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.10.19-20.24.44:303][555]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.10.19-20.24.44:305][555]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.10.19-20.24.44:307][555]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.10.19-20.24.44:307][555]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.10.19-20.24.44:307][555]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.19-20.24.44:307][555]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.10.19-20.24.44:307][555]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.10.19-20.24.44:315][555]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.10.19-20.24.44:316][555]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.10.19-20.24.44:316][555]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.10.19-20.24.44:316][555]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.10.19-20.24.44:316][555]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.10.19-20.24.44:316][555]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.10.19-20.24.44:316][555]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.10.19-20.24.44:319][555]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.10.19-20.24.44:434][555]LogDerivedDataCache: Shutdown
+[2019.10.19-20.24.44:434][555]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.10.19-20.24.44:435][555]LogXGEController: Cleaning working directory: C:/Users/MA/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.19-20.24.44:436][555]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.10.19-20.24.44:436][555]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.10.19-20.24.44:436][555]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.10.19-20.24.44:449][555]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.10.19-20.24.44:449][555]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.10.19-20.24.44:449][555]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.10.19-20.24.44:449][555]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.10.19-20.24.44:449][555]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.10.19-20.24.44:449][555]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.10.19-20.24.44:449][555]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.10.19-20.24.44:449][555]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.10.19-20.24.44:450][555]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.10.19-20.24.44:450][555]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.10.19-20.24.44:450][555]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.10.19-20.24.44:450][555]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.10.19-20.24.44:450][555]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.10.19-20.24.44:450][555]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.10.19-20.24.44:451][555]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.10.19-20.24.44:451][555]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.10.19-20.24.44:451][555]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.10.19-20.24.44:451][555]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.10.19-20.24.44:451][555]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.10.19-20.24.44:453][555]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.10.19-20.24.44:453][555]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.10.19-20.24.44:471][555]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.10.19-20.24.44:471][555]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.10.19-20.24.44:489][555]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.19-20.24.44:490][555]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.10.19-20.24.44:490][555]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.10.19-20.24.44:490][555]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.10.19-20.24.44:490][555]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.19-20.24.44:490][555]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.10.19-20.24.44:490][555]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.10.19-20.24.44:490][555]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.10.19-20.24.44:490][555]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.10.19-20.24.44:490][555]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.10.19-20.24.44:492][555]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.10.19-20.24.44:493][555]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.10.19-20.24.44:517][555]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.10.19-20.24.44:517][555]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.19-20.24.44:517][555]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14F57E92-45B1-6DD8-6E34-6DBE0D6ED219%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=60fc57d247dfc17de90711927fd7a4e7%7Ca823292f2050481cb446752f76a489de%7Ce396ade7-f1a2-4aa4-955b-b521d6864aa4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.19-20.24.44:542][555]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.10.19-20.24.44:550][555]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.10.19-20.24.44:553][555]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.10.19-20.24.44:554][555]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.10.19-20.24.44:554][555]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.10.19-20.24.44:555][555]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.10.19-20.24.44:555][555]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.10.19-20.24.44:555][555]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.10.19-20.24.44:555][555]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.19-20.24.44:555][555]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.19-20.24.44:555][555]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.19-20.24.44:556][555]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.19-20.24.44:556][555]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.19-20.24.44:556][555]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.19-20.24.44:556][555]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.19-20.24.44:558][555]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.19-20.24.44:558][555]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.19-20.24.44:558][555]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.19-20.24.44:558][555]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.19-20.24.44:559][555]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.19-20.24.44:559][555]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.19-20.24.44:559][555]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.19-20.24.44:559][555]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.19-20.24.44:559][555]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.19-20.24.44:559][555]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.19-20.24.44:559][555]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.19-20.24.44:559][555]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.19-20.24.44:572][555]LogD3D11RHI: Shutdown
+[2019.10.19-20.24.44:572][555]LogD3D11RHI: CleanupD3DDevice
+[2019.10.19-20.24.44:576][555]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.19-20.24.44:582][555]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.19-20.24.44:582][555]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.19-20.24.44:749][555]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2019.10.19-20.24.45:509][555]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.19-20.24.45:519][555]LogExit: Exiting.
+[2019.10.19-20.24.45:532][555]Log file closed, 10/19/19 23:24:45

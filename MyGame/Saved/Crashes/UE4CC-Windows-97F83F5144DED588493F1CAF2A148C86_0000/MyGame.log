@@ -1,0 +1,1166 @@
+﻿Log file open, 12/12/19 12:22:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.132032
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.12-09.22.12:145][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.12-09.22.12:145][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.12-09.22.12:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.12-09.22.12:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.12-09.22.12:146][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.12-09.22.12:149][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-09.22.12:149][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-09.22.12:150][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-09.22.12:151][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-09.22.12:151][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.12-09.22.12:159][  0]LogHAL: Display: Platform has ~ 8 GB [8433528832 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.12-09.22.12:160][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.12-09.22.12:160][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-09.22.12:160][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-09.22.12:161][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-09.22.12:161][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-09.22.12:161][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-09.22.12:161][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-09.22.12:161][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-09.22.12:161][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-09.22.12:161][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-09.22.12:161][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-09.22.12:161][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.12-09.22.12:162][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.12-09.22.12:162][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.12-09.22.12:162][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.12-09.22.12:163][  0]LogInit: Computer: CO-OT-P01
+[2019.12.12-09.22.12:163][  0]LogInit: User: MA
+[2019.12.12-09.22.12:163][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.12-09.22.12:163][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.12-09.22.12:164][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.12-09.22.12:164][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.12-09.22.12:164][  0]LogMemory: Process Physical Memory: 101.94 MB used, 101.95 MB peak
+[2019.12.12-09.22.12:164][  0]LogMemory: Process Virtual Memory: 98.38 MB used, 98.38 MB peak
+[2019.12.12-09.22.12:164][  0]LogMemory: Physical Memory: 3423.00 MB used,  4619.84 MB free, 8042.84 MB total
+[2019.12.12-09.22.12:164][  0]LogMemory: Virtual Memory: 4650.05 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.12.12-09.22.12:176][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.12-09.22.12:334][  0]LogInit: Using OS detected language (ru-RU).
+[2019.12.12-09.22.12:334][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.12.12-09.22.12:346][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.12.12-09.22.12:346][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.12.12-09.22.12:346][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.12.12-09.22.12:347][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.12.12-09.22.12:347][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.12.12-09.22.12:347][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.12.12-09.22.12:347][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.12.12-09.22.12:348][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.12.12-09.22.12:356][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.12-09.22.12:443][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.12-09.22.12:443][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.12-09.22.13:542][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-09.22.13:542][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.12-09.22.13:714][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.12.12-09.22.13:714][  0]LogD3D11RHI:       128/0/4021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.12-09.22.13:717][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.12-09.22.13:717][  0]LogD3D11RHI:       0/0/4021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.12-09.22.13:717][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.12-09.22.13:724][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.12-09.22.13:724][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.12-09.22.13:724][  0]LogWindows: EnumDisplayDevices:
+[2019.12.12-09.22.13:724][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.12.12-09.22.13:724][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.12-09.22.13:725][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.12-09.22.13:725][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.12-09.22.13:725][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.12.12-09.22.13:726][  0]LogD3D11RHI:   Driver Version: 26.20.100.7263 (internal:26.20.100.7263, unified:26.20.100.7263)
+[2019.12.12-09.22.13:726][  0]LogD3D11RHI:      Driver Date: 9-25-2019
+[2019.12.12-09.22.13:726][  0]LogRHI: Texture pool is 1497 MB (70% of 2138 MB)
+[2019.12.12-09.22.13:997][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.12.12-09.22.13:997][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.12-09.22.14:013][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.12-09.22.14:603][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.12-09.22.14:615][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.12-09.22.14:637][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.12-09.22.14:648][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.12-09.22.14:670][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.12-09.22.14:682][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.12-09.22.14:695][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.12-09.22.14:713][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.12-09.22.14:721][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.12-09.22.14:776][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.12-09.22.14:780][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.12-09.22.14:817][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.12-09.22.14:817][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.12-09.22.14:843][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.12-09.22.14:843][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.12-09.22.14:854][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.12-09.22.14:864][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.12-09.22.14:883][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.12-09.22.14:898][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.12-09.22.14:937][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.12-09.22.14:937][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.12-09.22.14:938][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.12-09.22.14:967][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.12-09.22.15:152][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Intermediate/Shaders/WorkingDirectory/11104/).
+[2019.12.12-09.22.15:152][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MA/AppData/Local/Temp/UnrealShaderWorkingDir/0912CAEA43A83587588F31BFD9766ED9/'.
+[2019.12.12-09.22.15:157][  0]LogXGEController: Cleaning working directory: C:/Users/MA/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.12-09.22.15:158][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.12-09.22.15:159][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.12-09.22.15:159][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.12-09.22.16:952][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.12-09.22.17:091][  0]LogDerivedDataCache: Loaded boot cache 0.14s 74MB C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-09.22.17:092][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.12-09.22.17:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.12-09.22.17:092][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.12-09.22.17:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-09.22.17:092][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.12-09.22.17:113][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.12-09.22.17:118][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.12.12-09.22.17:120][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.12-09.22.17:120][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.12-09.22.17:120][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.12-09.22.17:153][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.12-09.22.17:158][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.12-09.22.17:163][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.12-09.22.17:603][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2019.12.12-09.22.18:376][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-09.22.18:749][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.12-09.22.18:749][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.12-09.22.18:749][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.12-09.22.18:749][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.12-09.22.18:750][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.12-09.22.18:774][  0]LogNetVersion: MyGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 4240746401)
+[2019.12.12-09.22.19:730][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.100344 seconds
+[2019.12.12-09.22.19:738][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.12-09.22.19:738][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.12-09.22.19:738][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.12-09.22.24:718][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.12-09.22.24:725][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.12-09.22.24:920][  0]SourceControl: Source control is disabled
+[2019.12.12-09.22.24:921][  0]SourceControl: Source control is disabled
+[2019.12.12-09.22.24:935][  0]SourceControl: Source control is disabled
+[2019.12.12-09.22.24:943][  0]SourceControl: Source control is disabled
+[2019.12.12-09.22.25:716][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.12-09.22.25:922][  0]LogOcInput: OculusInput pre-init called
+[2019.12.12-09.22.25:945][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.12-09.22.25:945][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.12-09.22.30:312][  0]LogEngine: Initializing Engine...
+[2019.12.12-09.22.30:317][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-09.22.30:321][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2019.12.12-09.22.30:744][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.12-09.22.30:788][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.12-09.22.30:814][  0]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.22.31:000][  0]LogInit: FAudioDevice initialized.
+[2019.12.12-09.22.31:000][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.12-09.22.31:094][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-09.22.31:108][  0]LogInit: Texture streaming: Enabled
+[2019.12.12-09.22.31:160][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.12-09.22.31:160][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.12-09.22.31:164][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.12-09.22.31:289][  0]LogInit: Transaction tracking system initialized
+[2019.12.12-09.22.31:410][  0]BlueprintLog: New page: Editor Load
+[2019.12.12-09.22.31:652][  0]LocalizationService: Localization service is disabled
+[2019.12.12-09.22.32:382][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.12-09.22.32:382][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.12-09.22.32:467][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/' took 0.05s
+[2019.12.12-09.22.35:340][  0]SourceControl: Source control is disabled
+[2019.12.12-09.22.35:341][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-09.22.35:342][  0]LightingResults: New page: Lighting Build
+[2019.12.12-09.22.35:348][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.22.35:348][  0]MapCheck: New page: Map Check
+[2019.12.12-09.22.35:348][  0]LightingResults: New page: Lighting Build
+[2019.12.12-09.22.35:381][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.12-09.22.38:601][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.12-09.22.38:689][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-09.22.38:755][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.12.12-09.22.38:755][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-09.22.38:755][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,204ms to complete.
+[2019.12.12-09.22.38:755][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.414
+[2019.12.12-09.22.38:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.22.38:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.22.38:972][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.22.38:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.22.39:018][  0]LogCollectionManager: Loaded 0 collections in 0.002256 seconds
+[2019.12.12-09.22.39:040][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Collections/' took 0.00s
+[2019.12.12-09.22.39:040][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/Developers/MA/Collections/' took 0.00s
+[2019.12.12-09.22.39:040][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/Collections/' took 0.00s
+[2019.12.12-09.22.39:040][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.12.12-09.22.39:051][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 3045 classes and 765 folders.
+[2019.12.12-09.22.39:077][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.12-09.22.39:453][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.12-09.22.39:593][  0]LogSlate: Took 0.002470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.12-09.22.39:599][  0]LogSlate: Took 0.002573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.12-09.22.39:607][  0]LogSlate: Took 0.003729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.12-09.22.39:712][  0]LogRenderer: Reallocating scene render targets to support 1156x744 Format 10 NumSamples 1 (Frame:1).
+[2019.12.12-09.22.39:900][  0]LogSlate: Took 0.002453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-09.22.39:993][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.12-09.22.39:993][  0]LogLoad: (Engine Initialization) Total time: 33.72 seconds
+[2019.12.12-09.22.39:993][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.12-09.22.40:076][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.12-09.22.41:355][  7]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-09.22.41:454][  9]LogAssetRegistry: Asset discovery search completed in 23.8520 seconds
+[2019.12.12-09.22.41:459][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.12-09.22.41:459][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2019.12.12-09.22.44:457][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.22.45:396][ 19]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SnowLevel/Item/FbxScene_flame.FbxScene_flame
+[2019.12.12-09.22.45:782][ 19]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.12.12-09.22.46:914][ 19]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/WaterLevel/Item/FbxScene_17495_Round_Lighthouse_NEW.FbxScene_17495_Round_Lighthouse_NEW
+[2019.12.12-09.22.47:425][ 19]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/WaterLevel/Ground.Ground
+[2019.12.12-09.22.47:891][ 19]PIE: Warning: AttachTo: '/Engine/Transient.World_5:PersistentLevel.FbxScene_flame_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_flame"), cannot attach '/Engine/Transient.World_5:PersistentLevel.FbxScene_flame_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.12.12-09.22.47:900][ 19]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.FbxScene_17495_Round_Lighthouse_NEW_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_17495_Round_Lighthouse_NEW"), cannot attach '/Engine/Transient.World_6:PersistentLevel.FbxScene_17495_Round_Lighthouse_NEW_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.12.12-09.22.47:917][ 19]LogSlate: Took 0.002313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.12-09.22.53:994][ 81]LogSlate: Window 'Ground' being destroyed
+[2019.12.12-09.22.54:106][ 81]LogSlate: Window 'Ground' being destroyed
+[2019.12.12-09.22.54:198][ 81]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.22.54:313][ 81]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.12-09.22.54:313][ 81]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.22.54:386][ 81]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.12-09.22.54:386][ 81]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.22.56:162][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.23.00:168][143]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.23.00:186][143]LogAssetEditorManager: Opening Asset editor for World /Game/WaterLevel/Water.Water
+[2019.12.12-09.23.00:232][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.12.12-09.23.00:232][143]Cmd: MAP LOAD FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-09.23.00:232][143]LightingResults: New page: Lighting Build
+[2019.12.12-09.23.00:233][143]LoadErrors: New page: Loading map: Water.umap
+[2019.12.12-09.23.00:234][143]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.23.00:234][143]MapCheck: New page: Map Check
+[2019.12.12-09.23.00:234][143]LightingResults: New page: Lighting Build
+[2019.12.12-09.23.00:273][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.12.12-09.23.00:419][143]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-09.23.00:457][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.12.12-09.23.00:523][143]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-09.23.00:523][143]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,169ms to complete.
+[2019.12.12-09.23.00:523][143]LogFileHelpers: Loading map 'Water' took 0.291
+[2019.12.12-09.23.07:005][246]LogEditorViewport: Clicking on Actor (LMB): Ground_C (Ground)
+[2019.12.12-09.23.09:412][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.23.16:356][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.23.16:503][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Water" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.12-09.23.16:550][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.12.12-09.23.16:897][396]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Water304CA1904177A4368989849BFE0D6E96.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water.umap'
+[2019.12.12-09.23.16:969][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Water_BuiltData" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water_BuiltData.uasset" SILENT=true
+[2019.12.12-09.23.17:072][396]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Water_BuiltDataFD42719C43346CF4F5AED3A5A8A95FAB.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water_BuiltData.uasset'
+[2019.12.12-09.23.19:211][472]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/WaterLevel/Ground.Ground
+[2019.12.12-09.23.28:132][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.23.36:572][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.23.41:276][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.23.41:277][691]BlueprintLog: New page: Compile Ground
+[2019.12.12-09.23.41:710][691]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.12.12-09.23.42:896][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Ground" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Ground.uasset" SILENT=true
+[2019.12.12-09.23.42:980][701]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Ground768F7C3C41DB623406EC9386E4E54B0A.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Ground.uasset'
+[2019.12.12-09.23.44:570][738]LogSlate: Window 'Ground' being destroyed
+[2019.12.12-09.23.50:596][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.24.07:948][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.24.15:379][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.24.20:515][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.24.20:552][640]BlueprintLog: New page: Compile Ground
+[2019.12.12-09.24.20:834][640]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.12.12-09.24.21:289][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Ground" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Ground.uasset" SILENT=true
+[2019.12.12-09.24.21:360][651]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Ground746B9C77427F14C38A23F4A996DB34C4.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Ground.uasset'
+[2019.12.12-09.24.28:740][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.24.28:804][778]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.24.28:892][778]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.24.28:892][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.24.28:894][778]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:24:28)
+[2019.12.12-09.24.28:895][778]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.12-09.24.28:897][778]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.24.28:948][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050203s)
+[2019.12.12-09.24.28:949][778]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.24.28:949][778]LogPlayLevel: PIE: World Init took: (0.001504s)
+[2019.12.12-09.24.28:950][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.052065s)
+[2019.12.12-09.24.28:993][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.12.12-09.24.28:998][778]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.24.29:016][778]LogInit: FAudioDevice initialized.
+[2019.12.12-09.24.29:029][778]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.24.29:031][778]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.24.29
+[2019.12.12-09.24.29:031][778]LogWorld: Bringing up level for play took: 0.001045
+[2019.12.12-09.24.29:032][778]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.12-09.24.29:042][778]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.12-09.24.29:044][778]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.12-09.24.29:044][778]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.12-09.24.29:050][778]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water 0,887
+[2019.12.12-09.24.29:050][778]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.24.43:330][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.24.43:335][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.24.43:335][360]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.24.43:337][360]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.24.43:386][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.24.43:386][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.24.43:445][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.24.43:468][360]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.12-09.24.43:468][360]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.12-09.24.43:473][360]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2019.12.12-09.24.43:493][361]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.12-09.24.46:888][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.24.49:451][471]Cmd: DELETE
+[2019.12.12-09.24.49:451][471]Cmd: ACTOR DELETE
+[2019.12.12-09.24.49:461][471]LogEditorActor: Deleted Actor: PlayerStart
+[2019.12.12-09.24.49:583][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.12-09.24.49:584][471]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2019.12.12-09.24.57:143][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.25.03:408][706]Cmd: DELETE
+[2019.12.12-09.25.03:409][706]Cmd: ACTOR DELETE
+[2019.12.12-09.25.03:414][706]LogEditorActor: Deleted Actor: PlayerStart
+[2019.12.12-09.25.03:555][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.12-09.25.03:555][706]LogEditorActor: Deleted 1 Actors (0.146 secs)
+[2019.12.12-09.25.06:573][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.25.10:218][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.25.10:336][821]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.25.10:466][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.25.10:466][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.25.10:466][821]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:25:10)
+[2019.12.12-09.25.10:467][821]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.25.10:515][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048516s)
+[2019.12.12-09.25.10:516][821]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.25.10:516][821]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2019.12.12-09.25.10:516][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.049835s)
+[2019.12.12-09.25.10:561][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.12.12-09.25.10:567][821]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.25.10:583][821]LogInit: FAudioDevice initialized.
+[2019.12.12-09.25.10:592][821]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.25.10:593][821]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.25.10
+[2019.12.12-09.25.10:593][821]LogWorld: Bringing up level for play took: 0.000987
+[2019.12.12-09.25.10:594][821]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.12-09.25.10:596][821]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.12-09.25.10:596][821]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.12-09.25.10:600][821]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water 0,437
+[2019.12.12-09.25.10:600][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.25.18:155][138]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.25.18:157][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.25.18:158][138]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.25.18:159][138]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.25.18:211][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.25.18:211][138]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.25.18:276][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.25.18:277][138]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.12-09.25.18:277][138]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.12-09.25.18:284][138]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2019.12.12-09.25.18:309][139]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.12-09.25.23:848][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.25.45:459][648]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/SnowLevel/HPandDF_Pawn1.HPandDF_Pawn1
+[2019.12.12-09.26.02:500][287]LogEditorTransaction: Undo Edit Is Enabled
+[2019.12.12-09.26.24:070][539]BlueprintLog: New page: Compile HPandDF_Pawn1
+[2019.12.12-09.26.24:160][539]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2019.12.12-09.26.24:837][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SnowLevel/HPandDF_Pawn1" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset" SILENT=true
+[2019.12.12-09.26.24:906][596]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/HPandDF_Pawn16777F0584EE050F03724A59BFA9211FD.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset'
+[2019.12.12-09.26.47:500][ 41]BlueprintLog: New page: Compile HPandDF_Pawn1
+[2019.12.12-09.26.47:572][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2019.12.12-09.26.48:203][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SnowLevel/HPandDF_Pawn1" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset" SILENT=true
+[2019.12.12-09.26.48:273][ 89]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/HPandDF_Pawn10E3D72DE4A7FBE57D3E28EAAB14AB614.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset'
+[2019.12.12-09.26.49:647][139]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.26.49:760][139]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.26.49:760][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.26.49:761][139]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:26:49)
+[2019.12.12-09.26.49:763][139]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.26.49:805][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042839s)
+[2019.12.12-09.26.49:806][139]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.26.49:806][139]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2019.12.12-09.26.49:806][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.044211s)
+[2019.12.12-09.26.49:879][139]LogUObjectHash: Compacting FUObjectHashTables data took   8.92ms
+[2019.12.12-09.26.49:885][139]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.26.49:906][139]LogInit: FAudioDevice initialized.
+[2019.12.12-09.26.49:913][139]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.26.49:914][139]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.26.49
+[2019.12.12-09.26.49:915][139]LogWorld: Bringing up level for play took: 0.001443
+[2019.12.12-09.26.49:915][139]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.12-09.26.49:920][139]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.12-09.26.49:920][139]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.12-09.26.49:925][139]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water -0,238
+[2019.12.12-09.26.49:925][139]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.26.54:661][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.26.54:663][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.26.54:663][327]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.26.54:665][327]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.26.54:699][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.26.54:699][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.26.54:782][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.26.54:783][327]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.12-09.26.54:783][327]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.12-09.26.54:790][327]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2019.12.12-09.26.54:812][328]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.12-09.26.58:012][386]Cmd: SELECT NONE
+[2019.12.12-09.27.00:134][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.27.04:976][510]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPawn.MyPawn
+[2019.12.12-09.27.05:536][510]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.12-09.27.05:536][510]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.12-09.27.05:958][511]LogSlate: Took 0.004729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.12-09.27.32:566][657]BlueprintLog: New page: Compile MyPawn
+[2019.12.12-09.27.33:048][657]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2019.12.12-09.27.34:638][680]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.27.34:787][680]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.27.34:788][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.27.34:788][680]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:27:34)
+[2019.12.12-09.27.34:788][680]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.27.34:847][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058312s)
+[2019.12.12-09.27.34:848][680]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.27.34:849][680]LogPlayLevel: PIE: World Init took: (0.001739s)
+[2019.12.12-09.27.34:849][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.060299s)
+[2019.12.12-09.27.34:954][680]LogUObjectHash: Compacting FUObjectHashTables data took  11.88ms
+[2019.12.12-09.27.34:960][680]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.27.34:982][680]LogInit: FAudioDevice initialized.
+[2019.12.12-09.27.34:990][680]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.27.34:992][680]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.27.34
+[2019.12.12-09.27.34:993][680]LogWorld: Bringing up level for play took: 0.001648
+[2019.12.12-09.27.34:993][680]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.12-09.27.35:002][680]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water 0,839
+[2019.12.12-09.27.35:002][680]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.27.35:002][680]LogBlueprintUserMessages: [MyPawn_C_0] Hello
+[2019.12.12-09.27.49:981][305]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.27.49:983][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.27.49:984][305]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.27.49:985][305]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.27.50:032][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.27.50:032][305]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.27.50:113][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.27.50:125][305]LogUObjectHash: Compacting FUObjectHashTables data took  10.07ms
+[2019.12.12-09.27.50:153][306]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.12-09.27.53:214][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.28.06:731][219]BlueprintLog: New page: Compile MyPawn
+[2019.12.12-09.28.07:140][219]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2019.12.12-09.28.07:554][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPawn" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/MyPawn.uasset" SILENT=true
+[2019.12.12-09.28.07:772][225]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/MyPawn5C10DA354F500832FE39219FD771D4A4.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/MyPawn.uasset'
+[2019.12.12-09.28.09:044][269]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.28.09:163][269]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.28.09:164][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.28.09:164][269]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:28:09)
+[2019.12.12-09.28.09:164][269]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.28.09:207][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042860s)
+[2019.12.12-09.28.09:208][269]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.28.09:208][269]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2019.12.12-09.28.09:209][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.044338s)
+[2019.12.12-09.28.09:270][269]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2019.12.12-09.28.09:274][269]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.28.09:291][269]LogInit: FAudioDevice initialized.
+[2019.12.12-09.28.09:301][269]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.28.09:302][269]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.28.09
+[2019.12.12-09.28.09:302][269]LogWorld: Bringing up level for play took: 0.000998
+[2019.12.12-09.28.09:303][269]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.12-09.28.09:309][269]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water 1,146
+[2019.12.12-09.28.09:309][269]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.28.09:309][269]LogBlueprintUserMessages: [MyPawn_C_0] Hello
+[2019.12.12-09.28.13:030][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.28.13:031][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.28.13:031][423]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.28.13:031][423]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.28.13:087][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.28.13:087][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.28.13:146][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.28.13:152][423]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.12.12-09.28.13:172][424]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.12-09.28.14:154][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.28.14:365][447]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.28.19:311][757]LogEditorTransaction: Undo Create Pin Link
+[2019.12.12-09.28.20:266][798]LogEditorTransaction: Undo Create Pin Link
+[2019.12.12-09.28.21:131][828]LogEditorTransaction: Undo Add Node
+[2019.12.12-09.28.25:056][ 85]BlueprintLog: New page: Compile MyPawn
+[2019.12.12-09.28.25:495][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2019.12.12-09.28.25:846][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPawn" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/MyPawn.uasset" SILENT=true
+[2019.12.12-09.28.26:052][ 87]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/MyPawnA2B2E8F0473A45927C0FC1B3E968602A.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/MyPawn.uasset'
+[2019.12.12-09.28.36:521][814]BlueprintLog: New page: Compile MyPawn
+[2019.12.12-09.28.36:946][814]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2019.12.12-09.28.38:311][836]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.28.38:463][836]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.28.38:463][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.28.38:464][836]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:28:38)
+[2019.12.12-09.28.38:464][836]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.28.38:525][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060849s)
+[2019.12.12-09.28.38:526][836]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.28.38:526][836]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2019.12.12-09.28.38:526][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.062063s)
+[2019.12.12-09.28.38:573][836]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2019.12.12-09.28.38:577][836]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.28.38:594][836]LogInit: FAudioDevice initialized.
+[2019.12.12-09.28.38:599][836]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.28.38:600][836]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.28.38
+[2019.12.12-09.28.38:601][836]LogWorld: Bringing up level for play took: 0.000920
+[2019.12.12-09.28.38:601][836]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.12.12-09.28.38:608][836]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water 0,445
+[2019.12.12-09.28.38:608][836]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.28.42:086][976]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.28.42:087][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.28.42:087][976]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.28.42:088][976]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.28.42:143][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.28.42:143][976]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.28.42:206][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.28.42:211][976]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.12.12-09.28.42:230][977]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.12-09.28.45:631][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.29.07:460][276]BlueprintLog: New page: Compile HPandDF_Pawn1
+[2019.12.12-09.29.07:518][276]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.12.12-09.29.08:769][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SnowLevel/HPandDF_Pawn1" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset" SILENT=true
+[2019.12.12-09.29.08:838][401]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/HPandDF_Pawn1A8C909374BB31DA91454C590AC5DD401.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset'
+[2019.12.12-09.29.15:448][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.29.29:983][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.29.42:927][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.29.52:601][224]LogEditorViewport: Clicking on Actor (LMB): Ground_C (Ground)
+[2019.12.12-09.29.56:301][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.30.15:606][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.30.32:701][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.30.40:174][ 91]LogHttp: Warning: 0000029A8DDCF740: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC11699C6-4377-BA9A-B6E7-3DBE216A86D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=60fc57d247dfc17de90711927fd7a4e7%7Ca823292f2050481cb446752f76a489de%7Ce396ade7-f1a2-4aa4-955b-b521d6864aa4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.12-09.30.40:175][ 91]LogHttp: Warning: 0000029A8DDCF740: request failed, libcurl error: 0 (No error)
+[2019.12.12-09.30.40:175][ 91]LogHttp: Warning: 0000029A8DDCF740: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x29a12977f70 [can pipeline])
+[2019.12.12-09.30.40:175][ 91]LogHttp: Warning: 0000029A8DDCF740: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2019.12.12-09.30.40:175][ 91]LogHttp: Warning: 0000029A8DDCF740: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.197.237.78) port 443 (#3))
+[2019.12.12-09.30.40:175][ 91]LogHttp: Warning: 0000029A8DDCF740: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.12.12-09.30.40:175][ 91]LogHttp: Warning: 0000029A8DDCF740: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.12.12-09.30.40:175][ 91]LogHttp: Warning: 0000029A8DDCF740: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.12.12-09.30.40:176][ 91]LogHttp: Warning: 0000029A8DDCF740: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.12.12-09.30.40:176][ 91]LogHttp: Warning: 0000029A8DDCF740: libcurl info message cache 7 (Closing connection 3)
+[2019.12.12-09.30.40:176][ 91]LogHttp: Warning: 0000029A8DDCF740: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.12-09.30.40:225][ 92]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC11699C6-4377-BA9A-B6E7-3DBE216A86D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=60fc57d247dfc17de90711927fd7a4e7%7Ca823292f2050481cb446752f76a489de%7Ce396ade7-f1a2-4aa4-955b-b521d6864aa4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.12-09.30.40:363][ 94]LogEditorSessionSummary: EditorSessionSummary sent report. Type=AbnormalShutdown, SessionId={2AC3CCB8-4BEF-844F-BBAE-FBBCBF208545}
+[2019.12.12-09.30.51:705][305]LogEditorViewport: Clicking on Actor (LMB): Ground_C (Ground)
+[2019.12.12-09.30.58:941][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.31.09:262][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.31.18:387][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.32.44:188][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.32.51:533][674]LogSlate: Window 'Select Path' being destroyed
+[2019.12.12-09.32.51:742][674]LogUObjectHash: Compacting FUObjectHashTables data took   9.74ms
+[2019.12.12-09.32.51:773][674]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/WaterLevel/TriggerBox_Blueprint4.TriggerBox_Blueprint4
+[2019.12.12-09.33.06:982][800]BlueprintLog: New page: Compile TriggerBox_Blueprint4
+[2019.12.12-09.33.07:317][800]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.12-09.33.07:579][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/TriggerBox_Blueprint4" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/TriggerBox_Blueprint4.uasset" SILENT=true
+[2019.12.12-09.33.07:598][819]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/TriggerBox_Blueprint4949EC8D6404D874304FCE28E504F3C09.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/TriggerBox_Blueprint4.uasset'
+[2019.12.12-09.33.08:917][870]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.33.09:023][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.09:024][870]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-09.33.09:040][870]LogPlayLevel: [PlayLevel] Compiling MyPawn before play...
+[2019.12.12-09.33.09:447][870]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2019.12.12-09.33.09:447][870]LogPlayLevel: PlayLevel: Blueprint regeneration took 423 ms (1 blueprints)
+[2019.12.12-09.33.09:448][870]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:33:09)
+[2019.12.12-09.33.09:448][870]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.33.09:490][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041587s)
+[2019.12.12-09.33.09:491][870]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.33.09:491][870]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2019.12.12-09.33.09:491][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.042888s)
+[2019.12.12-09.33.09:543][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.12.12-09.33.09:546][870]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.33.09:563][870]LogInit: FAudioDevice initialized.
+[2019.12.12-09.33.09:573][870]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.33.09:574][870]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.33.09
+[2019.12.12-09.33.09:574][870]LogWorld: Bringing up level for play took: 0.001006
+[2019.12.12-09.33.09:574][870]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.12-09.33.09:578][870]LogBlueprintUserMessages: [TriggerBox_Blueprint4] Hello
+[2019.12.12-09.33.09:581][870]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water 1,418
+[2019.12.12-09.33.09:581][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.11:574][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.11:575][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.33.11:576][946]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.33.11:576][946]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.33.11:633][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.33.11:633][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.11:691][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.33.11:696][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.12.12-09.33.11:721][947]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.12-09.33.15:832][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.33.20:122][ 92]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2019.12.12-09.33.22:354][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.33.26:572][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.33.26:753][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Water" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.12-09.33.26:817][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.12.12-09.33.27:225][201]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Water63FE4F874F246D18CFEE589D67A98F79.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water.umap'
+[2019.12.12-09.33.27:299][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Water_BuiltData" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water_BuiltData.uasset" SILENT=true
+[2019.12.12-09.33.27:394][201]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Water_BuiltData48D8650D48401D021E6DBDA6B83F74B8.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water_BuiltData.uasset'
+[2019.12.12-09.33.27:854][210]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.33.28:013][210]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.28:013][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.33.28:013][210]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:33:28)
+[2019.12.12-09.33.28:013][210]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.33.28:072][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059253s)
+[2019.12.12-09.33.28:074][210]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.33.28:074][210]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2019.12.12-09.33.28:074][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.061048s)
+[2019.12.12-09.33.28:147][210]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2019.12.12-09.33.28:153][210]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.33.28:179][210]LogInit: FAudioDevice initialized.
+[2019.12.12-09.33.28:188][210]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.33.28:189][210]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.33.28
+[2019.12.12-09.33.28:189][210]LogWorld: Bringing up level for play took: 0.000968
+[2019.12.12-09.33.28:189][210]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.12.12-09.33.28:196][210]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water 0,034
+[2019.12.12-09.33.28:196][210]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.32:038][363]LogBlueprintUserMessages: [TriggerBox_Blueprint4] Hello
+[2019.12.12-09.33.32:833][396]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.32:834][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.33.32:835][396]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.33.32:836][396]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.33.32:864][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.33.32:865][396]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.32:925][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.33.32:932][396]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.12.12-09.33.32:956][397]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.12.12-09.33.36:373][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.33.46:085][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.33.46:318][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Water" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.12-09.33.46:376][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.12.12-09.33.46:765][633]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Water9D00A8A54A5C5BA5911D8297E1F03E6C.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water.umap'
+[2019.12.12-09.33.46:838][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Water_BuiltData" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water_BuiltData.uasset" SILENT=true
+[2019.12.12-09.33.46:927][633]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Water_BuiltData21FC3EE6453124BAD2C7BBA4F975DAA8.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water_BuiltData.uasset'
+[2019.12.12-09.33.47:355][642]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.33.47:517][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.47:517][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.33.47:518][642]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:33:47)
+[2019.12.12-09.33.47:518][642]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.33.47:576][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057441s)
+[2019.12.12-09.33.47:577][642]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.33.47:577][642]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2019.12.12-09.33.47:577][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.059178s)
+[2019.12.12-09.33.47:654][642]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2019.12.12-09.33.47:661][642]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.33.47:679][642]LogInit: FAudioDevice initialized.
+[2019.12.12-09.33.47:686][642]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.33.47:688][642]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.33.47
+[2019.12.12-09.33.47:688][642]LogWorld: Bringing up level for play took: 0.001131
+[2019.12.12-09.33.47:688][642]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.12-09.33.47:692][642]LogBlueprintUserMessages: [TriggerBox_Blueprint4] Hello
+[2019.12.12-09.33.47:695][642]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water -0,468
+[2019.12.12-09.33.47:696][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.48:963][692]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.48:964][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.33.48:964][692]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.33.48:965][692]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.33.49:026][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.33.49:026][692]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.33.49:104][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.33.49:114][692]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2019.12.12-09.33.49:151][693]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.12-09.33.52:358][752]LogEditorViewport: Clicking on Actor (LMB): TriggerBox_Blueprint4_C (TriggerBox_Blueprint4)
+[2019.12.12-09.34.01:798][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.34.01:964][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Water" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.12-09.34.02:023][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.12.12-09.34.02:419][933]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/WaterEE4ED1F548D9480B146FDDB0954ED90E.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water.umap'
+[2019.12.12-09.34.02:491][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Water_BuiltData" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water_BuiltData.uasset" SILENT=true
+[2019.12.12-09.34.02:580][933]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Water_BuiltData462654FB403A46B224FFDEB49B5A8589.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water_BuiltData.uasset'
+[2019.12.12-09.34.03:039][943]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.34.03:184][943]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.34.03:184][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.34.03:184][943]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:34:03)
+[2019.12.12-09.34.03:185][943]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.34.03:253][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068184s)
+[2019.12.12-09.34.03:254][943]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.34.03:255][943]LogPlayLevel: PIE: World Init took: (0.001661s)
+[2019.12.12-09.34.03:255][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.070129s)
+[2019.12.12-09.34.03:329][943]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2019.12.12-09.34.03:334][943]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.34.03:353][943]LogInit: FAudioDevice initialized.
+[2019.12.12-09.34.03:360][943]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.34.03:362][943]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.34.03
+[2019.12.12-09.34.03:362][943]LogWorld: Bringing up level for play took: 0.001389
+[2019.12.12-09.34.03:363][943]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.12.12-09.34.03:369][943]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water -0,793
+[2019.12.12-09.34.03:370][943]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.34.08:576][150]LogBlueprintUserMessages: [TriggerBox_Blueprint4] Hello
+[2019.12.12-09.34.09:731][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.34.09:732][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.34.09:732][197]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.34.09:733][197]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.34.09:784][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.34.09:785][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.34.09:851][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.34.09:857][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.12.12-09.34.09:883][198]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.12.12-09.34.14:174][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.34.14:226][284]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.34.14:356][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.34.14:356][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.34.14:356][284]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:34:14)
+[2019.12.12-09.34.14:357][284]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.34.14:403][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045811s)
+[2019.12.12-09.34.14:404][284]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.34.14:404][284]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2019.12.12-09.34.14:404][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.047062s)
+[2019.12.12-09.34.14:449][284]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.12-09.34.14:453][284]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.34.14:469][284]LogInit: FAudioDevice initialized.
+[2019.12.12-09.34.14:474][284]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.34.14:475][284]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.34.14
+[2019.12.12-09.34.14:475][284]LogWorld: Bringing up level for play took: 0.000922
+[2019.12.12-09.34.14:476][284]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.12.12-09.34.14:482][284]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water 0,319
+[2019.12.12-09.34.14:482][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.34.22:236][591]LogBlueprintUserMessages: [TriggerBox_Blueprint4] Hello
+[2019.12.12-09.34.23:794][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.34.23:795][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.34.23:795][655]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.34.23:796][655]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.34.23:852][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.34.23:853][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.34.23:927][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.34.23:938][655]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2019.12.12-09.34.23:977][656]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.12-09.34.24:843][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.35.41:811][ 38]LogSlate: Took 0.002284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.12-09.35.44:983][316]BlueprintLog: New page: Compile HPandDF_Pawn1
+[2019.12.12-09.35.45:058][316]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2019.12.12-09.35.45:779][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SnowLevel/HPandDF_Pawn1" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset" SILENT=true
+[2019.12.12-09.35.45:853][355]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/HPandDF_Pawn16D4832CC48E19CBD5656EAACD37989D3.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset'
+[2019.12.12-09.35.51:423][861]BlueprintLog: New page: Compile HPandDF_Pawn1
+[2019.12.12-09.35.51:509][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.12.12-09.35.52:224][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SnowLevel/HPandDF_Pawn1" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset" SILENT=true
+[2019.12.12-09.35.52:298][889]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/HPandDF_Pawn18A3422B94FF5323FF9087CBD659D847E.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset'
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: 0000029AA1B1C900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC11699C6-4377-BA9A-B6E7-3DBE216A86D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=60fc57d247dfc17de90711927fd7a4e7%7Ca823292f2050481cb446752f76a489de%7Ce396ade7-f1a2-4aa4-955b-b521d6864aa4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: 0000029AA1B1C900: request failed, libcurl error: 0 (No error)
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: 0000029AA1B1C900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x29a12977f70 [can pipeline])
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: 0000029AA1B1C900: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: 0000029AA1B1C900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.45.123.19) port 443 (#6))
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: 0000029AA1B1C900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: 0000029AA1B1C900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: 0000029AA1B1C900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: 0000029AA1B1C900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: 0000029AA1B1C900: libcurl info message cache 7 (Closing connection 6)
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: 0000029AA1B1C900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.12-09.36.07:992][368]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC11699C6-4377-BA9A-B6E7-3DBE216A86D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=60fc57d247dfc17de90711927fd7a4e7%7Ca823292f2050481cb446752f76a489de%7Ce396ade7-f1a2-4aa4-955b-b521d6864aa4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.12-09.36.40:884][111]BlueprintLog: New page: Compile TriggerBox_Blueprint4
+[2019.12.12-09.36.41:137][111]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.12.12-09.36.41:690][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/TriggerBox_Blueprint4" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/TriggerBox_Blueprint4.uasset" SILENT=true
+[2019.12.12-09.36.41:762][153]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/TriggerBox_Blueprint42E91D6DA4E37F91CE72EF6AC8DE3E2EE.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/TriggerBox_Blueprint4.uasset'
+[2019.12.12-09.36.45:118][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Water" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.12-09.36.45:168][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.12.12-09.36.45:503][310]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Water2C09E28F4902C683889EE6A251CEE741.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water.umap'
+[2019.12.12-09.36.45:576][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterLevel/Water_BuiltData" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water_BuiltData.uasset" SILENT=true
+[2019.12.12-09.36.45:671][310]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Water_BuiltDataF6E5AC7B4CDD50427FF70BA46C3A2F70.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/WaterLevel/Water_BuiltData.uasset'
+[2019.12.12-09.36.46:265][323]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.36.47:097][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.36.47:097][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.36.47:097][323]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:36:47)
+[2019.12.12-09.36.47:098][323]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.36.47:138][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040699s)
+[2019.12.12-09.36.47:139][323]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.36.47:139][323]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2019.12.12-09.36.47:139][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.041818s)
+[2019.12.12-09.36.47:187][323]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.12-09.36.47:191][323]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.36.47:207][323]LogInit: FAudioDevice initialized.
+[2019.12.12-09.36.47:257][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-09.36.47:266][323]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.36.47:267][323]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.36.47
+[2019.12.12-09.36.47:268][323]LogWorld: Bringing up level for play took: 0.001283
+[2019.12.12-09.36.47:268][323]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.12.12-09.36.47:274][323]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water 1,111
+[2019.12.12-09.36.47:274][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.36.51:634][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.36.51:634][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.36.51:635][502]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.36.51:635][502]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.36.51:688][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.36.51:689][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.36.51:740][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.36.51:745][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.12.12-09.36.51:760][503]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.12-09.37.00:694][285]BlueprintLog: New page: Compile HPandDF_Pawn1
+[2019.12.12-09.37.00:748][285]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.12.12-09.37.01:295][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SnowLevel/HPandDF_Pawn1" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset" SILENT=true
+[2019.12.12-09.37.01:365][308]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/HPandDF_Pawn174B7C60F4DB8D0B300F29886009527DF.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/HPandDF_Pawn1.uasset'
+[2019.12.12-09.37.02:549][354]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-09.37.02:635][354]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.37.02:635][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-09.37.02:635][354]PIE: New page: PIE session: Water (12 дек. 2019 г., 15:37:02)
+[2019.12.12-09.37.02:635][354]LogPlayLevel: Creating play world package: /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.37.02:677][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041312s)
+[2019.12.12-09.37.02:678][354]LogAIModule: Creating AISystem for world Water
+[2019.12.12-09.37.02:678][354]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2019.12.12-09.37.02:678][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WaterLevel/Water.Water to /Game/WaterLevel/UEDPIE_0_Water.Water (0.042671s)
+[2019.12.12-09.37.02:721][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.12.12-09.37.02:725][354]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-09.37.02:741][354]LogInit: FAudioDevice initialized.
+[2019.12.12-09.37.02:751][354]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.12-09.37.02:752][354]LogWorld: Bringing World /Game/WaterLevel/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2019.12.12-12.37.02
+[2019.12.12-09.37.02:752][354]LogWorld: Bringing up level for play took: 0.000999
+[2019.12.12-09.37.02:752][354]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.12.12-09.37.02:759][354]PIE: Play in editor start time for /Game/WaterLevel/UEDPIE_0_Water 0,596
+[2019.12.12-09.37.02:760][354]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.37.06:659][515]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.37.06:660][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.37.06:660][515]LogWorld: BeginTearingDown for /Game/WaterLevel/UEDPIE_0_Water
+[2019.12.12-09.37.06:661][515]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-09.37.06:714][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-09.37.06:715][515]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WaterLevel/Water.Water:PersistentLevel' has LevelScriptBlueprint '/Game/WaterLevel/Water.Water:PersistentLevel.Water' with GeneratedClass '/Game/WaterLevel/Water.Water_C' with ClassGeneratedBy '/Game/WaterLevel/Water.Water:PersistentLevel.Water'
+[2019.12.12-09.37.06:767][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-09.37.06:772][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.12.12-09.37.06:787][516]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.12.12-09.37.10:571][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-09.37.35:856][868]LogUObjectBase: Warning: Object is not registered
+[2019.12.12-09.37.35:860][868]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.12-09.37.37:546][868]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.686 s
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: 
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: Stack: 
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff925455279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff924c77fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff924c8622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff927fc6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff923bd4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff923b8e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff92e5ed644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff92e7dc533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff92e63922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff92e615738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff92e609a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff950d54c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff950d426df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff950d57340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff950d3edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff977c163ed USER32.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff977c15de2 USER32.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff950d588e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff6448e6980 UE4Editor.exe!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff6448fa91c UE4Editor.exe!UnknownFunction []
+[2019.12.12-09.37.37:546][868]LogOutputDevice: Error: [Callstack] 0x00007ff6448fa9fa UE4Editor.exe!UnknownFunction []
+[2019.12.12-09.37.37:547][868]LogOutputDevice: Error: [Callstack] 0x00007ff64490b92c UE4Editor.exe!UnknownFunction []
+[2019.12.12-09.37.37:547][868]LogOutputDevice: Error: [Callstack] 0x00007ff64490e60e UE4Editor.exe!UnknownFunction []
+[2019.12.12-09.37.37:547][868]LogOutputDevice: Error: [Callstack] 0x00007ff977ab7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.12-09.37.37:547][868]LogOutputDevice: Error: [Callstack] 0x00007ff9789aced1 ntdll.dll!UnknownFunction []
+[2019.12.12-09.37.37:547][868]LogOutputDevice: Error: 
+[2019.12.12-09.37.37:550][868]LogStats:                SubmitErrorReport -  0.000 s

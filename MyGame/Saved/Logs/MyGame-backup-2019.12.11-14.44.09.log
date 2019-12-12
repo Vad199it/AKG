@@ -1,0 +1,718 @@
+﻿Log file open, 12/11/19 17:41:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.082887
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.11-14.41.50:858][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.11-14.41.50:858][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.11-14.41.50:858][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.11-14.41.50:858][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.11-14.41.50:858][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.11-14.41.50:858][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.11-14.41.50:859][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.11-14.41.50:859][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.11-14.41.50:859][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.11-14.41.50:873][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:873][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.11-14.41.50:873][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.11-14.41.50:873][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:873][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.11-14.41.50:874][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.11-14.41.50:875][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.11-14.41.50:875][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.11-14.41.50:875][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.11-14.41.50:878][  0]LogHAL: Display: Platform has ~ 8 GB [8433528832 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.11-14.41.50:878][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.11-14.41.50:878][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.12.11-14.41.50:878][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.12.11-14.41.50:878][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.12.11-14.41.50:878][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.11-14.41.50:879][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.11-14.41.50:880][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.11-14.41.50:880][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.11-14.41.50:880][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.11-14.41.50:880][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.11-14.41.50:880][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.11-14.41.50:880][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.11-14.41.50:880][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.11-14.41.50:880][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.11-14.41.50:880][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.11-14.41.50:880][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.11-14.41.50:880][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-14.41.50:880][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.11-14.41.50:881][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.11-14.41.50:881][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.11-14.41.50:881][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.11-14.41.50:881][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.11-14.41.50:881][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.11-14.41.50:882][  0]LogInit: Computer: CO-OT-P01
+[2019.12.11-14.41.50:882][  0]LogInit: User: MA
+[2019.12.11-14.41.50:882][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.11-14.41.50:882][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.11-14.41.50:882][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.11-14.41.50:882][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.11-14.41.50:882][  0]LogMemory: Process Physical Memory: 101.50 MB used, 101.51 MB peak
+[2019.12.11-14.41.50:882][  0]LogMemory: Process Virtual Memory: 103.86 MB used, 103.86 MB peak
+[2019.12.11-14.41.50:882][  0]LogMemory: Physical Memory: 3272.45 MB used,  4770.39 MB free, 8042.84 MB total
+[2019.12.11-14.41.50:882][  0]LogMemory: Virtual Memory: 4655.62 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.11-14.41.50:886][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.11-14.41.50:924][  0]LogInit: Using OS detected language (ru-RU).
+[2019.12.11-14.41.50:924][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.12.11-14.41.50:925][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.12.11-14.41.50:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.12.11-14.41.50:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.12.11-14.41.50:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.12.11-14.41.50:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.12.11-14.41.50:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.12.11-14.41.50:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.12.11-14.41.50:927][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.12.11-14.41.50:928][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.11-14.41.50:989][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.11-14.41.50:989][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.11-14.41.51:295][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.11-14.41.51:295][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.11-14.41.51:449][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.12.11-14.41.51:449][  0]LogD3D11RHI:       128/0/4021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.11-14.41.51:453][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.11-14.41.51:453][  0]LogD3D11RHI:       0/0/4021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.11-14.41.51:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.11-14.41.51:459][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.11-14.41.51:459][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.11-14.41.51:459][  0]LogWindows: EnumDisplayDevices:
+[2019.12.11-14.41.51:459][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.12.11-14.41.51:460][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.11-14.41.51:460][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.11-14.41.51:460][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.11-14.41.51:460][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.12.11-14.41.51:460][  0]LogD3D11RHI:   Driver Version: 26.20.100.7263 (internal:26.20.100.7263, unified:26.20.100.7263)
+[2019.12.11-14.41.51:460][  0]LogD3D11RHI:      Driver Date: 9-25-2019
+[2019.12.11-14.41.51:460][  0]LogRHI: Texture pool is 1497 MB (70% of 2138 MB)
+[2019.12.11-14.41.51:682][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.12.11-14.41.51:683][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.11-14.41.51:697][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.11-14.41.52:192][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.11-14.41.52:204][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.11-14.41.52:214][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.11-14.41.52:227][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.11-14.41.52:241][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.11-14.41.52:254][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.11-14.41.52:264][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.11-14.41.52:283][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.11-14.41.52:288][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.11-14.41.52:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.11-14.41.52:339][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.11-14.41.52:339][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.11-14.41.52:339][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.11-14.41.52:339][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.11-14.41.52:341][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.11-14.41.52:373][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.11-14.41.52:373][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.11-14.41.52:404][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.11-14.41.52:404][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.11-14.41.52:421][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.11-14.41.52:443][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.11-14.41.52:457][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.11-14.41.52:470][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.11-14.41.52:507][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.11-14.41.52:507][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.11-14.41.52:507][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.11-14.41.52:526][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.11-14.41.52:611][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Intermediate/Shaders/WorkingDirectory/9256/).
+[2019.12.11-14.41.52:611][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MA/AppData/Local/Temp/UnrealShaderWorkingDir/81E92EAA49A327861FE9A79A20793FB1/'.
+[2019.12.11-14.41.52:614][  0]LogXGEController: Cleaning working directory: C:/Users/MA/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.11-14.41.52:614][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.11-14.41.52:614][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.11-14.41.52:614][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.11-14.41.53:479][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.11-14.41.53:556][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.11-14.41.53:557][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.11-14.41.53:557][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.11-14.41.53:557][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.11-14.41.53:557][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.11-14.41.53:557][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.11-14.41.53:576][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.11-14.41.53:578][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.12.11-14.41.53:581][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.11-14.41.53:581][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.11-14.41.53:581][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.11-14.41.53:605][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.11-14.41.53:610][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.11-14.41.53:613][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.11-14.41.53:689][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2019.12.11-14.41.54:132][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.11-14.41.54:347][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.11-14.41.54:347][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.11-14.41.54:347][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.11-14.41.54:347][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.11-14.41.54:347][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.11-14.41.54:357][  0]LogNetVersion: MyGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 4240746401)
+[2019.12.11-14.41.54:979][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.086236 seconds
+[2019.12.11-14.41.54:986][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.11-14.41.54:986][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.11-14.41.54:986][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.11-14.41.56:276][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.11-14.41.56:280][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.11-14.41.56:361][  0]SourceControl: Source control is disabled
+[2019.12.11-14.41.56:361][  0]SourceControl: Source control is disabled
+[2019.12.11-14.41.56:363][  0]SourceControl: Source control is disabled
+[2019.12.11-14.41.56:364][  0]SourceControl: Source control is disabled
+[2019.12.11-14.41.56:613][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.11-14.41.56:757][  0]LogOcInput: OculusInput pre-init called
+[2019.12.11-14.41.56:769][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.11-14.41.56:769][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.11-14.42.00:169][  0]LogEngine: Initializing Engine...
+[2019.12.11-14.42.00:170][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.11-14.42.00:172][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.11-14.42.00:524][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.11-14.42.00:560][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.11-14.42.00:582][  0]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-14.42.00:760][  0]LogInit: FAudioDevice initialized.
+[2019.12.11-14.42.00:760][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.11-14.42.00:857][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.11-14.42.00:872][  0]LogInit: Texture streaming: Enabled
+[2019.12.11-14.42.00:897][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.11-14.42.00:897][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={A4ABE227-47E5-0DED-123A-AD98697E0628}
+[2019.12.11-14.42.00:897][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.11-14.42.00:898][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.11-14.42.01:001][  0]LogInit: Transaction tracking system initialized
+[2019.12.11-14.42.01:051][  0]BlueprintLog: New page: Editor Load
+[2019.12.11-14.42.01:168][  0]LocalizationService: Localization service is disabled
+[2019.12.11-14.42.01:685][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.11-14.42.01:685][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.11-14.42.02:280][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/' took 0.05s
+[2019.12.11-14.42.03:978][  0]SourceControl: Source control is disabled
+[2019.12.11-14.42.03:978][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.11-14.42.03:979][  0]LightingResults: New page: Lighting Build
+[2019.12.11-14.42.03:982][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-14.42.03:982][  0]MapCheck: New page: Map Check
+[2019.12.11-14.42.03:982][  0]LightingResults: New page: Lighting Build
+[2019.12.11-14.42.04:012][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2019.12.11-14.42.06:204][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.11-14.42.06:242][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.11-14.42.06:296][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.12.11-14.42.06:297][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-14.42.06:297][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,296ms to complete.
+[2019.12.11-14.42.06:297][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.319
+[2019.12.11-14.42.06:454][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-14.42.06:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-14.42.06:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-14.42.06:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-14.42.06:500][  0]LogCollectionManager: Loaded 0 collections in 0.002790 seconds
+[2019.12.11-14.42.06:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Collections/' took 0.00s
+[2019.12.11-14.42.06:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/Developers/MA/Collections/' took 0.00s
+[2019.12.11-14.42.06:522][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/Collections/' took 0.00s
+[2019.12.11-14.42.06:522][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.11-14.42.06:532][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3045 classes and 765 folders.
+[2019.12.11-14.42.06:542][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.11-14.42.06:611][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.11-14.42.06:733][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.11-14.42.06:740][  0]LogSlate: Took 0.000930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.11-14.42.06:743][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.11-14.42.06:818][  0]LogRenderer: Reallocating scene render targets to support 1156x744 Format 10 NumSamples 1 (Frame:1).
+[2019.12.11-14.42.06:978][  0]LogSlate: Took 0.001290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-14.42.07:097][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.11-14.42.07:097][  0]LogLoad: (Engine Initialization) Total time: 17.73 seconds
+[2019.12.11-14.42.07:097][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.11-14.42.07:495][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.11-14.42.07:615][  2]LogAssetRegistry: Asset discovery search completed in 13.9268 seconds
+[2019.12.11-14.42.07:622][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.11-14.42.07:622][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2019.12.11-14.42.10:229][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-14.42.19:859][142]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-14.42.20:116][142]LogAIModule: Creating AISystem for world Home
+[2019.12.11-14.42.20:130][142]LogAssetEditorManager: Opening Asset editor for World /Game/HomeLevel/Home.Home
+[2019.12.11-14.42.20:156][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.12.11-14.42.20:158][142]Cmd: MAP LOAD FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/HomeLevel/Home.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.11-14.42.20:158][142]LightingResults: New page: Lighting Build
+[2019.12.11-14.42.20:158][142]LoadErrors: New page: Loading map: Home.umap
+[2019.12.11-14.42.20:161][142]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-14.42.20:162][142]MapCheck: New page: Map Check
+[2019.12.11-14.42.20:163][142]LightingResults: New page: Lighting Build
+[2019.12.11-14.42.20:194][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.12.11-14.42.20:309][142]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.11-14.42.20:335][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.12.11-14.42.20:407][142]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-14.42.20:408][142]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,212ms to complete.
+[2019.12.11-14.42.20:408][142]LogFileHelpers: Loading map 'Home' took 0.252
+[2019.12.11-14.42.22:387][175]LogEditorViewport: Clicking on Actor (LMB): TriggerBox_Door_C (TriggerBox_Door)
+[2019.12.11-14.42.24:103][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-14.42.24:919][253]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-14.42.24:922][253]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/HomeLevel/TriggerBox_Door.TriggerBox_Door
+[2019.12.11-14.42.25:204][253]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.12.11-14.42.26:232][253]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.11-14.42.26:368][254]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.11-14.42.42:746][ 41]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.11-14.43.02:654][143]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-14.43.02:690][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HomeLevel/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/HomeLevel/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/HomeLevel/Home.Home_C' with ClassGeneratedBy '/Game/HomeLevel/Home.Home:PersistentLevel.Home'
+[2019.12.11-14.43.02:690][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-14.43.02:691][143]PIE: New page: PIE session: Home (11 дек. 2019 г., 20:43:02)
+[2019.12.11-14.43.02:692][143]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.11-14.43.02:693][143]LogPlayLevel: Creating play world package: /Game/HomeLevel/UEDPIE_0_Home
+[2019.12.11-14.43.02:699][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005103s)
+[2019.12.11-14.43.02:704][143]LogAIModule: Creating AISystem for world Home
+[2019.12.11-14.43.02:705][143]LogPlayLevel: PIE: World Init took: (0.005819s)
+[2019.12.11-14.43.02:705][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HomeLevel/Home.Home to /Game/HomeLevel/UEDPIE_0_Home.Home (0.011352s)
+[2019.12.11-14.43.02:785][143]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2019.12.11-14.43.02:790][143]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-14.43.02:810][143]LogInit: FAudioDevice initialized.
+[2019.12.11-14.43.02:822][143]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.11-14.43.02:823][143]LogWorld: Bringing World /Game/HomeLevel/UEDPIE_0_Home.Home up for play (max tick rate 60) at 2019.12.11-17.43.02
+[2019.12.11-14.43.02:824][143]LogWorld: Bringing up level for play took: 0.001136
+[2019.12.11-14.43.02:824][143]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.11-14.43.02:832][143]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.11-14.43.02:833][143]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.11-14.43.02:833][143]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.11-14.43.02:834][143]LogStreaming: Warning: Failed to read file '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/SaveGames/SoundSave.sav' error.
+[2019.12.11-14.43.02:836][143]PIE: Play in editor start time for /Game/HomeLevel/UEDPIE_0_Home -0,324
+[2019.12.11-14.43.02:836][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HomeLevel/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/HomeLevel/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/HomeLevel/Home.Home_C' with ClassGeneratedBy '/Game/HomeLevel/Home.Home:PersistentLevel.Home'
+[2019.12.11-14.43.07:131][320]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={D92B7FD6-4233-98ED-E3BA-E4B140A683F1}
+[2019.12.11-14.43.07:132][320]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B5032F3D-42FC-4019-F36A-14A305060078}
+[2019.12.11-14.43.07:211][324]LogHttp: Warning: 000001F1D2D7B9C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B412ABB13-4B34-E65F-6238-EFB165D161C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=60fc57d247dfc17de90711927fd7a4e7%7Ca823292f2050481cb446752f76a489de%7Ce396ade7-f1a2-4aa4-955b-b521d6864aa4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.11-14.43.07:211][324]LogHttp: Warning: 000001F1D2D7B9C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.11-14.43.07:211][324]LogHttp: Warning: 000001F1D2D7B9C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.11-14.43.07:211][324]LogHttp: Warning: 000001F1D2D7B9C0: libcurl info message cache 1 (Closing connection 0)
+[2019.12.11-14.43.07:211][324]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B412ABB13-4B34-E65F-6238-EFB165D161C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=60fc57d247dfc17de90711927fd7a4e7%7Ca823292f2050481cb446752f76a489de%7Ce396ade7-f1a2-4aa4-955b-b521d6864aa4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.11-14.43.08:229][370]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	TriggerBox_Door_C /Game/HomeLevel/UEDPIE_0_Home.Home:PersistentLevel.TriggerBox_Door
+	Function /Game/HomeLevel/TriggerBox_Door.TriggerBox_Door_C:ExecuteUbergraph_TriggerBox_Door:001C
+[2019.12.11-14.43.08:230][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  TriggerBox_Door Function:  Execute Ubergraph Trigger Box Door Graph:  EventGraph Node:  Set Visibility
+[2019.12.11-14.43.10:166][455]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	TriggerBox_Door_C /Game/HomeLevel/UEDPIE_0_Home.Home:PersistentLevel.TriggerBox_Door
+	Function /Game/HomeLevel/TriggerBox_Door.TriggerBox_Door_C:ExecuteUbergraph_TriggerBox_Door:001C
+[2019.12.11-14.43.10:167][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  TriggerBox_Door Function:  Execute Ubergraph Trigger Box Door Graph:  EventGraph Node:  Set Visibility
+[2019.12.11-14.43.12:018][537]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	TriggerBox_Door_C /Game/HomeLevel/UEDPIE_0_Home.Home:PersistentLevel.TriggerBox_Door
+	Function /Game/HomeLevel/TriggerBox_Door.TriggerBox_Door_C:ExecuteUbergraph_TriggerBox_Door:001C
+[2019.12.11-14.43.12:019][537]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  TriggerBox_Door Function:  Execute Ubergraph Trigger Box Door Graph:  EventGraph Node:  Set Visibility
+[2019.12.11-14.43.14:182][634]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	TriggerBox_Door_C /Game/HomeLevel/UEDPIE_0_Home.Home:PersistentLevel.TriggerBox_Door
+	Function /Game/HomeLevel/TriggerBox_Door.TriggerBox_Door_C:ExecuteUbergraph_TriggerBox_Door:001C
+[2019.12.11-14.43.14:182][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  TriggerBox_Door Function:  Execute Ubergraph Trigger Box Door Graph:  EventGraph Node:  Set Visibility
+[2019.12.11-14.43.16:748][748]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	TriggerBox2_C /Game/HomeLevel/UEDPIE_0_Home.Home:PersistentLevel.TriggerBox5
+	Function /Game/HomeLevel/TriggerBox2.TriggerBox2_C:ExecuteUbergraph_TriggerBox2:04E3
+[2019.12.11-14.43.16:748][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  TriggerBox2 Function:  Execute Ubergraph Trigger Box 2 Graph:  EventGraph Node:  Set Visibility
+[2019.12.11-14.43.19:363][865]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	TriggerBox2_C /Game/HomeLevel/UEDPIE_0_Home.Home:PersistentLevel.TriggerBox5
+	Function /Game/HomeLevel/TriggerBox2.TriggerBox2_C:ExecuteUbergraph_TriggerBox2:04E3
+[2019.12.11-14.43.19:364][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  TriggerBox2 Function:  Execute Ubergraph Trigger Box 2 Graph:  EventGraph Node:  Set Visibility
+[2019.12.11-14.43.21:112][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HomeLevel/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/HomeLevel/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/HomeLevel/Home.Home_C' with ClassGeneratedBy '/Game/HomeLevel/Home.Home:PersistentLevel.Home'
+[2019.12.11-14.43.21:116][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-14.43.21:116][942]LogWorld: BeginTearingDown for /Game/HomeLevel/UEDPIE_0_Home
+[2019.12.11-14.43.21:116][942]LogWorld: UWorld::CleanupWorld for Home, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-14.43.21:169][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-14.43.21:170][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HomeLevel/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/HomeLevel/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/HomeLevel/Home.Home_C' with ClassGeneratedBy '/Game/HomeLevel/Home.Home:PersistentLevel.Home'
+[2019.12.11-14.43.21:218][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-14.43.21:234][942]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.11-14.43.21:234][942]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.11-14.43.21:274][942]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2019.12.11-14.43.21:286][942]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-14.43.21:347][943]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.11-14.43.23:815][991]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-14.43.23:875][991]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-14.43.26:643][ 95]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.11-14.43.40:831][632]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyyGameInstance.MyyGameInstance
+[2019.12.11-14.43.45:097][712]LogSlate: Window 'MyyGameInstance' being destroyed
+[2019.12.11-14.43.57:989][406]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-14.43.58:084][406]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HomeLevel/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/HomeLevel/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/HomeLevel/Home.Home_C' with ClassGeneratedBy '/Game/HomeLevel/Home.Home:PersistentLevel.Home'
+[2019.12.11-14.43.58:084][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-14.43.58:085][406]PIE: New page: PIE session: Home (11 дек. 2019 г., 20:43:58)
+[2019.12.11-14.43.58:085][406]LogPlayLevel: Creating play world package: /Game/HomeLevel/UEDPIE_0_Home
+[2019.12.11-14.43.58:090][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004448s)
+[2019.12.11-14.43.58:090][406]LogAIModule: Creating AISystem for world Home
+[2019.12.11-14.43.58:091][406]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2019.12.11-14.43.58:091][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HomeLevel/Home.Home to /Game/HomeLevel/UEDPIE_0_Home.Home (0.005696s)
+[2019.12.11-14.43.58:162][406]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.12.11-14.43.58:166][406]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-14.43.58:183][406]LogInit: FAudioDevice initialized.
+[2019.12.11-14.43.58:191][406]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.11-14.43.58:193][406]LogWorld: Bringing World /Game/HomeLevel/UEDPIE_0_Home.Home up for play (max tick rate 60) at 2019.12.11-17.43.58
+[2019.12.11-14.43.58:193][406]LogWorld: Bringing up level for play took: 0.001070
+[2019.12.11-14.43.58:193][406]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.11-14.43.58:196][406]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.11-14.43.58:196][406]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.11-14.43.58:197][406]LogStreaming: Warning: Failed to read file '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/SaveGames/SoundSave.sav' error.
+[2019.12.11-14.43.58:198][406]PIE: Play in editor start time for /Game/HomeLevel/UEDPIE_0_Home 1,038
+[2019.12.11-14.43.58:198][406]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HomeLevel/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/HomeLevel/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/HomeLevel/Home.Home_C' with ClassGeneratedBy '/Game/HomeLevel/Home.Home:PersistentLevel.Home'
+[2019.12.11-14.44.03:056][626]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	TriggerBox_Door_C /Game/HomeLevel/UEDPIE_0_Home.Home:PersistentLevel.TriggerBox_Door
+	Function /Game/HomeLevel/TriggerBox_Door.TriggerBox_Door_C:ExecuteUbergraph_TriggerBox_Door:001C
+[2019.12.11-14.44.03:057][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  TriggerBox_Door Function:  Execute Ubergraph Trigger Box Door Graph:  EventGraph Node:  Set Visibility
+[2019.12.11-14.44.07:137][810]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={98E2ECB8-46C0-B128-F512-E19CAFE7AE7E}
+[2019.12.11-14.44.07:753][838]LogNet: Browse: /Game/StarterContent/Maps/Minimal_Default
+[2019.12.11-14.44.07:753][838]LogLoad: LoadMap: /Game/StarterContent/Maps/Minimal_Default
+[2019.12.11-14.44.07:753][838]LogWorld: BeginTearingDown for /Game/HomeLevel/UEDPIE_0_Home
+[2019.12.11-14.44.07:754][838]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	TriggerBox_Door_C /Game/HomeLevel/UEDPIE_0_Home.Home:PersistentLevel.TriggerBox_Door
+	Function /Game/HomeLevel/TriggerBox_Door.TriggerBox_Door_C:ExecuteUbergraph_TriggerBox_Door:001C
+[2019.12.11-14.44.07:754][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  TriggerBox_Door Function:  Execute Ubergraph Trigger Box Door Graph:  EventGraph Node:  Set Visibility
+[2019.12.11-14.44.07:756][838]LogScript: Warning: Script Msg: No world was found for object (/Engine/Transient.SaveSound_C_1) passed in to UEngine::GetWorldFromContextObject().
+[2019.12.11-14.44.09:477][838]LogWindows: Error: === Critical error: ===
+[2019.12.11-14.44.09:477][838]LogWindows: Error: 
+[2019.12.11-14.44.09:477][838]LogWindows: Error: Fatal error!
+[2019.12.11-14.44.09:477][838]LogWindows: Error: 
+[2019.12.11-14.44.09:477][838]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000010
+[2019.12.11-14.44.09:477][838]LogWindows: Error: 
+[2019.12.11-14.44.09:477][838]LogWindows: Error: [Callstack] 0x00007ff91f3d2721 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.11-14.44.09:477][838]LogWindows: Error: [Callstack] 0x00007ff91f39ffc3 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff91f33fc00 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff9219c84b8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff921bdd50e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff921bffdc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff921c01e62 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff921bd163b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff921c01b73 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff921c01e62 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff921c017b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff9219c84b8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff921c012b7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff91eceaa33 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff91ff2dcd8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff91ecc7e88 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff91ecf7dce UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff91fe082eb UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff91fdca42a UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff91fe226b0 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff91d26dc1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff91dac5296 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff7b6587b0a UE4Editor.exe!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff7b659a91c UE4Editor.exe!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff7b659a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff7b65ab92c UE4Editor.exe!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff7b65ae60e UE4Editor.exe!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff977ab7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: [Callstack] 0x00007ff9789aced1 ntdll.dll!UnknownFunction []
+[2019.12.11-14.44.09:478][838]LogWindows: Error: 
+[2019.12.11-14.44.09:497][838]LogExit: Executing StaticShutdownAfterError
+[2019.12.11-14.44.09:502][838]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.12.11-14.44.09:507][838]Log file closed, 12/11/19 17:44:09

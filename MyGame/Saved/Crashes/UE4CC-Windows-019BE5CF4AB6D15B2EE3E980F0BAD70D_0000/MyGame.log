@@ -1,0 +1,1705 @@
+﻿Log file open, 12/28/19 18:39:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.237957
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.28-15.39.30:558][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.28-15.39.30:558][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.28-15.39.30:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.28-15.39.30:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.28-15.39.30:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.28-15.39.30:559][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.28-15.39.30:563][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:563][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.28-15.39.30:563][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.28-15.39.30:564][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.28-15.39.30:565][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.28-15.39.30:566][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.28-15.39.30:566][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.28-15.39.30:566][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.28-15.39.30:566][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.28-15.39.30:566][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.28-15.39.30:566][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:566][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.28-15.39.30:566][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.28-15.39.30:566][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.28-15.39.30:566][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.28-15.39.30:574][  0]LogHAL: Display: Platform has ~ 8 GB [8433528832 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.28-15.39.30:574][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.28-15.39.30:575][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.12.28-15.39.30:575][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.28-15.39.30:576][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.28-15.39.30:578][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.28-15.39.30:578][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.28-15.39.30:578][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Config/Windows/Engine.ini]
+[2019.12.28-15.39.30:579][  0]LogInit: Computer: CO-OT-P01
+[2019.12.28-15.39.30:579][  0]LogInit: User: MA
+[2019.12.28-15.39.30:579][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.28-15.39.30:579][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.28-15.39.30:579][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.28-15.39.30:579][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.28-15.39.30:579][  0]LogMemory: Process Physical Memory: 102.80 MB used, 102.81 MB peak
+[2019.12.28-15.39.30:579][  0]LogMemory: Process Virtual Memory: 102.22 MB used, 102.22 MB peak
+[2019.12.28-15.39.30:579][  0]LogMemory: Physical Memory: 4052.53 MB used,  3990.31 MB free, 8042.84 MB total
+[2019.12.28-15.39.30:579][  0]LogMemory: Virtual Memory: 4654.05 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.28-15.39.30:585][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.28-15.39.30:673][  0]LogInit: Using OS detected language (ru-RU).
+[2019.12.28-15.39.30:673][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.12.28-15.39.30:678][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.12.28-15.39.30:679][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.12.28-15.39.30:679][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.12.28-15.39.30:679][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.12.28-15.39.30:679][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.12.28-15.39.30:680][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.12.28-15.39.30:681][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.12.28-15.39.30:681][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.12.28-15.39.30:687][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.28-15.39.30:776][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.28-15.39.30:776][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.28-15.39.31:705][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.28-15.39.31:705][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.28-15.39.31:794][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.12.28-15.39.31:794][  0]LogD3D11RHI:       128/0/4021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.28-15.39.31:798][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.28-15.39.31:798][  0]LogD3D11RHI:       0/0/4021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.28-15.39.31:798][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.28-15.39.31:805][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.28-15.39.31:805][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.28-15.39.31:805][  0]LogWindows: EnumDisplayDevices:
+[2019.12.28-15.39.31:806][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.12.28-15.39.31:806][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.28-15.39.31:806][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.28-15.39.31:806][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.28-15.39.31:807][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.12.28-15.39.31:807][  0]LogD3D11RHI:   Driver Version: 26.20.100.7263 (internal:26.20.100.7263, unified:26.20.100.7263)
+[2019.12.28-15.39.31:807][  0]LogD3D11RHI:      Driver Date: 9-25-2019
+[2019.12.28-15.39.31:807][  0]LogRHI: Texture pool is 1497 MB (70% of 2138 MB)
+[2019.12.28-15.39.32:000][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.12.28-15.39.32:000][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.28-15.39.32:010][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.28-15.39.32:435][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.28-15.39.32:448][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.28-15.39.32:461][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.28-15.39.32:475][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.28-15.39.32:492][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.28-15.39.32:505][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.28-15.39.32:518][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.28-15.39.32:532][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.28-15.39.32:541][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.28-15.39.32:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.28-15.39.32:592][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.28-15.39.32:624][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.28-15.39.32:624][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.28-15.39.32:642][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.28-15.39.32:642][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.28-15.39.32:654][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.28-15.39.32:664][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.28-15.39.32:676][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.28-15.39.32:692][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.28-15.39.32:724][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.28-15.39.32:724][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.28-15.39.32:724][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.28-15.39.32:750][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.28-15.39.32:900][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Intermediate/Shaders/WorkingDirectory/3520/).
+[2019.12.28-15.39.32:901][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MA/AppData/Local/Temp/UnrealShaderWorkingDir/4F67A2214B2CFE595767AF80536DF31D/'.
+[2019.12.28-15.39.32:905][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.28-15.39.32:905][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.28-15.39.32:905][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.28-15.39.34:418][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.28-15.39.34:529][  0]LogDerivedDataCache: Loaded boot cache 0.11s 74MB C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.28-15.39.34:530][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.28-15.39.34:530][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.28-15.39.34:530][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.28-15.39.34:530][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.28-15.39.34:530][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.28-15.39.34:545][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.28-15.39.34:549][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.12.28-15.39.34:552][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.28-15.39.34:552][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.28-15.39.34:552][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.28-15.39.34:576][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.28-15.39.34:580][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.28-15.39.34:585][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.28-15.39.34:952][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2019.12.28-15.39.35:395][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.28-15.39.35:657][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.28-15.39.35:657][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.28-15.39.35:657][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.28-15.39.35:658][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.28-15.39.35:658][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.28-15.39.35:677][  0]LogNetVersion: MyGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 4240746401)
+[2019.12.28-15.39.36:415][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.098035 seconds
+[2019.12.28-15.39.36:423][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.28-15.39.36:423][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.28-15.39.36:423][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.28-15.39.40:613][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.28-15.39.40:623][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.28-15.39.40:837][  0]SourceControl: Source control is disabled
+[2019.12.28-15.39.40:837][  0]SourceControl: Source control is disabled
+[2019.12.28-15.39.40:846][  0]SourceControl: Source control is disabled
+[2019.12.28-15.39.40:850][  0]SourceControl: Source control is disabled
+[2019.12.28-15.39.41:498][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.28-15.39.41:765][  0]LogOcInput: OculusInput pre-init called
+[2019.12.28-15.39.41:788][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.28-15.39.41:788][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.28-15.39.46:596][  0]LogEngine: Initializing Engine...
+[2019.12.28-15.39.46:599][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.28-15.39.46:600][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.28-15.39.46:906][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.28-15.39.46:948][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.28-15.39.46:971][  0]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-15.39.47:132][  0]LogInit: FAudioDevice initialized.
+[2019.12.28-15.39.47:133][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.28-15.39.47:225][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/MA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.28-15.39.47:228][  0]LogInit: Texture streaming: Enabled
+[2019.12.28-15.39.47:267][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.28-15.39.47:267][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.28-15.39.47:269][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.28-15.39.47:385][  0]LogInit: Transaction tracking system initialized
+[2019.12.28-15.39.47:470][  0]BlueprintLog: New page: Editor Load
+[2019.12.28-15.39.47:670][  0]LocalizationService: Localization service is disabled
+[2019.12.28-15.39.48:198][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.28-15.39.48:199][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/' took 0.03s
+[2019.12.28-15.39.48:199][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.28-15.39.50:472][  0]SourceControl: Source control is disabled
+[2019.12.28-15.39.50:473][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.28-15.39.50:473][  0]LightingResults: New page: Lighting Build
+[2019.12.28-15.39.50:480][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-15.39.50:480][  0]MapCheck: New page: Map Check
+[2019.12.28-15.39.50:480][  0]LightingResults: New page: Lighting Build
+[2019.12.28-15.39.50:507][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.12.28-15.39.53:184][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-15.39.53:251][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.28-15.39.53:297][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.28-15.39.53:297][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.28-15.39.53:298][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,251ms to complete.
+[2019.12.28-15.39.53:298][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.826
+[2019.12.28-15.39.53:363][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.28-15.39.53:363][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.28-15.39.53:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-15.39.53:482][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-15.39.53:491][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-15.39.53:498][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-15.39.53:535][  0]LogCollectionManager: Loaded 0 collections in 0.002390 seconds
+[2019.12.28-15.39.53:548][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Collections/' took 0.00s
+[2019.12.28-15.39.53:548][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/Developers/MA/Collections/' took 0.00s
+[2019.12.28-15.39.53:548][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/Collections/' took 0.00s
+[2019.12.28-15.39.53:548][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.28-15.39.53:559][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3054 classes and 770 folders.
+[2019.12.28-15.39.53:575][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.28-15.39.53:892][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.28-15.39.54:086][  0]LogSlate: Took 0.003845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.28-15.39.54:094][  0]LogSlate: Took 0.002588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.28-15.39.54:104][  0]LogSlate: Took 0.004307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.28-15.39.54:152][  0]LogRenderer: Reallocating scene render targets to support 1156x744 Format 10 NumSamples 1 (Frame:1).
+[2019.12.28-15.39.54:306][  0]LogSlate: Took 0.002013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.28-15.39.54:373][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.28-15.39.54:373][  0]LogLoad: (Engine Initialization) Total time: 29.99 seconds
+[2019.12.28-15.39.54:373][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.28-15.39.54:514][  0]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.28-15.39.54:514][  0]Can't find target actor or component.
+[2019.12.28-15.39.54:777][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.28-15.39.55:685][  8]LogSlate: Took 0.000535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.28-15.39.55:900][ 11]LogAssetRegistry: Asset discovery search completed in 20.9495 seconds
+[2019.12.28-15.39.55:910][ 11]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2019.12.28-15.39.55:910][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000100 seconds (updated 0 objects)
+[2019.12.28-15.40.58:916][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-15.40.59:138][245]LogSlate: Window 'Plugins' being destroyed
+[2019.12.28-15.40.59:158][245]LogSlate: Window 'Plugins' being destroyed
+[2019.12.28-15.40.59:158][245]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.12.28-15.40.59:158][245]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.23/Enterprise/Plugins/' was aborted.
+[2019.12.28-15.41.01:768][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-15.41.04:795][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-15.41.12:440][998]LogStaticMesh: Building static mesh Floor_400x400...
+[2019.12.28-15.41.12:622][998]LogStaticMesh: Built static mesh [0.19s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.12.28-15.41.16:066][282]LogDestructible: Warning: MainMesh Tris: 12
+[2019.12.28-15.41.16:081][282]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2019.12.28-15.41.16:082][282]LogApexDestructibleAssetImport: Warning: Bones digested - 2  Depth of hierarchy - 2
+[2019.12.28-15.41.16:101][282]LogSkeletalMesh: Section 0: 35 vertices, 1 active bones
+[2019.12.28-15.41.16:109][282]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2019.12.28-15.41.16:110][282]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.41.16:111][282]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.41.16:113][282]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.41.16:113][282]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.41.16:128][282]LogAssetEditorManager: Opening Asset editor for DestructibleMesh /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.41.16:143][282]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.28-15.41.16:148][282]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2019.12.28-15.41.16:347][282]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 69
+[2019.12.28-15.41.16:347][282]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2019.12.28-15.41.16:347][282]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.12.28-15.41.21:569][359]LogSlate: Window 'Floor_400x400_DM' being destroyed
+[2019.12.28-15.41.27:121][651]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.12.28-15.41.31:120][792]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2019.12.28-15.41.31:777][835]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.12.28-15.41.33:338][890]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.12.28-15.41.34:727][952]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.12.28-15.41.36:901][ 32]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.12.28-15.41.37:309][ 51]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.12.28-15.41.37:965][117]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.28-15.42.56:789][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-15.44.02:497][336]LogDestructible: Warning: MainMesh Tris: 12
+[2019.12.28-15.44.02:526][336]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2019.12.28-15.44.02:526][336]LogApexDestructibleAssetImport: Warning: Bones digested - 42  Depth of hierarchy - 2
+[2019.12.28-15.44.02:547][336]LogSkeletalMesh: Section 0: 2467 vertices, 41 active bones
+[2019.12.28-15.44.02:550][336]LogSkeletalMesh: Section 0: Material=0, 836 triangles
+[2019.12.28-15.44.02:552][336]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.44.02:554][336]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.45.01:098][234]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.45.01:100][234]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.46.29:800][674]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.46.29:802][674]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.46.29:803][674]LogMaterial: Display: Material /Game/MuffinWar/Materials/M_Base.M_Base needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.28-15.46.29:843][674]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2019.12.28-15.46.29:914][674]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 69
+[2019.12.28-15.46.29:914][674]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2019.12.28-15.46.29:914][674]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.12.28-15.46.39:653][ 46]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.46.39:657][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.46.46:738][324]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.12.28-15.46.50:816][495]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.46.50:819][495]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.46.50:820][495]LogMaterial: Display: Material /Game/SnowLevel/Item/01_-_Default.01_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.28-15.46.50:827][495]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2019.12.28-15.46.54:375][601]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 89
+[2019.12.28-15.47.02:315][858]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.47.02:323][858]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.47.02:323][858]LogMaterial: Display: Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.28-15.47.02:334][858]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.12.28-15.47.03:807][940]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 206
+[2019.12.28-15.47.05:897][ 20]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 196
+[2019.12.28-15.47.15:997][283]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 186
+[2019.12.28-15.47.22:593][442]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 176
+[2019.12.28-15.47.24:137][476]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.47.24:140][476]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.47.26:191][602]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 166
+[2019.12.28-15.47.26:888][627]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Floor_400x400_DM10120F3040F0ADF71E4C058ED0C5DF77.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Architecture/Floor_400x400_DM.uasset'
+[2019.12.28-15.47.32:406][908]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 156
+[2019.12.28-15.47.38:963][230]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 146
+[2019.12.28-15.47.38:963][230]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 136
+[2019.12.28-15.47.43:556][459]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 126
+[2019.12.28-15.47.49:296][748]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 116
+[2019.12.28-15.47.51:124][845]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 106
+[2019.12.28-15.47.58:350][125]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 96
+[2019.12.28-15.48.08:812][705]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 86
+[2019.12.28-15.48.09:707][756]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 76
+[2019.12.28-15.48.10:467][798]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 66
+[2019.12.28-15.48.22:081][450]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2019.12.28-15.48.23:379][525]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2019.12.28-15.48.24:977][615]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2019.12.28-15.48.35:187][188]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2019.12.28-15.48.35:327][196]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2019.12.28-15.48.36:682][274]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.12.28-15.48.41:974][576]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.12.28-15.48.43:662][673]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.12.28-15.48.45:977][804]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.12.28-15.48.46:995][863]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.12.28-15.49.28:887][281]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Floor_400x400_DM3C5E0CC844C9AE43DED0E8BDB82BAA22.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Architecture/Floor_400x400_DM.uasset'
+[2019.12.28-15.49.32:040][344]LogActorFactory: Actor Factory created Floor_400x400
+[2019.12.28-15.49.33:359][357]LogActorFactory: Actor Factory created Floor_400x400
+[2019.12.28-15.49.35:097][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-15.49.36:770][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.12.28-15.49.37:946][408]Cmd: DELETE
+[2019.12.28-15.49.37:946][408]Cmd: ACTOR DELETE
+[2019.12.28-15.49.37:958][408]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.28-15.49.38:047][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.12.28-15.49.38:048][408]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2019.12.28-15.49.40:335][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-15.49.48:204][581]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.28-15.49.48:204][581]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.28-15.49.55:467][766]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={273CEAC2-4815-D325-F873-909FABFB5484}
+[2019.12.28-15.50.10:999][ 50]Cmd: DELETE
+[2019.12.28-15.50.10:999][ 50]Cmd: ACTOR DELETE
+[2019.12.28-15.50.11:008][ 50]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.12.28-15.50.11:100][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.12.28-15.50.11:101][ 50]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2019.12.28-15.50.12:434][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-15.50.43:614][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.12.28-15.50.43:982][613]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Minimal_Default_Auto1C4C388FC482354393664FF8A0039E129.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2019.12.28-15.50.43:986][613]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.401
+[2019.12.28-15.50.43:986][613]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.401
+[2019.12.28-15.50.43:989][613]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2019.12.28-15.50.44:021][613]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial]
+[2019.12.28-15.50.44:021][613]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2019.12.28-15.50.44:062][613]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/BasicShapeMaterial_Auto165AAF36541C0F8AB82189782820D70C0.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto1.uasset'
+[2019.12.28-15.50.44:065][613]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Basic_Floor] ([1] browsable assets)...
+[2019.12.28-15.50.44:091][613]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor]
+[2019.12.28-15.50.44:091][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Basic_Floor]
+[2019.12.28-15.50.44:135][613]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/M_Basic_Floor_Auto1FB606DB54A5182291D502B8A9BEAE951.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Autosaves/Game/StarterContent/Materials/M_Basic_Floor_Auto1.uasset'
+[2019.12.28-15.50.44:137][613]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MuffinWar/Materials/M_Base] ([1] browsable assets)...
+[2019.12.28-15.50.44:186][613]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MuffinWar/Materials/M_Base.M_Base]
+[2019.12.28-15.50.44:186][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/MuffinWar/Materials/M_Base]
+[2019.12.28-15.50.44:236][613]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/M_Base_Auto12985ACEB41F02A0FC4BDA8901B82CD44.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Autosaves/Game/MuffinWar/Materials/M_Base_Auto1.uasset'
+[2019.12.28-15.50.44:239][613]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SnowLevel/Item/01_-_Default] ([1] browsable assets)...
+[2019.12.28-15.50.44:266][613]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SnowLevel/Item/01_-_Default.01_-_Default]
+[2019.12.28-15.50.44:267][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/SnowLevel/Item/01_-_Default]
+[2019.12.28-15.50.44:309][613]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/01_-_Default_Auto13A5117B049C8E755E7ED9CA3199C2C0B.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Autosaves/Game/SnowLevel/Item/01_-_Default_Auto1.uasset'
+[2019.12.28-15.50.44:310][613]LogFileHelpers: Auto-saving content packages took 0.323
+[2019.12.28-15.52.25:110][ 53]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.52.25:112][ 53]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.52.32:773][496]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.52.32:776][496]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.52.47:467][951]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.52.47:468][951]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.52.52:992][275]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-15.52.52:995][275]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-15.58.00:313][600]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Floor_400x400_DM)
+[2019.12.28-15.58.00:859][606]Cmd: DELETE
+[2019.12.28-15.58.00:859][606]Cmd: ACTOR DELETE
+[2019.12.28-15.58.00:881][606]LogEditorActor: Deleted Actor: DestructibleActor
+[2019.12.28-15.58.00:972][606]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2019.12.28-15.58.00:972][606]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2019.12.28-15.58.03:307][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-15.58.16:374][991]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.28-15.58.24:388][ 69]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EndLevel/floor.floor
+[2019.12.28-15.58.24:729][ 69]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.12.28-15.58.37:603][478]LogSlate: Took 0.005439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.28-15.59.25:531][563]BlueprintLog: New page: Compile floor
+[2019.12.28-15.59.25:773][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.12.28-15.59.26:563][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/floor" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset" SILENT=true
+[2019.12.28-15.59.26:577][586]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/floor3F857978423AFB5182A056A57ADFA6B4.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset'
+[2019.12.28-15.59.39:940][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-15.59.55:807][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.00.11:433][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.00.19:958][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.00.31:503][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.00.38:754][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.00.42:501][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.00.53:744][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.02:068][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.07:524][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.12:239][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.19:275][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.26:581][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.31:702][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.35:564][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.39:893][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.44:404][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.48:662][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.54:280][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.01.54:480][271]BlueprintLog: New page: Compile floor
+[2019.12.28-16.01.54:733][271]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.12.28-16.02.09:527][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.02.12:997][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.02.13:179][678]BlueprintLog: New page: Compile floor
+[2019.12.28-16.02.13:434][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.12.28-16.02.20:813][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.02.21:049][789]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2019.12.28-16.02.21:515][789]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Minimal_Default610170494CA1CADDEA157095E486EA67.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.12.28-16.02.22:016][789]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Minimal_Default_BuiltData3528266A4CC703B390E7EDA4954870C1.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.12.28-16.02.32:636][956]LogSlate: Took 0.007473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.28-16.04.10:493][  3]BlueprintLog: New page: Compile floor
+[2019.12.28-16.04.10:495][  3]LogBlueprint: Error: [Compiler floor] The current value (0, 0, 0) of the ' Hurt Origin ' pin is invalid: 'Hurt Origin' in action 'Apply Radius Damage' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.12.28-16.04.10:736][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.12.28-16.04.11:482][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/floor" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset" SILENT=true
+[2019.12.28-16.04.11:528][ 46]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/floorE56C2CC44C566403CBE0748DE6394628.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset'
+[2019.12.28-16.04.38:641][609]LogEditorTransaction: Undo Move Node
+[2019.12.28-16.04.39:041][631]LogEditorTransaction: Undo Delete current selection
+[2019.12.28-16.04.39:919][682]LogEditorTransaction: Undo Add Node
+[2019.12.28-16.04.40:373][703]LogEditorTransaction: Undo Delete current selection
+[2019.12.28-16.04.41:156][747]LogEditorTransaction: Undo Move Node
+[2019.12.28-16.04.41:789][782]LogEditorTransaction: Undo Add Node
+[2019.12.28-16.06.01:797][149]BlueprintLog: New page: Compile floor
+[2019.12.28-16.06.02:036][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.12.28-16.06.02:741][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/floor" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset" SILENT=true
+[2019.12.28-16.06.02:785][190]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/floorECBB858D4E47BBB1C1EBE7AEEB617C8A.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset'
+[2019.12.28-16.07.14:763][366]BlueprintLog: New page: Compile floor
+[2019.12.28-16.07.15:017][366]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.28-16.07.15:712][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/floor" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset" SILENT=true
+[2019.12.28-16.07.15:758][405]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/floorBEA06872474C469501D44E9011FC91C3.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset'
+[2019.12.28-16.07.38:747][718]BlueprintLog: New page: Compile floor
+[2019.12.28-16.07.39:054][718]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.12.28-16.07.39:703][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/floor" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset" SILENT=true
+[2019.12.28-16.07.39:751][754]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/floorC5B36B4945BB2698616513BF73C9E360.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset'
+[2019.12.28-16.07.52:382][499]LogSlate: Took 0.003272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.28-16.07.55:609][687]BlueprintLog: New page: Compile floor
+[2019.12.28-16.07.55:850][687]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.12.28-16.07.56:530][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/floor" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset" SILENT=true
+[2019.12.28-16.07.56:579][726]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/floor8BE9893D458B64FF2C57CAB80B4B5EA5.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset'
+[2019.12.28-16.08.19:328][ 56]BlueprintLog: New page: Compile floor
+[2019.12.28-16.08.19:568][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.12.28-16.08.20:175][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/floor" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset" SILENT=true
+[2019.12.28-16.08.20:225][ 90]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/floor0ECB429C40C2A15E0F1BCA8EBA29D5FD.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset'
+[2019.12.28-16.09.16:817][697]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-16.09.16:818][697]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-16.09.19:630][865]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-16.09.19:631][865]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-16.09.56:135][413]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-16.09.56:136][413]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-16.10.00:128][652]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-16.10.00:129][652]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-16.10.01:052][701]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Floor_400x400_DME4B2679B43693F6726C758AD3B619D88.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Architecture/Floor_400x400_DM.uasset'
+[2019.12.28-16.10.11:767][878]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.10.11:823][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.10.11:824][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-16.10.11:826][878]PIE: New page: PIE session: Minimal_Default (28 дек. 2019 г., 22:10:11)
+[2019.12.28-16.10.11:836][878]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.28-16.10.11:839][878]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.10.11:959][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120275s)
+[2019.12.28-16.10.11:961][878]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-16.10.11:962][878]LogPlayLevel: PIE: World Init took: (0.003064s)
+[2019.12.28-16.10.11:963][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.124055s)
+[2019.12.28-16.10.12:005][878]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.12.28-16.10.12:024][878]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.10.12:037][878]LogInit: FAudioDevice initialized.
+[2019.12.28-16.10.12:058][878]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.10.12:083][878]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.12.28-19.10.12
+[2019.12.28-16.10.12:106][878]LogWorld: Bringing up level for play took: 0.033880
+[2019.12.28-16.10.12:107][878]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.28-16.10.12:135][878]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.28-16.10.12:138][878]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.10.12:138][878]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.10.12:187][878]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,531
+[2019.12.28-16.10.12:187][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.10.16:364][934]LogBlueprintUserMessages: [floor_2] 1.0
+[2019.12.28-16.10.16:580][937]LogBlueprintUserMessages: [floor_2] 2.0
+[2019.12.28-16.10.16:797][940]LogBlueprintUserMessages: [floor_2] 3.0
+[2019.12.28-16.10.17:018][943]LogBlueprintUserMessages: [floor_2] 4.0
+[2019.12.28-16.10.17:235][946]LogBlueprintUserMessages: [floor_2] 5.0
+[2019.12.28-16.10.17:434][949]LogBlueprintUserMessages: [floor_2] 6.0
+[2019.12.28-16.10.17:640][952]LogBlueprintUserMessages: [floor_2] 7.0
+[2019.12.28-16.10.17:853][955]LogBlueprintUserMessages: [floor_2] 8.0
+[2019.12.28-16.10.18:067][958]LogBlueprintUserMessages: [floor_2] 9.0
+[2019.12.28-16.10.18:278][962]LogBlueprintUserMessages: [floor_2] 10.0
+[2019.12.28-16.10.18:502][967]LogBlueprintUserMessages: [floor_2] 11.0
+[2019.12.28-16.10.18:728][972]LogBlueprintUserMessages: [floor_2] 12.0
+[2019.12.28-16.10.18:955][977]LogBlueprintUserMessages: [floor_2] 13.0
+[2019.12.28-16.10.19:165][982]LogBlueprintUserMessages: [floor_2] 14.0
+[2019.12.28-16.10.19:373][987]LogBlueprintUserMessages: [floor_2] 15.0
+[2019.12.28-16.10.19:598][992]LogBlueprintUserMessages: [floor_2] 16.0
+[2019.12.28-16.10.19:824][997]LogBlueprintUserMessages: [floor_2] 17.0
+[2019.12.28-16.10.20:067][  2]LogBlueprintUserMessages: [floor_2] 18.0
+[2019.12.28-16.10.20:316][  7]LogBlueprintUserMessages: [floor_2] 19.0
+[2019.12.28-16.10.20:562][ 12]LogBlueprintUserMessages: [floor_2] 20.0
+[2019.12.28-16.10.20:810][ 17]LogBlueprintUserMessages: [floor_2] 21.0
+[2019.12.28-16.10.21:053][ 22]LogBlueprintUserMessages: [floor_2] 22.0
+[2019.12.28-16.10.21:301][ 27]LogBlueprintUserMessages: [floor_2] 23.0
+[2019.12.28-16.10.21:549][ 32]LogBlueprintUserMessages: [floor_2] 24.0
+[2019.12.28-16.10.21:800][ 37]LogBlueprintUserMessages: [floor_2] 25.0
+[2019.12.28-16.10.22:043][ 42]LogBlueprintUserMessages: [floor_2] 26.0
+[2019.12.28-16.10.22:288][ 47]LogBlueprintUserMessages: [floor_2] 27.0
+[2019.12.28-16.10.22:531][ 52]LogBlueprintUserMessages: [floor_2] 28.0
+[2019.12.28-16.10.22:739][ 56]LogBlueprintUserMessages: [floor_2] 29.0
+[2019.12.28-16.10.22:948][ 60]LogBlueprintUserMessages: [floor_2] 30.0
+[2019.12.28-16.10.23:159][ 64]LogBlueprintUserMessages: [floor_2] 31.0
+[2019.12.28-16.10.23:369][ 68]LogBlueprintUserMessages: [floor_2] 32.0
+[2019.12.28-16.10.23:580][ 72]LogBlueprintUserMessages: [floor_2] 33.0
+[2019.12.28-16.10.23:789][ 76]LogBlueprintUserMessages: [floor_2] 34.0
+[2019.12.28-16.10.24:001][ 80]LogBlueprintUserMessages: [floor_2] 35.0
+[2019.12.28-16.10.24:213][ 84]LogBlueprintUserMessages: [floor_2] 36.0
+[2019.12.28-16.10.24:422][ 88]LogBlueprintUserMessages: [floor_2] 37.0
+[2019.12.28-16.10.24:629][ 92]LogBlueprintUserMessages: [floor_2] 38.0
+[2019.12.28-16.10.24:832][ 96]LogBlueprintUserMessages: [floor_2] 39.0
+[2019.12.28-16.10.25:071][101]LogBlueprintUserMessages: [floor_2] 40.0
+[2019.12.28-16.10.25:296][106]LogBlueprintUserMessages: [floor_2] 41.0
+[2019.12.28-16.10.25:514][111]LogBlueprintUserMessages: [floor_2] 42.0
+[2019.12.28-16.10.25:734][116]LogBlueprintUserMessages: [floor_2] 43.0
+[2019.12.28-16.10.25:968][121]LogBlueprintUserMessages: [floor_2] 44.0
+[2019.12.28-16.10.26:194][126]LogBlueprintUserMessages: [floor_2] 45.0
+[2019.12.28-16.10.26:428][131]LogBlueprintUserMessages: [floor_2] 46.0
+[2019.12.28-16.10.26:664][136]LogBlueprintUserMessages: [floor_2] 47.0
+[2019.12.28-16.10.26:893][141]LogBlueprintUserMessages: [floor_2] 48.0
+[2019.12.28-16.10.27:121][146]LogBlueprintUserMessages: [floor_2] 49.0
+[2019.12.28-16.10.27:350][151]LogBlueprintUserMessages: [floor_2] 50.0
+[2019.12.28-16.10.27:583][156]LogBlueprintUserMessages: [floor_2] 51.0
+[2019.12.28-16.10.27:819][161]LogBlueprintUserMessages: [floor_2] 52.0
+[2019.12.28-16.10.28:064][166]LogBlueprintUserMessages: [floor_2] 53.0
+[2019.12.28-16.10.28:291][171]LogBlueprintUserMessages: [floor_2] 54.0
+[2019.12.28-16.10.28:509][176]LogBlueprintUserMessages: [floor_2] 55.0
+[2019.12.28-16.10.28:731][181]LogBlueprintUserMessages: [floor_2] 56.0
+[2019.12.28-16.10.28:968][186]LogBlueprintUserMessages: [floor_2] 57.0
+[2019.12.28-16.10.29:193][191]LogBlueprintUserMessages: [floor_2] 58.0
+[2019.12.28-16.10.29:411][197]LogBlueprintUserMessages: [floor_2] 59.0
+[2019.12.28-16.10.29:642][204]LogBlueprintUserMessages: [floor_2] 60.0
+[2019.12.28-16.10.29:863][211]LogBlueprintUserMessages: [floor_2] 61.0
+[2019.12.28-16.10.30:066][217]LogBlueprintUserMessages: [floor_2] 62.0
+[2019.12.28-16.10.30:288][223]LogBlueprintUserMessages: [floor_2] 63.0
+[2019.12.28-16.10.30:519][229]LogBlueprintUserMessages: [floor_2] 64.0
+[2019.12.28-16.10.30:761][235]LogBlueprintUserMessages: [floor_2] 65.0
+[2019.12.28-16.10.30:970][240]LogBlueprintUserMessages: [floor_2] 66.0
+[2019.12.28-16.10.31:192][245]LogBlueprintUserMessages: [floor_2] 67.0
+[2019.12.28-16.10.31:394][249]LogBlueprintUserMessages: [floor_2] 68.0
+[2019.12.28-16.10.31:602][253]LogBlueprintUserMessages: [floor_2] 69.0
+[2019.12.28-16.10.31:814][257]LogBlueprintUserMessages: [floor_2] 70.0
+[2019.12.28-16.10.32:058][262]LogBlueprintUserMessages: [floor_2] 71.0
+[2019.12.28-16.10.32:268][266]LogBlueprintUserMessages: [floor_2] 72.0
+[2019.12.28-16.10.32:475][270]LogBlueprintUserMessages: [floor_2] 73.0
+[2019.12.28-16.10.32:580][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.10.32:582][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.10.32:582][272]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.10.32:585][272]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.10.32:718][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.10.32:719][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.10.32:781][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.10.32:786][272]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.10.32:786][272]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.10.32:819][272]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2019.12.28-16.10.32:860][273]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.28-16.10.33:808][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.10.39:856][623]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-16.10.39:858][623]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-16.10.41:788][732]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Floor_400x400_DM0027BFEC4937362C34E372825E243FD0.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Architecture/Floor_400x400_DM.uasset'
+[2019.12.28-16.10.43:492][768]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.10.43:603][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.10.43:604][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-16.10.43:604][768]PIE: New page: PIE session: Minimal_Default (28 дек. 2019 г., 22:10:43)
+[2019.12.28-16.10.43:605][768]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.10.43:787][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.182024s)
+[2019.12.28-16.10.43:788][768]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-16.10.43:788][768]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2019.12.28-16.10.43:788][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.183780s)
+[2019.12.28-16.10.43:837][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.12.28-16.10.43:848][768]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.10.43:859][768]LogInit: FAudioDevice initialized.
+[2019.12.28-16.10.43:870][768]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.10.43:873][768]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.12.28-19.10.43
+[2019.12.28-16.10.43:874][768]LogWorld: Bringing up level for play took: 0.003270
+[2019.12.28-16.10.43:874][768]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.28-16.10.43:878][768]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.10.43:878][768]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.10.43:882][768]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,165
+[2019.12.28-16.10.43:882][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.10.45:753][793]LogBlueprintUserMessages: [floor_2] 1.0
+[2019.12.28-16.10.46:019][797]LogBlueprintUserMessages: [floor_2] 2.0
+[2019.12.28-16.10.46:224][800]LogBlueprintUserMessages: [floor_2] 3.0
+[2019.12.28-16.10.46:482][804]LogBlueprintUserMessages: [floor_2] 4.0
+[2019.12.28-16.10.46:727][808]LogBlueprintUserMessages: [floor_2] 5.0
+[2019.12.28-16.10.46:929][811]LogBlueprintUserMessages: [floor_2] 6.0
+[2019.12.28-16.10.47:149][814]LogBlueprintUserMessages: [floor_2] 7.0
+[2019.12.28-16.10.47:365][817]LogBlueprintUserMessages: [floor_2] 8.0
+[2019.12.28-16.10.47:584][820]LogBlueprintUserMessages: [floor_2] 9.0
+[2019.12.28-16.10.47:806][823]LogBlueprintUserMessages: [floor_2] 10.0
+[2019.12.28-16.10.48:024][826]LogBlueprintUserMessages: [floor_2] 11.0
+[2019.12.28-16.10.48:261][830]LogBlueprintUserMessages: [floor_2] 12.0
+[2019.12.28-16.10.48:503][834]LogBlueprintUserMessages: [floor_2] 13.0
+[2019.12.28-16.10.48:742][838]LogBlueprintUserMessages: [floor_2] 14.0
+[2019.12.28-16.10.48:986][842]LogBlueprintUserMessages: [floor_2] 15.0
+[2019.12.28-16.10.49:229][846]LogBlueprintUserMessages: [floor_2] 16.0
+[2019.12.28-16.10.49:469][850]LogBlueprintUserMessages: [floor_2] 17.0
+[2019.12.28-16.10.49:708][854]LogBlueprintUserMessages: [floor_2] 18.0
+[2019.12.28-16.10.49:951][858]LogBlueprintUserMessages: [floor_2] 19.0
+[2019.12.28-16.10.50:191][862]LogBlueprintUserMessages: [floor_2] 20.0
+[2019.12.28-16.10.50:429][866]LogBlueprintUserMessages: [floor_2] 21.0
+[2019.12.28-16.10.50:672][870]LogBlueprintUserMessages: [floor_2] 22.0
+[2019.12.28-16.10.50:916][874]LogBlueprintUserMessages: [floor_2] 23.0
+[2019.12.28-16.10.51:168][878]LogBlueprintUserMessages: [floor_2] 24.0
+[2019.12.28-16.10.51:434][882]LogBlueprintUserMessages: [floor_2] 25.0
+[2019.12.28-16.10.51:644][885]LogBlueprintUserMessages: [floor_2] 26.0
+[2019.12.28-16.10.51:850][888]LogBlueprintUserMessages: [floor_2] 27.0
+[2019.12.28-16.10.52:063][891]LogBlueprintUserMessages: [floor_2] 28.0
+[2019.12.28-16.10.52:272][894]LogBlueprintUserMessages: [floor_2] 29.0
+[2019.12.28-16.10.52:484][897]LogBlueprintUserMessages: [floor_2] 30.0
+[2019.12.28-16.10.52:697][900]LogBlueprintUserMessages: [floor_2] 31.0
+[2019.12.28-16.10.52:910][903]LogBlueprintUserMessages: [floor_2] 32.0
+[2019.12.28-16.10.53:123][906]LogBlueprintUserMessages: [floor_2] 33.0
+[2019.12.28-16.10.53:337][909]LogBlueprintUserMessages: [floor_2] 34.0
+[2019.12.28-16.10.53:550][912]LogBlueprintUserMessages: [floor_2] 35.0
+[2019.12.28-16.10.53:763][915]LogBlueprintUserMessages: [floor_2] 36.0
+[2019.12.28-16.10.53:978][918]LogBlueprintUserMessages: [floor_2] 37.0
+[2019.12.28-16.10.54:192][921]LogBlueprintUserMessages: [floor_2] 38.0
+[2019.12.28-16.10.54:417][924]LogBlueprintUserMessages: [floor_2] 39.0
+[2019.12.28-16.10.54:644][927]LogBlueprintUserMessages: [floor_2] 40.0
+[2019.12.28-16.10.54:863][930]LogBlueprintUserMessages: [floor_2] 41.0
+[2019.12.28-16.10.55:085][933]LogBlueprintUserMessages: [floor_2] 42.0
+[2019.12.28-16.10.55:303][936]LogBlueprintUserMessages: [floor_2] 43.0
+[2019.12.28-16.10.55:511][939]LogBlueprintUserMessages: [floor_2] 44.0
+[2019.12.28-16.10.55:770][943]LogBlueprintUserMessages: [floor_2] 45.0
+[2019.12.28-16.10.56:032][947]LogBlueprintUserMessages: [floor_2] 46.0
+[2019.12.28-16.10.56:291][951]LogBlueprintUserMessages: [floor_2] 47.0
+[2019.12.28-16.10.56:551][955]LogBlueprintUserMessages: [floor_2] 48.0
+[2019.12.28-16.10.56:818][959]LogBlueprintUserMessages: [floor_2] 49.0
+[2019.12.28-16.10.57:080][963]LogBlueprintUserMessages: [floor_2] 50.0
+[2019.12.28-16.10.57:341][967]LogBlueprintUserMessages: [floor_2] 51.0
+[2019.12.28-16.10.57:594][971]LogBlueprintUserMessages: [floor_2] 52.0
+[2019.12.28-16.10.57:844][975]LogBlueprintUserMessages: [floor_2] 53.0
+[2019.12.28-16.10.58:090][979]LogBlueprintUserMessages: [floor_2] 54.0
+[2019.12.28-16.10.58:332][983]LogBlueprintUserMessages: [floor_2] 55.0
+[2019.12.28-16.10.58:560][987]LogBlueprintUserMessages: [floor_2] 56.0
+[2019.12.28-16.10.58:784][991]LogBlueprintUserMessages: [floor_2] 57.0
+[2019.12.28-16.10.58:900][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.10.58:902][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.10.58:902][993]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.10.58:903][993]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.10.59:058][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.10.59:059][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.10.59:127][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.10.59:131][993]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.10.59:131][993]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.10.59:139][993]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2019.12.28-16.10.59:186][994]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.28-16.11.04:238][ 55]LogEditorViewport: Clicking on Actor (LMB): floor_C (floor)
+[2019.12.28-16.11.08:263][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.11.08:490][107]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.11.08:626][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.11.08:627][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-16.11.08:628][107]PIE: New page: PIE session: Minimal_Default (28 дек. 2019 г., 22:11:08)
+[2019.12.28-16.11.08:630][107]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.11.08:782][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151233s)
+[2019.12.28-16.11.08:783][107]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-16.11.08:783][107]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2019.12.28-16.11.08:783][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.153042s)
+[2019.12.28-16.11.08:835][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.12.28-16.11.08:847][107]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.11.08:857][107]LogInit: FAudioDevice initialized.
+[2019.12.28-16.11.08:862][107]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.11.08:866][107]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.12.28-19.11.08
+[2019.12.28-16.11.08:867][107]LogWorld: Bringing up level for play took: 0.004028
+[2019.12.28-16.11.08:867][107]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.28-16.11.08:870][107]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.11.08:870][107]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.11.08:874][107]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,156
+[2019.12.28-16.11.08:874][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.11.11:740][148]LogBlueprintUserMessages: [floor_2] 1.0
+[2019.12.28-16.11.11:995][152]LogBlueprintUserMessages: [floor_2] 2.0
+[2019.12.28-16.11.12:257][156]LogBlueprintUserMessages: [floor_2] 3.0
+[2019.12.28-16.11.12:524][160]LogBlueprintUserMessages: [floor_2] 4.0
+[2019.12.28-16.11.12:734][163]LogBlueprintUserMessages: [floor_2] 5.0
+[2019.12.28-16.11.12:937][166]LogBlueprintUserMessages: [floor_2] 6.0
+[2019.12.28-16.11.13:199][170]LogBlueprintUserMessages: [floor_2] 7.0
+[2019.12.28-16.11.13:455][174]LogBlueprintUserMessages: [floor_2] 8.0
+[2019.12.28-16.11.13:702][178]LogBlueprintUserMessages: [floor_2] 9.0
+[2019.12.28-16.11.13:954][182]LogBlueprintUserMessages: [floor_2] 10.0
+[2019.12.28-16.11.14:200][186]LogBlueprintUserMessages: [floor_2] 11.0
+[2019.12.28-16.11.14:437][190]LogBlueprintUserMessages: [floor_2] 12.0
+[2019.12.28-16.11.14:674][194]LogBlueprintUserMessages: [floor_2] 13.0
+[2019.12.28-16.11.14:909][198]LogBlueprintUserMessages: [floor_2] 14.0
+[2019.12.28-16.11.15:144][202]LogBlueprintUserMessages: [floor_2] 15.0
+[2019.12.28-16.11.15:384][206]LogBlueprintUserMessages: [floor_2] 16.0
+[2019.12.28-16.11.15:646][210]LogBlueprintUserMessages: [floor_2] 17.0
+[2019.12.28-16.11.15:872][213]LogBlueprintUserMessages: [floor_2] 18.0
+[2019.12.28-16.11.16:084][216]LogBlueprintUserMessages: [floor_2] 19.0
+[2019.12.28-16.11.16:297][219]LogBlueprintUserMessages: [floor_2] 20.0
+[2019.12.28-16.11.16:511][222]LogBlueprintUserMessages: [floor_2] 21.0
+[2019.12.28-16.11.16:724][225]LogBlueprintUserMessages: [floor_2] 22.0
+[2019.12.28-16.11.16:923][228]LogBlueprintUserMessages: [floor_2] 23.0
+[2019.12.28-16.11.17:193][232]LogBlueprintUserMessages: [floor_2] 24.0
+[2019.12.28-16.11.17:432][236]LogBlueprintUserMessages: [floor_2] 25.0
+[2019.12.28-16.11.17:664][241]LogBlueprintUserMessages: [floor_2] 26.0
+[2019.12.28-16.11.17:902][247]LogBlueprintUserMessages: [floor_2] 27.0
+[2019.12.28-16.11.18:134][253]LogBlueprintUserMessages: [floor_2] 28.0
+[2019.12.28-16.11.18:368][259]LogBlueprintUserMessages: [floor_2] 29.0
+[2019.12.28-16.11.18:597][265]LogBlueprintUserMessages: [floor_2] 30.0
+[2019.12.28-16.11.18:600][265]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.11.18:602][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.11.18:602][265]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.11.18:603][265]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.11.18:706][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.11.18:706][265]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.11.18:762][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.11.18:764][265]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.11.18:764][265]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.11.18:769][265]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.12.28-16.11.18:800][266]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.28-16.11.20:204][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.12.49:470][ 69]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.28-16.12.49:470][ 69]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.28-16.13.00:603][678]BlueprintLog: New page: Compile floor
+[2019.12.28-16.13.00:905][678]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2019.12.28-16.13.01:408][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/floor" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset" SILENT=true
+[2019.12.28-16.13.01:461][706]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/floor5EC37B914FB80EF25999D183BCCA15F4.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset'
+[2019.12.28-16.13.16:380][572]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-16.13.16:382][572]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-16.13.18:661][702]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Floor_400x400_DM20F86153413E0E3DCA5BBE861FD9C8E0.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Architecture/Floor_400x400_DM.uasset'
+[2019.12.28-16.13.20:512][740]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.13.20:654][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.13.20:655][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-16.13.20:656][740]PIE: New page: PIE session: Minimal_Default (28 дек. 2019 г., 22:13:20)
+[2019.12.28-16.13.20:658][740]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.13.20:801][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.143474s)
+[2019.12.28-16.13.20:802][740]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-16.13.20:803][740]LogPlayLevel: PIE: World Init took: (0.001708s)
+[2019.12.28-16.13.20:803][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.145483s)
+[2019.12.28-16.13.20:849][740]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.28-16.13.20:860][740]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.13.20:871][740]LogInit: FAudioDevice initialized.
+[2019.12.28-16.13.20:880][740]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.13.20:884][740]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.12.28-19.13.20
+[2019.12.28-16.13.20:885][740]LogWorld: Bringing up level for play took: 0.004405
+[2019.12.28-16.13.20:886][740]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.28-16.13.20:890][740]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.13.20:890][740]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.13.20:894][740]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,177
+[2019.12.28-16.13.20:894][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.13.25:792][811]LogBlueprintUserMessages: [floor_2] 1.0
+[2019.12.28-16.13.26:037][815]LogBlueprintUserMessages: [floor_2] 2.0
+[2019.12.28-16.13.26:280][819]LogBlueprintUserMessages: [floor_2] 3.0
+[2019.12.28-16.13.26:522][823]LogBlueprintUserMessages: [floor_2] 4.0
+[2019.12.28-16.13.26:730][826]LogBlueprintUserMessages: [floor_2] 5.0
+[2019.12.28-16.13.26:954][829]LogBlueprintUserMessages: [floor_2] 6.0
+[2019.12.28-16.13.27:170][832]LogBlueprintUserMessages: [floor_2] 7.0
+[2019.12.28-16.13.27:374][835]LogBlueprintUserMessages: [floor_2] 8.0
+[2019.12.28-16.13.27:580][838]LogBlueprintUserMessages: [floor_2] 9.0
+[2019.12.28-16.13.27:784][841]LogBlueprintUserMessages: [floor_2] 10.0
+[2019.12.28-16.13.27:989][844]LogBlueprintUserMessages: [floor_2] 11.0
+[2019.12.28-16.13.28:195][847]LogBlueprintUserMessages: [floor_2] 12.0
+[2019.12.28-16.13.28:404][850]LogBlueprintUserMessages: [floor_2] 13.0
+[2019.12.28-16.13.28:609][853]LogBlueprintUserMessages: [floor_2] 14.0
+[2019.12.28-16.13.28:812][856]LogBlueprintUserMessages: [floor_2] 15.0
+[2019.12.28-16.13.29:018][859]LogBlueprintUserMessages: [floor_2] 16.0
+[2019.12.28-16.13.29:227][862]LogBlueprintUserMessages: [floor_2] 17.0
+[2019.12.28-16.13.29:435][865]LogBlueprintUserMessages: [floor_2] 18.0
+[2019.12.28-16.13.29:641][868]LogBlueprintUserMessages: [floor_2] 19.0
+[2019.12.28-16.13.29:904][872]LogBlueprintUserMessages: [floor_2] 20.0
+[2019.12.28-16.13.30:168][876]LogBlueprintUserMessages: [floor_2] 21.0
+[2019.12.28-16.13.30:370][879]LogBlueprintUserMessages: [floor_2] 22.0
+[2019.12.28-16.13.30:612][883]LogBlueprintUserMessages: [floor_2] 23.0
+[2019.12.28-16.13.30:840][887]LogBlueprintUserMessages: [floor_2] 24.0
+[2019.12.28-16.13.31:073][891]LogBlueprintUserMessages: [floor_2] 25.0
+[2019.12.28-16.13.31:303][895]LogBlueprintUserMessages: [floor_2] 26.0
+[2019.12.28-16.13.31:479][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.13.31:480][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.13.31:481][898]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.13.31:483][898]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.13.31:642][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.13.31:642][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.13.31:695][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.13.31:697][898]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.13.31:697][898]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.13.31:702][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.12.28-16.13.31:742][899]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.28-16.13.34:923][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.13.35:224][933]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.13.35:369][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.13.35:369][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-16.13.35:369][933]PIE: New page: PIE session: Minimal_Default (28 дек. 2019 г., 22:13:35)
+[2019.12.28-16.13.35:370][933]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.13.35:540][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169636s)
+[2019.12.28-16.13.35:541][933]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-16.13.35:542][933]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2019.12.28-16.13.35:542][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.171048s)
+[2019.12.28-16.13.35:585][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.12.28-16.13.35:597][933]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.13.35:610][933]LogInit: FAudioDevice initialized.
+[2019.12.28-16.13.35:621][933]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.13.35:625][933]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.12.28-19.13.35
+[2019.12.28-16.13.35:626][933]LogWorld: Bringing up level for play took: 0.004428
+[2019.12.28-16.13.35:627][933]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.28-16.13.35:630][933]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.13.35:630][933]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.13.35:637][933]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,92
+[2019.12.28-16.13.35:638][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.13.40:265][  4]LogBlueprintUserMessages: [floor_2] 1.0
+[2019.12.28-16.13.40:487][  8]LogBlueprintUserMessages: [floor_2] 2.0
+[2019.12.28-16.13.40:718][ 12]LogBlueprintUserMessages: [floor_2] 3.0
+[2019.12.28-16.13.40:960][ 16]LogBlueprintUserMessages: [floor_2] 4.0
+[2019.12.28-16.13.41:215][ 20]LogBlueprintUserMessages: [floor_2] 5.0
+[2019.12.28-16.13.41:439][ 24]LogBlueprintUserMessages: [floor_2] 6.0
+[2019.12.28-16.13.41:659][ 28]LogBlueprintUserMessages: [floor_2] 7.0
+[2019.12.28-16.13.41:864][ 32]LogBlueprintUserMessages: [floor_2] 8.0
+[2019.12.28-16.13.42:104][ 37]LogBlueprintUserMessages: [floor_2] 9.0
+[2019.12.28-16.13.42:308][ 41]LogBlueprintUserMessages: [floor_2] 10.0
+[2019.12.28-16.13.42:512][ 45]LogBlueprintUserMessages: [floor_2] 11.0
+[2019.12.28-16.13.42:711][ 49]LogBlueprintUserMessages: [floor_2] 12.0
+[2019.12.28-16.13.42:914][ 53]LogBlueprintUserMessages: [floor_2] 13.0
+[2019.12.28-16.13.43:117][ 57]LogBlueprintUserMessages: [floor_2] 14.0
+[2019.12.28-16.13.43:118][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.13.43:118][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.13.43:119][ 57]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.13.43:120][ 57]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.13.43:259][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.13.43:259][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.13.43:313][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.13.43:315][ 57]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.13.43:315][ 57]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.13.43:320][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.12.28-16.13.43:354][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.28-16.13.44:604][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.13.59:493][938]BlueprintLog: New page: Compile floor
+[2019.12.28-16.13.59:774][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.12.28-16.14.02:407][978]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.14.02:524][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.02:525][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-16.14.02:525][978]PIE: New page: PIE session: Minimal_Default (28 дек. 2019 г., 22:14:02)
+[2019.12.28-16.14.02:526][978]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.14.02:712][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.186052s)
+[2019.12.28-16.14.02:713][978]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-16.14.02:713][978]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2019.12.28-16.14.02:713][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.187670s)
+[2019.12.28-16.14.02:759][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.12.28-16.14.02:768][978]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.14.02:779][978]LogInit: FAudioDevice initialized.
+[2019.12.28-16.14.02:787][978]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.14.02:790][978]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.12.28-19.14.02
+[2019.12.28-16.14.02:791][978]LogWorld: Bringing up level for play took: 0.003266
+[2019.12.28-16.14.02:791][978]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.28-16.14.02:794][978]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.14.02:794][978]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.14.02:799][978]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,081
+[2019.12.28-16.14.02:799][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.06:037][ 23]LogBlueprintUserMessages: [floor_2] 1.0
+[2019.12.28-16.14.06:299][ 27]LogBlueprintUserMessages: [floor_2] 2.0
+[2019.12.28-16.14.06:566][ 31]LogBlueprintUserMessages: [floor_2] 3.0
+[2019.12.28-16.14.06:772][ 34]LogBlueprintUserMessages: [floor_2] 4.0
+[2019.12.28-16.14.06:981][ 37]LogBlueprintUserMessages: [floor_2] 5.0
+[2019.12.28-16.14.07:179][ 40]LogBlueprintUserMessages: [floor_2] 6.0
+[2019.12.28-16.14.07:441][ 44]LogBlueprintUserMessages: [floor_2] 7.0
+[2019.12.28-16.14.07:698][ 48]LogBlueprintUserMessages: [floor_2] 8.0
+[2019.12.28-16.14.07:947][ 52]LogBlueprintUserMessages: [floor_2] 9.0
+[2019.12.28-16.14.08:175][ 56]LogBlueprintUserMessages: [floor_2] 10.0
+[2019.12.28-16.14.08:378][ 60]LogBlueprintUserMessages: [floor_2] 11.0
+[2019.12.28-16.14.08:584][ 65]LogBlueprintUserMessages: [floor_2] 12.0
+[2019.12.28-16.14.08:819][ 71]LogBlueprintUserMessages: [floor_2] 13.0
+[2019.12.28-16.14.09:028][ 76]LogBlueprintUserMessages: [floor_2] 14.0
+[2019.12.28-16.14.09:233][ 81]LogBlueprintUserMessages: [floor_2] 15.0
+[2019.12.28-16.14.09:449][ 86]LogBlueprintUserMessages: [floor_2] 16.0
+[2019.12.28-16.14.09:667][ 91]LogBlueprintUserMessages: [floor_2] 17.0
+[2019.12.28-16.14.09:886][ 96]LogBlueprintUserMessages: [floor_2] 18.0
+[2019.12.28-16.14.10:103][101]LogBlueprintUserMessages: [floor_2] 19.0
+[2019.12.28-16.14.10:327][106]LogBlueprintUserMessages: [floor_2] 20.0
+[2019.12.28-16.14.10:551][111]LogBlueprintUserMessages: [floor_2] 21.0
+[2019.12.28-16.14.10:779][116]LogBlueprintUserMessages: [floor_2] 22.0
+[2019.12.28-16.14.10:980][121]LogBlueprintUserMessages: [floor_2] 23.0
+[2019.12.28-16.14.11:210][127]LogBlueprintUserMessages: [floor_2] 24.0
+[2019.12.28-16.14.11:451][133]LogBlueprintUserMessages: [floor_2] 25.0
+[2019.12.28-16.14.11:660][138]LogBlueprintUserMessages: [floor_2] 26.0
+[2019.12.28-16.14.11:878][143]LogBlueprintUserMessages: [floor_2] 27.0
+[2019.12.28-16.14.12:108][148]LogBlueprintUserMessages: [floor_2] 28.0
+[2019.12.28-16.14.12:342][153]LogBlueprintUserMessages: [floor_2] 29.0
+[2019.12.28-16.14.12:576][158]LogBlueprintUserMessages: [floor_2] 30.0
+[2019.12.28-16.14.12:817][163]LogBlueprintUserMessages: [floor_2] 31.0
+[2019.12.28-16.14.13:061][168]LogBlueprintUserMessages: [floor_2] 32.0
+[2019.12.28-16.14.13:291][173]LogBlueprintUserMessages: [floor_2] 33.0
+[2019.12.28-16.14.13:524][178]LogBlueprintUserMessages: [floor_2] 34.0
+[2019.12.28-16.14.13:759][183]LogBlueprintUserMessages: [floor_2] 35.0
+[2019.12.28-16.14.13:996][188]LogBlueprintUserMessages: [floor_2] 36.0
+[2019.12.28-16.14.14:224][193]LogBlueprintUserMessages: [floor_2] 37.0
+[2019.12.28-16.14.14:455][198]LogBlueprintUserMessages: [floor_2] 38.0
+[2019.12.28-16.14.14:681][203]LogBlueprintUserMessages: [floor_2] 39.0
+[2019.12.28-16.14.14:910][208]LogBlueprintUserMessages: [floor_2] 40.0
+[2019.12.28-16.14.15:118][213]LogBlueprintUserMessages: [floor_2] 41.0
+[2019.12.28-16.14.15:325][218]LogBlueprintUserMessages: [floor_2] 42.0
+[2019.12.28-16.14.15:501][222]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.15:502][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.14.15:502][222]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.14.15:504][222]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.14.15:623][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.14.15:623][222]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.15:681][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.14.15:683][222]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.14.15:683][222]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.14.15:689][222]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.12.28-16.14.15:727][223]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.28-16.14.17:843][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.14.18:036][248]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.14.18:176][248]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.18:177][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-16.14.18:177][248]PIE: New page: PIE session: Minimal_Default (28 дек. 2019 г., 22:14:18)
+[2019.12.28-16.14.18:177][248]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.14.18:358][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180857s)
+[2019.12.28-16.14.18:359][248]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-16.14.18:359][248]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2019.12.28-16.14.18:359][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.182133s)
+[2019.12.28-16.14.18:400][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.12.28-16.14.18:410][248]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.14.18:422][248]LogInit: FAudioDevice initialized.
+[2019.12.28-16.14.18:428][248]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.14.18:431][248]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.12.28-19.14.18
+[2019.12.28-16.14.18:431][248]LogWorld: Bringing up level for play took: 0.003368
+[2019.12.28-16.14.18:432][248]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.28-16.14.18:434][248]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.14.18:434][248]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.14.18:438][248]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,279
+[2019.12.28-16.14.18:439][248]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.22:014][304]LogBlueprintUserMessages: [floor_2] 1.0
+[2019.12.28-16.14.22:228][308]LogBlueprintUserMessages: [floor_2] 2.0
+[2019.12.28-16.14.22:450][312]LogBlueprintUserMessages: [floor_2] 3.0
+[2019.12.28-16.14.22:683][316]LogBlueprintUserMessages: [floor_2] 4.0
+[2019.12.28-16.14.22:947][320]LogBlueprintUserMessages: [floor_2] 5.0
+[2019.12.28-16.14.23:208][324]LogBlueprintUserMessages: [floor_2] 6.0
+[2019.12.28-16.14.23:458][328]LogBlueprintUserMessages: [floor_2] 7.0
+[2019.12.28-16.14.23:701][332]LogBlueprintUserMessages: [floor_2] 8.0
+[2019.12.28-16.14.23:945][336]LogBlueprintUserMessages: [floor_2] 9.0
+[2019.12.28-16.14.24:187][340]LogBlueprintUserMessages: [floor_2] 10.0
+[2019.12.28-16.14.24:430][344]LogBlueprintUserMessages: [floor_2] 11.0
+[2019.12.28-16.14.24:671][348]LogBlueprintUserMessages: [floor_2] 12.0
+[2019.12.28-16.14.24:914][352]LogBlueprintUserMessages: [floor_2] 13.0
+[2019.12.28-16.14.25:152][356]LogBlueprintUserMessages: [floor_2] 14.0
+[2019.12.28-16.14.25:335][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.25:336][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.14.25:336][359]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.14.25:337][359]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.14.25:506][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.14.25:506][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.25:557][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.14.25:560][359]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.14.25:560][359]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.14.25:564][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.12.28-16.14.25:602][360]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.28-16.14.26:492][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.14.44:648][437]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-16.14.44:651][437]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-16.14.46:130][519]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Floor_400x400_DM27B3B6E34544BF75D0EC1F86F8172483.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Architecture/Floor_400x400_DM.uasset'
+[2019.12.28-16.14.46:924][566]LogDestructible: Warning: MainMesh Tris: 12
+[2019.12.28-16.14.46:949][566]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2019.12.28-16.14.46:949][566]LogApexDestructibleAssetImport: Warning: Bones digested - 42  Depth of hierarchy - 2
+[2019.12.28-16.14.46:971][566]LogSkeletalMesh: Section 0: 2129 vertices, 41 active bones
+[2019.12.28-16.14.46:974][566]LogSkeletalMesh: Section 0: Material=0, 836 triangles
+[2019.12.28-16.14.46:976][566]LogSkeletalMesh: Building Skeletal Mesh Floor_400x400_DM...
+[2019.12.28-16.14.46:978][566]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM
+[2019.12.28-16.14.48:736][609]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.14.48:846][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.48:847][609]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.28-16.14.48:849][609]LogPlayLevel: [PlayLevel] Compiling floor before play...
+[2019.12.28-16.14.49:200][609]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2019.12.28-16.14.49:200][609]LogPlayLevel: PlayLevel: Blueprint regeneration took 353 ms (1 blueprints)
+[2019.12.28-16.14.49:200][609]PIE: New page: PIE session: Minimal_Default (28 дек. 2019 г., 22:14:49)
+[2019.12.28-16.14.49:201][609]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.14.49:314][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112899s)
+[2019.12.28-16.14.49:315][609]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-16.14.49:315][609]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2019.12.28-16.14.49:315][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.114335s)
+[2019.12.28-16.14.49:356][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.12.28-16.14.49:365][609]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.14.49:376][609]LogInit: FAudioDevice initialized.
+[2019.12.28-16.14.49:390][609]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.14.49:394][609]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.12.28-19.14.49
+[2019.12.28-16.14.49:396][609]LogWorld: Bringing up level for play took: 0.005452
+[2019.12.28-16.14.49:396][609]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.28-16.14.49:399][609]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.14.49:399][609]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.14.49:403][609]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,686
+[2019.12.28-16.14.49:404][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.49:497][610]LogBlueprintUserMessages: [floor_2] 1.0
+[2019.12.28-16.14.49:767][613]LogBlueprintUserMessages: [floor_2] 2.0
+[2019.12.28-16.14.50:001][616]LogBlueprintUserMessages: [floor_2] 3.0
+[2019.12.28-16.14.50:234][619]LogBlueprintUserMessages: [floor_2] 4.0
+[2019.12.28-16.14.50:470][622]LogBlueprintUserMessages: [floor_2] 5.0
+[2019.12.28-16.14.50:674][625]LogBlueprintUserMessages: [floor_2] 6.0
+[2019.12.28-16.14.50:883][628]LogBlueprintUserMessages: [floor_2] 7.0
+[2019.12.28-16.14.51:144][632]LogBlueprintUserMessages: [floor_2] 8.0
+[2019.12.28-16.14.51:398][636]LogBlueprintUserMessages: [floor_2] 9.0
+[2019.12.28-16.14.51:654][640]LogBlueprintUserMessages: [floor_2] 10.0
+[2019.12.28-16.14.51:909][644]LogBlueprintUserMessages: [floor_2] 11.0
+[2019.12.28-16.14.52:166][648]LogBlueprintUserMessages: [floor_2] 12.0
+[2019.12.28-16.14.52:420][652]LogBlueprintUserMessages: [floor_2] 13.0
+[2019.12.28-16.14.52:672][656]LogBlueprintUserMessages: [floor_2] 14.0
+[2019.12.28-16.14.52:920][660]LogBlueprintUserMessages: [floor_2] 15.0
+[2019.12.28-16.14.53:165][664]LogBlueprintUserMessages: [floor_2] 16.0
+[2019.12.28-16.14.53:408][668]LogBlueprintUserMessages: [floor_2] 17.0
+[2019.12.28-16.14.53:472][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.53:473][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.14.53:473][669]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.14.53:474][669]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.14.53:646][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.14.53:646][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.14.53:701][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.14.53:703][669]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.14.53:703][669]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.14.53:708][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.12.28-16.14.53:750][670]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.28-16.14.55:007][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.15.04:626][220]BlueprintLog: New page: Compile floor
+[2019.12.28-16.15.04:918][220]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.12.28-16.15.06:591][255]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.15.06:667][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.15.06:667][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-16.15.06:667][255]PIE: New page: PIE session: Minimal_Default (28 дек. 2019 г., 22:15:06)
+[2019.12.28-16.15.06:668][255]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.15.06:875][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.207146s)
+[2019.12.28-16.15.06:876][255]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-16.15.06:877][255]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2019.12.28-16.15.06:877][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.208637s)
+[2019.12.28-16.15.06:925][255]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.12.28-16.15.06:935][255]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.15.06:946][255]LogInit: FAudioDevice initialized.
+[2019.12.28-16.15.06:954][255]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.15.06:958][255]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.12.28-19.15.06
+[2019.12.28-16.15.06:959][255]LogWorld: Bringing up level for play took: 0.004274
+[2019.12.28-16.15.06:959][255]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.28-16.15.06:963][255]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.15.06:963][255]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.15.06:967][255]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,25
+[2019.12.28-16.15.06:967][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.15.07:040][256]LogBlueprintUserMessages: [floor_2] 1.0
+[2019.12.28-16.15.07:326][259]LogBlueprintUserMessages: [floor_2] 2.0
+[2019.12.28-16.15.07:573][262]LogBlueprintUserMessages: [floor_2] 3.0
+[2019.12.28-16.15.07:817][265]LogBlueprintUserMessages: [floor_2] 4.0
+[2019.12.28-16.15.08:064][268]LogBlueprintUserMessages: [floor_2] 5.0
+[2019.12.28-16.15.08:309][271]LogBlueprintUserMessages: [floor_2] 6.0
+[2019.12.28-16.15.08:530][274]LogBlueprintUserMessages: [floor_2] 7.0
+[2019.12.28-16.15.08:747][277]LogBlueprintUserMessages: [floor_2] 8.0
+[2019.12.28-16.15.08:957][280]LogBlueprintUserMessages: [floor_2] 9.0
+[2019.12.28-16.15.09:159][283]LogBlueprintUserMessages: [floor_2] 10.0
+[2019.12.28-16.15.09:422][287]LogBlueprintUserMessages: [floor_2] 11.0
+[2019.12.28-16.15.09:688][291]LogBlueprintUserMessages: [floor_2] 12.0
+[2019.12.28-16.15.09:947][295]LogBlueprintUserMessages: [floor_2] 13.0
+[2019.12.28-16.15.10:207][299]LogBlueprintUserMessages: [floor_2] 14.0
+[2019.12.28-16.15.10:463][303]LogBlueprintUserMessages: [floor_2] 15.0
+[2019.12.28-16.15.10:722][307]LogBlueprintUserMessages: [floor_2] 16.0
+[2019.12.28-16.15.10:979][311]LogBlueprintUserMessages: [floor_2] 17.0
+[2019.12.28-16.15.11:238][315]LogBlueprintUserMessages: [floor_2] 18.0
+[2019.12.28-16.15.11:495][319]LogBlueprintUserMessages: [floor_2] 19.0
+[2019.12.28-16.15.11:752][323]LogBlueprintUserMessages: [floor_2] 20.0
+[2019.12.28-16.15.12:009][327]LogBlueprintUserMessages: [floor_2] 21.0
+[2019.12.28-16.15.12:267][331]LogBlueprintUserMessages: [floor_2] 22.0
+[2019.12.28-16.15.12:525][335]LogBlueprintUserMessages: [floor_2] 23.0
+[2019.12.28-16.15.12:782][339]LogBlueprintUserMessages: [floor_2] 24.0
+[2019.12.28-16.15.13:039][343]LogBlueprintUserMessages: [floor_2] 25.0
+[2019.12.28-16.15.13:295][347]LogBlueprintUserMessages: [floor_2] 26.0
+[2019.12.28-16.15.13:551][351]LogBlueprintUserMessages: [floor_2] 27.0
+[2019.12.28-16.15.13:808][355]LogBlueprintUserMessages: [floor_2] 28.0
+[2019.12.28-16.15.14:063][359]LogBlueprintUserMessages: [floor_2] 29.0
+[2019.12.28-16.15.14:320][363]LogBlueprintUserMessages: [floor_2] 30.0
+[2019.12.28-16.15.14:577][367]LogBlueprintUserMessages: [floor_2] 31.0
+[2019.12.28-16.15.14:835][371]LogBlueprintUserMessages: [floor_2] 32.0
+[2019.12.28-16.15.15:093][375]LogBlueprintUserMessages: [floor_2] 33.0
+[2019.12.28-16.15.15:351][379]LogBlueprintUserMessages: [floor_2] 34.0
+[2019.12.28-16.15.15:609][383]LogBlueprintUserMessages: [floor_2] 35.0
+[2019.12.28-16.15.15:865][387]LogBlueprintUserMessages: [floor_2] 36.0
+[2019.12.28-16.15.16:123][391]LogBlueprintUserMessages: [floor_2] 37.0
+[2019.12.28-16.15.16:380][395]LogBlueprintUserMessages: [floor_2] 38.0
+[2019.12.28-16.15.16:638][399]LogBlueprintUserMessages: [floor_2] 39.0
+[2019.12.28-16.15.16:895][403]LogBlueprintUserMessages: [floor_2] 40.0
+[2019.12.28-16.15.17:152][407]LogBlueprintUserMessages: [floor_2] 41.0
+[2019.12.28-16.15.17:410][411]LogBlueprintUserMessages: [floor_2] 42.0
+[2019.12.28-16.15.17:668][415]LogBlueprintUserMessages: [floor_2] 43.0
+[2019.12.28-16.15.17:924][419]LogBlueprintUserMessages: [floor_2] 44.0
+[2019.12.28-16.15.18:182][423]LogBlueprintUserMessages: [floor_2] 45.0
+[2019.12.28-16.15.18:440][427]LogBlueprintUserMessages: [floor_2] 46.0
+[2019.12.28-16.15.18:698][431]LogBlueprintUserMessages: [floor_2] 47.0
+[2019.12.28-16.15.18:954][435]LogBlueprintUserMessages: [floor_2] 48.0
+[2019.12.28-16.15.19:212][439]LogBlueprintUserMessages: [floor_2] 49.0
+[2019.12.28-16.15.19:470][443]LogBlueprintUserMessages: [floor_2] 50.0
+[2019.12.28-16.15.19:728][447]LogBlueprintUserMessages: [floor_2] 51.0
+[2019.12.28-16.15.19:991][451]LogBlueprintUserMessages: [floor_2] 52.0
+[2019.12.28-16.15.20:193][454]LogBlueprintUserMessages: [floor_2] 53.0
+[2019.12.28-16.15.20:433][458]LogBlueprintUserMessages: [floor_2] 54.0
+[2019.12.28-16.15.20:690][462]LogBlueprintUserMessages: [floor_2] 55.0
+[2019.12.28-16.15.20:947][466]LogBlueprintUserMessages: [floor_2] 56.0
+[2019.12.28-16.15.21:202][470]LogBlueprintUserMessages: [floor_2] 57.0
+[2019.12.28-16.15.21:460][474]LogBlueprintUserMessages: [floor_2] 58.0
+[2019.12.28-16.15.21:462][474]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.15.21:463][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.15.21:463][474]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.15.21:464][474]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.15.21:648][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.15.21:648][474]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.15.21:706][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.15.21:708][474]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.15.21:708][474]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.15.21:713][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.12.28-16.15.21:757][475]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.28-16.15.23:128][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.15.48:879][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.12.28-16.15.49:367][  4]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Minimal_Default_Auto228BDD5D94A27DC40BB88F88985D6B4F7.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2019.12.28-16.15.49:373][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.538
+[2019.12.28-16.15.49:373][  4]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.538
+[2019.12.28-16.15.49:376][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Architecture/Floor_400x400_DM] ([1] browsable assets)...
+[2019.12.28-16.15.49:411][  4]OBJ SavePackage:     Rendered thumbnail for [DestructibleMesh /Game/StarterContent/Architecture/Floor_400x400_DM.Floor_400x400_DM]
+[2019.12.28-16.15.49:411][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Architecture/Floor_400x400_DM]
+[2019.12.28-16.15.49:469][  4]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Floor_400x400_DM_Auto2CC95FA36438EB06E910562B2384F1643.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Autosaves/Game/StarterContent/Architecture/Floor_400x400_DM_Auto2.uasset'
+[2019.12.28-16.15.49:471][  4]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EndLevel/floor] ([1] browsable assets)...
+[2019.12.28-16.15.49:471][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/EndLevel/floor]
+[2019.12.28-16.15.49:471][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/floor" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Autosaves/Game/EndLevel/floor_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.12.28-16.15.49:511][  4]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/floor_Auto23082F2DE412E492EDB0004B7C8D6729D.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Autosaves/Game/EndLevel/floor_Auto2.uasset'
+[2019.12.28-16.15.49:513][  4]LogFileHelpers: Auto-saving content packages took 0.139
+[2019.12.28-16.16.04:769][919]LogHttp: Warning: 000002A2D4A45F80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3C8EB9E6-493A-AC7D-65B5-34A25811BB24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=60fc57d247dfc17de90711927fd7a4e7%7Ca823292f2050481cb446752f76a489de%7Ce396ade7-f1a2-4aa4-955b-b521d6864aa4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.28-16.16.04:769][919]LogHttp: Warning: 000002A2D4A45F80: request failed, libcurl error: 0 (No error)
+[2019.12.28-16.16.04:769][919]LogHttp: Warning: 000002A2D4A45F80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2a25d06ff70 [can pipeline])
+[2019.12.28-16.16.04:769][919]LogHttp: Warning: 000002A2D4A45F80: libcurl info message cache 1 (Re-using existing connection! (#13) with host datarouter.ol.epicgames.com)
+[2019.12.28-16.16.04:769][919]LogHttp: Warning: 000002A2D4A45F80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.199.243.108) port 443 (#13))
+[2019.12.28-16.16.04:769][919]LogHttp: Warning: 000002A2D4A45F80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.12.28-16.16.04:769][919]LogHttp: Warning: 000002A2D4A45F80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.12.28-16.16.04:769][919]LogHttp: Warning: 000002A2D4A45F80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.12.28-16.16.04:769][919]LogHttp: Warning: 000002A2D4A45F80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.12.28-16.16.04:769][919]LogHttp: Warning: 000002A2D4A45F80: libcurl info message cache 7 (Closing connection 13)
+[2019.12.28-16.16.04:769][919]LogHttp: Warning: 000002A2D4A45F80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.28-16.16.04:786][920]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3C8EB9E6-493A-AC7D-65B5-34A25811BB24%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=60fc57d247dfc17de90711927fd7a4e7%7Ca823292f2050481cb446752f76a489de%7Ce396ade7-f1a2-4aa4-955b-b521d6864aa4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.28-16.16.17:292][669]BlueprintLog: New page: Compile floor
+[2019.12.28-16.16.17:576][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.12.28-16.16.19:285][703]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.16.19:355][703]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.16.19:356][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-16.16.19:356][703]PIE: New page: PIE session: Minimal_Default (28 дек. 2019 г., 22:16:19)
+[2019.12.28-16.16.19:356][703]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.16.19:570][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.214227s)
+[2019.12.28-16.16.19:572][703]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-16.16.19:572][703]LogPlayLevel: PIE: World Init took: (0.001704s)
+[2019.12.28-16.16.19:572][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.216257s)
+[2019.12.28-16.16.19:622][703]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.12.28-16.16.19:633][703]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.16.19:645][703]LogInit: FAudioDevice initialized.
+[2019.12.28-16.16.19:650][703]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.16.19:654][703]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.12.28-19.16.19
+[2019.12.28-16.16.19:655][703]LogWorld: Bringing up level for play took: 0.004724
+[2019.12.28-16.16.19:656][703]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.12.28-16.16.19:658][703]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.16.19:658][703]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.16.19:662][703]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,944
+[2019.12.28-16.16.19:662][703]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.16.19:727][704]LogBlueprintUserMessages: [floor_2] 1.0
+[2019.12.28-16.16.20:038][707]LogBlueprintUserMessages: [floor_2] 2.0
+[2019.12.28-16.16.20:282][710]LogBlueprintUserMessages: [floor_2] 3.0
+[2019.12.28-16.16.20:524][713]LogBlueprintUserMessages: [floor_2] 4.0
+[2019.12.28-16.16.20:768][716]LogBlueprintUserMessages: [floor_2] 5.0
+[2019.12.28-16.16.20:981][719]LogBlueprintUserMessages: [floor_2] 6.0
+[2019.12.28-16.16.21:196][722]LogBlueprintUserMessages: [floor_2] 7.0
+[2019.12.28-16.16.21:408][725]LogBlueprintUserMessages: [floor_2] 8.0
+[2019.12.28-16.16.21:609][728]LogBlueprintUserMessages: [floor_2] 9.0
+[2019.12.28-16.16.21:860][732]LogBlueprintUserMessages: [floor_2] 10.0
+[2019.12.28-16.16.22:060][735]LogBlueprintUserMessages: [floor_2] 11.0
+[2019.12.28-16.16.22:324][739]LogBlueprintUserMessages: [floor_2] 12.0
+[2019.12.28-16.16.22:589][743]LogBlueprintUserMessages: [floor_2] 13.0
+[2019.12.28-16.16.22:789][746]LogBlueprintUserMessages: [floor_2] 14.0
+[2019.12.28-16.16.23:054][750]LogBlueprintUserMessages: [floor_2] 15.0
+[2019.12.28-16.16.23:318][754]LogBlueprintUserMessages: [floor_2] 16.0
+[2019.12.28-16.16.23:387][755]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.16.23:387][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.16.23:387][755]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.28-16.16.23:388][755]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.16.23:576][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.16.23:577][755]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.28-16.16.23:628][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.16.23:630][755]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.16.23:630][755]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.16.23:635][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.12.28-16.16.23:675][756]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.28-16.16.25:830][776]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.28-16.16.27:703][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.12.28-16.16.27:716][792]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.28-16.16.27:786][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.12.28-16.16.28:250][792]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Minimal_Default19B6DA8C4FE5D3203651CA85B19891F2.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.12.28-16.16.28:337][792]LogFileHelpers: Saving map 'Minimal_Default' took 0.608
+[2019.12.28-16.16.28:344][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.12.28-16.16.28:379][792]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/BasicShapeMaterialB00E564642EAAE88396B7A8B6B47CC76.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.12.28-16.16.28:420][792]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/M_Basic_Floor1A52713C4958D1E7E2672388ED0BD8D1.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Materials/M_Basic_Floor.uasset'
+[2019.12.28-16.16.28:478][792]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Floor_400x400_DM7419E50E41A56C8FAFB61D8893CD1A9D.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Architecture/Floor_400x400_DM.uasset'
+[2019.12.28-16.16.28:484][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MuffinWar/Materials/M_Base" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/MuffinWar/Materials/M_Base.uasset" SILENT=true
+[2019.12.28-16.16.28:521][792]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/M_Base947B5B184B594D5F021DC3B4A0EF21BF.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/MuffinWar/Materials/M_Base.uasset'
+[2019.12.28-16.16.28:570][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SnowLevel/Item/01_-_Default" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/Item/01_-_Default.uasset" SILENT=true
+[2019.12.28-16.16.28:606][792]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/01_-_Default3CBAEBAD4A6ABAB80E03F58CD45072CE.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/SnowLevel/Item/01_-_Default.uasset'
+[2019.12.28-16.16.28:619][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/floor" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset" SILENT=true
+[2019.12.28-16.16.28:664][792]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/floor733C19424BE168D9D5D2FE9F52C853EA.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/floor.uasset'
+[2019.12.28-16.16.29:323][799]LogEditorViewport: Clicking on Actor (LMB): floor_C (floor)
+[2019.12.28-16.16.29:986][804]Cmd: DELETE
+[2019.12.28-16.16.29:986][804]Cmd: ACTOR DELETE
+[2019.12.28-16.16.29:997][804]LogEditorActor: Deleted Actor: floor_C
+[2019.12.28-16.16.30:090][804]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2019.12.28-16.16.30:090][804]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2019.12.28-16.16.31:417][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.16.31:810][817]LogAIModule: Creating AISystem for world End
+[2019.12.28-16.16.31:817][817]LogAssetEditorManager: Opening Asset editor for World /Game/EndLevel/End.End
+[2019.12.28-16.16.31:867][817]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2019.12.28-16.16.33:816][817]LogSlate: Window 'Save Content' being destroyed
+[2019.12.28-16.16.33:883][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.28-16.16.34:347][817]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/Minimal_Default9A7967514E10842F64D624BD4A2A25E7.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.12.28-16.16.34:436][817]LogFileHelpers: Saving map 'Minimal_Default' took 0.611
+[2019.12.28-16.16.34:437][817]Cmd: MAP LOAD FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/End.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.28-16.16.34:438][817]LightingResults: New page: Lighting Build
+[2019.12.28-16.16.34:438][817]LoadErrors: New page: Loading map: End.umap
+[2019.12.28-16.16.34:440][817]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.16.34:442][817]MapCheck: New page: Map Check
+[2019.12.28-16.16.34:442][817]LightingResults: New page: Lighting Build
+[2019.12.28-16.16.34:493][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.12.28-16.16.34:582][817]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.28-16.16.34:624][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.28-16.16.34:702][817]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.28-16.16.34:707][817]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5,614ms to complete.
+[2019.12.28-16.16.34:707][817]LogFileHelpers: Loading map 'End' took 0.272
+[2019.12.28-16.16.35:017][817]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.28-16.16.43:915][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.16.55:784][240]Cmd: EDIT COPY
+[2019.12.28-16.16.56:039][245]Cmd: EDIT PASTE
+[2019.12.28-16.17.05:024][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.28-16.17.06:806][446]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.28-16.17.06:816][446]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/EndLevel/End.End:PersistentLevel.End
+[2019.12.28-16.17.28:360][679]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.28-16.17.28:360][679]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.28-16.17.53:776][155]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.28-16.19.52:597][ 70]BlueprintLog: New page: Compile End
+[2019.12.28-16.19.52:919][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2019.12.28-16.19.53:294][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/End" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/End.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.28-16.19.53:344][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.12.28-16.19.53:684][ 91]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/End360AB2394828D05B1635FEBDF26A10F5.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/End.umap'
+[2019.12.28-16.19.53:781][ 91]LogFileHelpers: Saving map 'End' took 0.488
+[2019.12.28-16.20.12:032][168]BlueprintLog: New page: Compile End
+[2019.12.28-16.20.12:363][168]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.28-16.20.12:791][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel/End" FILE="../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/End.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.28-16.20.12:858][190]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.12.28-16.20.13:193][190]LogSavePackage: Moving '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Saved/EndFE7C12CA4FBE1B806D6C84AC9A5FBBED.tmp' to '../../../../../../Users/MA/Desktop/Vadim/Univer/AKG/MyGame/Content/EndLevel/End.umap'
+[2019.12.28-16.20.13:280][190]LogFileHelpers: Saving map 'End' took 0.490
+[2019.12.28-16.20.23:922][780]BlueprintLog: New page: Compile End
+[2019.12.28-16.20.24:237][780]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2019.12.28-16.20.26:618][898]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.20.26:730][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndLevel/End.End:PersistentLevel' has LevelScriptBlueprint '/Game/EndLevel/End.End:PersistentLevel.End' with GeneratedClass '/Game/EndLevel/End.End_C' with ClassGeneratedBy '/Game/EndLevel/End.End:PersistentLevel.End'
+[2019.12.28-16.20.26:730][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-16.20.26:730][898]PIE: New page: PIE session: End (28 дек. 2019 г., 22:20:26)
+[2019.12.28-16.20.26:730][898]LogPlayLevel: Creating play world package: /Game/EndLevel/UEDPIE_0_End
+[2019.12.28-16.20.26:734][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003337s)
+[2019.12.28-16.20.26:735][898]LogAIModule: Creating AISystem for world End
+[2019.12.28-16.20.26:736][898]LogPlayLevel: PIE: World Init took: (0.001805s)
+[2019.12.28-16.20.26:736][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndLevel/End.End to /Game/EndLevel/UEDPIE_0_End.End (0.005483s)
+[2019.12.28-16.20.26:790][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.12.28-16.20.26:800][898]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.20.26:812][898]LogInit: FAudioDevice initialized.
+[2019.12.28-16.20.26:821][898]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.20.26:823][898]LogWorld: Bringing World /Game/EndLevel/UEDPIE_0_End.End up for play (max tick rate 0) at 2019.12.28-19.20.26
+[2019.12.28-16.20.26:823][898]LogWorld: Bringing up level for play took: 0.001433
+[2019.12.28-16.20.26:823][898]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.28-16.20.26:826][898]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.20.26:826][898]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.20.26:828][898]PIE: Play in editor start time for /Game/EndLevel/UEDPIE_0_End 0,111
+[2019.12.28-16.20.26:828][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndLevel/End.End:PersistentLevel' has LevelScriptBlueprint '/Game/EndLevel/End.End:PersistentLevel.End' with GeneratedClass '/Game/EndLevel/End.End_C' with ClassGeneratedBy '/Game/EndLevel/End.End:PersistentLevel.End'
+[2019.12.28-16.20.26:904][899]LogBlueprintUserMessages: [floor_2] 1.0
+[2019.12.28-16.20.26:904][899]LogBlueprintUserMessages: [floor2] 1.0
+[2019.12.28-16.20.27:114][907]LogBlueprintUserMessages: [floor_2] 2.0
+[2019.12.28-16.20.27:114][907]LogBlueprintUserMessages: [floor2] 2.0
+[2019.12.28-16.20.27:318][916]LogBlueprintUserMessages: [floor_2] 3.0
+[2019.12.28-16.20.27:318][916]LogBlueprintUserMessages: [floor2] 3.0
+[2019.12.28-16.20.27:539][924]LogBlueprintUserMessages: [floor_2] 4.0
+[2019.12.28-16.20.27:539][924]LogBlueprintUserMessages: [floor2] 4.0
+[2019.12.28-16.20.27:754][933]LogBlueprintUserMessages: [floor_2] 5.0
+[2019.12.28-16.20.27:754][933]LogBlueprintUserMessages: [floor2] 5.0
+[2019.12.28-16.20.27:962][942]LogBlueprintUserMessages: [floor_2] 6.0
+[2019.12.28-16.20.27:962][942]LogBlueprintUserMessages: [floor2] 6.0
+[2019.12.28-16.20.28:168][951]LogBlueprintUserMessages: [floor_2] 7.0
+[2019.12.28-16.20.28:168][951]LogBlueprintUserMessages: [floor2] 7.0
+[2019.12.28-16.20.28:392][961]LogBlueprintUserMessages: [floor_2] 8.0
+[2019.12.28-16.20.28:392][961]LogBlueprintUserMessages: [floor2] 8.0
+[2019.12.28-16.20.28:600][968]LogBlueprintUserMessages: [floor_2] 9.0
+[2019.12.28-16.20.28:600][968]LogBlueprintUserMessages: [floor2] 9.0
+[2019.12.28-16.20.28:820][978]LogBlueprintUserMessages: [floor_2] 10.0
+[2019.12.28-16.20.28:821][978]LogBlueprintUserMessages: [floor2] 10.0
+[2019.12.28-16.20.29:026][987]LogBlueprintUserMessages: [floor_2] 11.0
+[2019.12.28-16.20.29:027][987]LogBlueprintUserMessages: [floor2] 11.0
+[2019.12.28-16.20.29:230][996]LogBlueprintUserMessages: [floor_2] 12.0
+[2019.12.28-16.20.29:231][996]LogBlueprintUserMessages: [floor2] 12.0
+[2019.12.28-16.20.29:433][  5]LogBlueprintUserMessages: [floor_2] 13.0
+[2019.12.28-16.20.29:434][  5]LogBlueprintUserMessages: [floor2] 13.0
+[2019.12.28-16.20.29:654][ 15]LogBlueprintUserMessages: [floor_2] 14.0
+[2019.12.28-16.20.29:655][ 15]LogBlueprintUserMessages: [floor2] 14.0
+[2019.12.28-16.20.29:870][ 25]LogBlueprintUserMessages: [floor_2] 15.0
+[2019.12.28-16.20.29:870][ 25]LogBlueprintUserMessages: [floor2] 15.0
+[2019.12.28-16.20.30:086][ 35]LogBlueprintUserMessages: [floor_2] 16.0
+[2019.12.28-16.20.30:087][ 35]LogBlueprintUserMessages: [floor2] 16.0
+[2019.12.28-16.20.30:132][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndLevel/End.End:PersistentLevel' has LevelScriptBlueprint '/Game/EndLevel/End.End:PersistentLevel.End' with GeneratedClass '/Game/EndLevel/End.End_C' with ClassGeneratedBy '/Game/EndLevel/End.End:PersistentLevel.End'
+[2019.12.28-16.20.30:132][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.20.30:132][ 37]LogWorld: BeginTearingDown for /Game/EndLevel/UEDPIE_0_End
+[2019.12.28-16.20.30:133][ 37]LogWorld: UWorld::CleanupWorld for End, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.20.30:187][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.20.30:188][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndLevel/End.End:PersistentLevel' has LevelScriptBlueprint '/Game/EndLevel/End.End:PersistentLevel.End' with GeneratedClass '/Game/EndLevel/End.End_C' with ClassGeneratedBy '/Game/EndLevel/End.End:PersistentLevel.End'
+[2019.12.28-16.20.30:242][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.20.30:243][ 37]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.20.30:243][ 37]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.20.30:247][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.12.28-16.20.30:272][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.28-16.20.33:489][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.20.42:444][882]BlueprintLog: New page: Compile floor
+[2019.12.28-16.20.42:757][882]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2019.12.28-16.20.44:139][932]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-16.20.44:249][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndLevel/End.End:PersistentLevel' has LevelScriptBlueprint '/Game/EndLevel/End.End:PersistentLevel.End' with GeneratedClass '/Game/EndLevel/End.End_C' with ClassGeneratedBy '/Game/EndLevel/End.End:PersistentLevel.End'
+[2019.12.28-16.20.44:249][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-16.20.44:249][932]PIE: New page: PIE session: End (28 дек. 2019 г., 22:20:44)
+[2019.12.28-16.20.44:250][932]LogPlayLevel: Creating play world package: /Game/EndLevel/UEDPIE_0_End
+[2019.12.28-16.20.44:253][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003582s)
+[2019.12.28-16.20.44:256][932]LogAIModule: Creating AISystem for world End
+[2019.12.28-16.20.44:257][932]LogPlayLevel: PIE: World Init took: (0.003485s)
+[2019.12.28-16.20.44:257][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndLevel/End.End to /Game/EndLevel/UEDPIE_0_End.End (0.007311s)
+[2019.12.28-16.20.44:313][932]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2019.12.28-16.20.44:323][932]LogInit: XAudio2 using 'Наушники (Наушники AirPods (Вадим) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.28-16.20.44:335][932]LogInit: FAudioDevice initialized.
+[2019.12.28-16.20.44:346][932]LogLoad: Game class is 'MyGameMode_C'
+[2019.12.28-16.20.44:348][932]LogWorld: Bringing World /Game/EndLevel/UEDPIE_0_End.End up for play (max tick rate 0) at 2019.12.28-19.20.44
+[2019.12.28-16.20.44:348][932]LogWorld: Bringing up level for play took: 0.001405
+[2019.12.28-16.20.44:348][932]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.12.28-16.20.44:351][932]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.20.44:351][932]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.20.44:353][932]PIE: Play in editor start time for /Game/EndLevel/UEDPIE_0_End -0,365
+[2019.12.28-16.20.44:353][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndLevel/End.End:PersistentLevel' has LevelScriptBlueprint '/Game/EndLevel/End.End:PersistentLevel.End' with GeneratedClass '/Game/EndLevel/End.End_C' with ClassGeneratedBy '/Game/EndLevel/End.End:PersistentLevel.End'
+[2019.12.28-16.20.56:480][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndLevel/End.End:PersistentLevel' has LevelScriptBlueprint '/Game/EndLevel/End.End:PersistentLevel.End' with GeneratedClass '/Game/EndLevel/End.End_C' with ClassGeneratedBy '/Game/EndLevel/End.End:PersistentLevel.End'
+[2019.12.28-16.20.56:481][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.20.56:481][498]LogWorld: BeginTearingDown for /Game/EndLevel/UEDPIE_0_End
+[2019.12.28-16.20.56:482][498]LogWorld: UWorld::CleanupWorld for End, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-16.20.56:539][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-16.20.56:539][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndLevel/End.End:PersistentLevel' has LevelScriptBlueprint '/Game/EndLevel/End.End:PersistentLevel.End' with GeneratedClass '/Game/EndLevel/End.End_C' with ClassGeneratedBy '/Game/EndLevel/End.End:PersistentLevel.End'
+[2019.12.28-16.20.56:596][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-16.20.56:597][498]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.28-16.20.56:597][498]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.28-16.20.56:602][498]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.12.28-16.20.56:622][499]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.12.28-16.20.58:400][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-16.21.07:592][389]LogUObjectArray: Warning: Other object in slot
+[2019.12.28-16.21.07:598][389]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.28-16.21.09:382][389]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.784 s
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: 
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: Stack: 
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff904af5279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff904317fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff90432622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff91a5d6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff901d54dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff901d0e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff91b08d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff91b27c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff91b0d922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff91b0b5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff91b0a9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff9413f4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff9413e26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff9413f7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff9413dedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff990a563ed USER32.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff990a55de2 USER32.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff9413f88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff6fb4a6980 UE4Editor.exe!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff6fb4ba91c UE4Editor.exe!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff6fb4ba9fa UE4Editor.exe!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff6fb4cb92c UE4Editor.exe!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff6fb4ce60e UE4Editor.exe!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff98fca7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: [Callstack] 0x00007ff990c8ced1 ntdll.dll!UnknownFunction []
+[2019.12.28-16.21.09:382][389]LogOutputDevice: Error: 
+[2019.12.28-16.21.09:393][389]LogStats:                SubmitErrorReport -  0.000 s
